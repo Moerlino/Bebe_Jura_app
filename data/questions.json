@@ -1,0 +1,4897 @@
+[
+  {
+    "id": "eur1_001",
+    "gebiet": "Europarecht I",
+    "thema": "",
+    "typ": "multiple",
+    "quelle": {
+      "datei": "EUR I Komplett.pdf",
+      "seite_start": 1,
+      "seite_ende": 1
+    },
+    "frage": "Welche Aussage/n trifft/treffen auf die Rechtsnatur der Europäischen Union zu? (x aus 5) Die Europäische Union …",
+    "antworten": [
+      {
+        "id": "A",
+        "text": "ist nach der Lissabon-Entscheidung des Bundesverfassungsgerichts als ein „europäischer Bundesstaat“ konzipiert, da sie alle Voraussetzungen für die Staatlichkeit (Staatsgebiet, Staatsvolk, Staatsgewalt) erfüllt.",
+        "pages": [
+          1,
+          1
+        ],
+        "richtig": false
+      },
+      {
+        "id": "B",
+        "text": "ist eine supranationale Organisation ohne originäre Hoheitsgewalt (Kompetenz-Kompetenz).",
+        "pages": [
+          1
+        ],
+        "richtig": true
+      },
+      {
+        "id": "C",
+        "text": "ist ein Staatenbund, welcher zum Ziel hat, Homogenität der Lebensverhältnisse innerhalb des Unionsgebiets zu schaffen.",
+        "pages": [
+          1,
+          1
+        ],
+        "richtig": false
+      },
+      {
+        "id": "D",
+        "text": "ist als Staatenverbund zu verstehen, dessen Mitgliedstaaten souverän bleiben.",
+        "pages": [
+          1
+        ],
+        "richtig": true
+      },
+      {
+        "id": "E",
+        "text": "verfügt auch nach dem Vertrag von Lissabon nicht über eine eigene Rechtsfähigkeit.",
+        "pages": [
+          1
+        ],
+        "richtig": false
+      }
+    ],
+    "activeRecall": {
+      "frage": "Gib ohne Antwortoptionen die zutreffende(n) Aussage(n) zu folgender Frage wieder: Welche Aussage/n trifft/treffen auf die Rechtsnatur der Europäischen Union zu? Die Europäische Union …",
+      "musterantwort": "B: ist eine supranationale Organisation ohne originäre Hoheitsgewalt (Kompetenz-Kompetenz).; D: ist als Staatenverbund zu verstehen, dessen Mitgliedstaaten souverän bleiben."
+    },
+    "review": {
+      "status": "auto_extracted_full",
+      "hinweis": "Richtige Lösungen wurden aus Unterstreichungen abgeleitet; bitte stichprobenartig gegen PDF gegenprüfen."
+    }
+  },
+  {
+    "id": "eur1_002",
+    "gebiet": "Europarecht I",
+    "thema": "",
+    "typ": "multiple",
+    "quelle": {
+      "datei": "EUR I Komplett.pdf",
+      "seite_start": 1,
+      "seite_ende": 1
+    },
+    "frage": "Welche Aussage(n) trifft/treffen auf die Rechtsnatur der Europäischen Union zu?",
+    "antworten": [
+      {
+        "id": "A",
+        "text": "besitzt keine eigenständige Rechtsfähigkeit, sondern ist lediglich die Dachorganisation der Europäischen Gemeinschaften, der Gemeinsamen Außen- und Sicherheitspolitik (GASP) und der Polizeilichen und der Justiziellen Zusammenarbeit in Strafsachen (PJZS), welche als „Säulen der Europäischen Union“ bezeichnet werden.",
+        "pages": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "richtig": false
+      },
+      {
+        "id": "B",
+        "text": "wird durch das Bundesverfassungsgericht als „Staatenbund“ (Konföderation) bezeichnet.",
+        "pages": [
+          1
+        ],
+        "richtig": false
+      },
+      {
+        "id": "C",
+        "text": "ist deshalb kein Staat im Sinne der Drei-Elemente-Lehre nach Jellinek, weil es ihr an originärer Hoheitsgewalt fehlt.",
+        "pages": [
+          1,
+          1
+        ],
+        "richtig": true
+      },
+      {
+        "id": "D",
+        "text": "hat durch ihre Rechtsfähigkeit auch die Kompetenz erlangt, sich eigene Kompetenzen zu schaffen (Kompetenz-Kompetenz).",
+        "pages": [
+          1,
+          1
+        ],
+        "richtig": false
+      },
+      {
+        "id": "E",
+        "text": "ist eine rechtsfähige internationale Organisation im Sinne des Völkerrechts.",
+        "pages": [
+          1
+        ],
+        "richtig": true
+      }
+    ],
+    "activeRecall": {
+      "frage": "Beantworte ohne Antwortoptionen: Welche Aussage(n) trifft/treffen auf die Rechtsnatur der Europäischen Union zu?",
+      "musterantwort": "C: ist deshalb kein Staat im Sinne der Drei-Elemente-Lehre nach Jellinek, weil es ihr an originärer Hoheitsgewalt fehlt.; E: ist eine rechtsfähige internationale Organisation im Sinne des Völkerrechts."
+    },
+    "review": {
+      "status": "auto_extracted_full",
+      "hinweis": "Richtige Lösungen wurden aus Unterstreichungen abgeleitet; bitte stichprobenartig gegen PDF gegenprüfen."
+    }
+  },
+  {
+    "id": "eur1_003",
+    "gebiet": "Europarecht I",
+    "thema": "",
+    "typ": "single",
+    "quelle": {
+      "datei": "EUR I Komplett.pdf",
+      "seite_start": 1,
+      "seite_ende": 1
+    },
+    "frage": "Welche Aussage(n) trifft/treffen auf die Rechtsnatur der Europäischen Union zu?",
+    "antworten": [
+      {
+        "id": "A",
+        "text": "ist keine internationale Organisation im völkerrechtlichen Sinne.",
+        "pages": [
+          1
+        ],
+        "richtig": false
+      },
+      {
+        "id": "B",
+        "text": "besitzt keine eigenständige Rechtsfähigkeit, sondern ist lediglich die Dachorganisation der Europäischen Gemeinschaften, der Gemeinsamen Außen- und Sicherheitspolitik (GASP) und der Polizeilichen und der Justiziellen Zusammenarbeit in Strafsachen (P-JZS), welche als „Säulen der EU“ bezeichnet werden.",
+        "pages": [
+          1,
+          1,
+          1
+        ],
+        "richtig": false
+      },
+      {
+        "id": "C",
+        "text": "ist im Wesentlichen intergouvernemental organisiert.",
+        "pages": [
+          1
+        ],
+        "richtig": false
+      },
+      {
+        "id": "D",
+        "text": "hat durch ihre Rechtsfähigkeit auch die Kompetenz erlangt, sich eigene Kompetenzen zu schaffen (Kompetenz-Kompetenz).",
+        "pages": [
+          1,
+          1
+        ],
+        "richtig": false
+      },
+      {
+        "id": "E",
+        "text": "erhielt durch den Vertrag von Lissabon erstmals eine eigene Rechtspersönlichkeit.",
+        "pages": [
+          1
+        ],
+        "richtig": true
+      }
+    ],
+    "activeRecall": {
+      "frage": "Beantworte ohne Antwortoptionen: Welche Aussage(n) trifft/treffen auf die Rechtsnatur der Europäischen Union zu?",
+      "musterantwort": "E: erhielt durch den Vertrag von Lissabon erstmals eine eigene Rechtspersönlichkeit."
+    },
+    "review": {
+      "status": "auto_extracted_full",
+      "hinweis": "Richtige Lösungen wurden aus Unterstreichungen abgeleitet; bitte stichprobenartig gegen PDF gegenprüfen."
+    }
+  },
+  {
+    "id": "eur1_004",
+    "gebiet": "Europarecht I",
+    "thema": "",
+    "typ": "single",
+    "quelle": {
+      "datei": "EUR I Komplett.pdf",
+      "seite_start": 1,
+      "seite_ende": 1
+    },
+    "frage": "Was versteht man unter Supranationalität? (x aus 5)",
+    "antworten": [
+      {
+        "id": "A",
+        "text": "das völkerrechtliche Prinzip, nach welchem die Handlungsmöglichkeiten der Staaten nur durch positive Verbote beschränkt werden können",
+        "pages": [
+          1,
+          1
+        ],
+        "richtig": false
+      },
+      {
+        "id": "B",
+        "text": "die Fähigkeit internationaler Organisationen, Mitgliedstaaten ohne deren ausdrückliche Zustimmung zu jedem einzelnen Rechtsakt durch Mehrheitsentscheidungen unmittelbar binden zu können",
+        "pages": [
+          1,
+          1
+        ],
+        "richtig": true
+      },
+      {
+        "id": "C",
+        "text": "das völkerrechtliche Prinzip, nach welchem jede überstaatliche Entscheidung einer internationalen Organisation der positiven Zustimmung aller Mitgliedstaaten bedarf",
+        "pages": [
+          1,
+          1
+        ],
+        "richtig": false
+      },
+      {
+        "id": "D",
+        "text": "die Kooperation zwischen Mitgliedstaaten, ohne dass diese ihre Souveränität beschränken",
+        "pages": [
+          1
+        ],
+        "richtig": false
+      },
+      {
+        "id": "E",
+        "text": "das allgemeine Rechtsprinzip, nach welchem überstaatliches Recht nur dann wirksam wird, wenn die nationalen Rechtsordnungen aller Mitgliedstaaten dieses umsetzen",
+        "pages": [
+          1,
+          1
+        ],
+        "richtig": false
+      }
+    ],
+    "activeRecall": {
+      "frage": "Beantworte ohne Antwortoptionen: Was versteht man unter Supranationalität?",
+      "musterantwort": "B: die Fähigkeit internationaler Organisationen, Mitgliedstaaten ohne deren ausdrückliche Zustimmung zu jedem einzelnen Rechtsakt durch Mehrheitsentscheidungen unmittelbar binden zu können"
+    },
+    "review": {
+      "status": "auto_extracted_full",
+      "hinweis": "Richtige Lösungen wurden aus Unterstreichungen abgeleitet; bitte stichprobenartig gegen PDF gegenprüfen."
+    }
+  },
+  {
+    "id": "eur1_005",
+    "gebiet": "Europarecht I",
+    "thema": "",
+    "typ": "multiple",
+    "quelle": {
+      "datei": "EUR I Komplett.pdf",
+      "seite_start": 1,
+      "seite_ende": 2
+    },
+    "frage": "Was versteht man unter Supranationalität?",
+    "antworten": [
+      {
+        "id": "A",
+        "text": "das allgemeine Rechtsprinzip, nach welchem überstaatliches Recht nur dann wirksam wird, wenn die nationalen Rechtsordnungen aller Mitgliedstaaten dieses umsetzen",
+        "pages": [
+          1,
+          2
+        ],
+        "richtig": false
+      },
+      {
+        "id": "B",
+        "text": "die Fähigkeit der Europäischen Union, Recht zu setzen, das für die Mitgliedstaaten und/oder für deren Individuen ohne weiteren Umsetzungsakt unmittelbar verbindlich ist und mit Vorrang vor dem nationalen Recht anwendbar ist",
+        "pages": [
+          2,
+          2,
+          2
+        ],
+        "richtig": true
+      },
+      {
+        "id": "C",
+        "text": "die Fähigkeit internationaler Organisationen, Mitgliedstaaten, ohne deren ausdrückliche Zustimmung zu jedem einzelnen Rechtsakt durch Mehrheitsentscheidungen unmittelbar binden zu können",
+        "pages": [
+          2,
+          2
+        ],
+        "richtig": true
+      },
+      {
+        "id": "D",
+        "text": "das völkerrechtliche Prinzip, nach welchem die Handlungsmöglichkeiten der Staaten nur durch positive Verbote beschränkt werden können.",
+        "pages": [
+          2,
+          2
+        ],
+        "richtig": false
+      },
+      {
+        "id": "E",
+        "text": "das völkerrechtliche Prinzip, nach welchem jede überstaatliche Entscheidung einer internationalen Organisation der positiven Zustimmung aller Mitgliedstaaten bedarf.",
+        "pages": [
+          2,
+          2
+        ],
+        "richtig": false
+      }
+    ],
+    "activeRecall": {
+      "frage": "Beantworte ohne Antwortoptionen: Was versteht man unter Supranationalität?",
+      "musterantwort": "B: die Fähigkeit der Europäischen Union, Recht zu setzen, das für die Mitgliedstaaten und/oder für deren Individuen ohne weiteren Umsetzungsakt unmittelbar verbindlich ist und mit Vorrang vor dem nationalen Recht anwendbar ist; C: die Fähigkeit internationaler Organisationen, Mitgliedstaaten, ohne deren ausdrückliche Zustimmung zu jedem einzelnen Rechtsakt durch Mehrheitsentscheidungen unmittelbar binden zu können"
+    },
+    "review": {
+      "status": "auto_extracted_full",
+      "hinweis": "Richtige Lösungen wurden aus Unterstreichungen abgeleitet; bitte stichprobenartig gegen PDF gegenprüfen."
+    }
+  },
+  {
+    "id": "eur1_006",
+    "gebiet": "Europarecht I",
+    "thema": "",
+    "typ": "multiple",
+    "quelle": {
+      "datei": "EUR I Komplett.pdf",
+      "seite_start": 2,
+      "seite_ende": 2
+    },
+    "frage": "Was versteht man unter Supranationalität?",
+    "antworten": [
+      {
+        "id": "A",
+        "text": "das allgemeine Rechtsprinzip, nach welchem überstaatliches Recht nur dann wirksam wird, wenn die nationalen Rechtsordnungen aller Mitgliedstaaten dieses umsetzen",
+        "pages": [
+          2,
+          2
+        ],
+        "richtig": false
+      },
+      {
+        "id": "B",
+        "text": "das völkerrechtliche Prinzip, nach welchem jede überstaatliche Entscheidung einer internationalen Organisation der positiven Zustimmung aller Mitgliedstaaten bedarf",
+        "pages": [
+          2,
+          2
+        ],
+        "richtig": false
+      },
+      {
+        "id": "C",
+        "text": "die Fähigkeit der Europäischen Union, Recht zu setzen, das für die Mitgliedstaaten und/oder für deren Individuen ohne weiteren Umsetzungsakt unmittelbar verbindlich ist und mit Vorrang vor dem nationalen Recht anwendbar ist.",
+        "pages": [
+          2,
+          2,
+          2
+        ],
+        "richtig": true
+      },
+      {
+        "id": "D",
+        "text": "die Fähigkeit internationaler Organisationen, Mitgliedstaaten ohne deren ausdrückliche Zustimmung zu jedem einzelnen Rechtsakt durch Mehrheitsentscheidungen unmittelbar binden zu können",
+        "pages": [
+          2,
+          2
+        ],
+        "richtig": true
+      },
+      {
+        "id": "E",
+        "text": "das völkerrechtliche Prinzip, nach welchem die Handlungsmöglichkeiten der Staaten nur durch positive Verbote beschränkt werden können",
+        "pages": [
+          2,
+          2
+        ],
+        "richtig": false
+      }
+    ],
+    "activeRecall": {
+      "frage": "Beantworte ohne Antwortoptionen: Was versteht man unter Supranationalität?",
+      "musterantwort": "C: die Fähigkeit der Europäischen Union, Recht zu setzen, das für die Mitgliedstaaten und/oder für deren Individuen ohne weiteren Umsetzungsakt unmittelbar verbindlich ist und mit Vorrang vor dem nationalen Recht anwendbar ist.; D: die Fähigkeit internationaler Organisationen, Mitgliedstaaten ohne deren ausdrückliche Zustimmung zu jedem einzelnen Rechtsakt durch Mehrheitsentscheidungen unmittelbar binden zu können"
+    },
+    "review": {
+      "status": "auto_extracted_full",
+      "hinweis": "Richtige Lösungen wurden aus Unterstreichungen abgeleitet; bitte stichprobenartig gegen PDF gegenprüfen."
+    }
+  },
+  {
+    "id": "eur1_007",
+    "gebiet": "Europarecht I",
+    "thema": "",
+    "typ": "single",
+    "quelle": {
+      "datei": "EUR I Komplett.pdf",
+      "seite_start": 2,
+      "seite_ende": 2
+    },
+    "frage": "Welche(r) der nachfolgenden europäischen Verträge ist/sind mangels Ratifikation durch alle Mitgliedstaaten nicht in Kraft getreten? (x aus 5)",
+    "antworten": [
+      {
+        "id": "A",
+        "text": "Vertrag von Maastricht vom 7. Februar 1992",
+        "pages": [
+          2
+        ],
+        "richtig": false
+      },
+      {
+        "id": "B",
+        "text": "Vertrag über eine Verfassung für Europa vom 29. Oktober 2004",
+        "pages": [
+          2
+        ],
+        "richtig": true
+      },
+      {
+        "id": "C",
+        "text": "Vertrag von Amsterdam vom 2. Oktober 1997",
+        "pages": [
+          2
+        ],
+        "richtig": false
+      },
+      {
+        "id": "D",
+        "text": "Vertrag zur Einsetzung eines gemeinsamen Rates und einer gemeinsamen Kommission („Fusionsvertrag“) vom 8. April 1965",
+        "pages": [
+          2,
+          2
+        ],
+        "richtig": false
+      },
+      {
+        "id": "E",
+        "text": "Vertrag von Nizza vom 26. Februar 2001",
+        "pages": [
+          2
+        ],
+        "richtig": false
+      }
+    ],
+    "activeRecall": {
+      "frage": "Beantworte ohne Antwortoptionen: Welche(r) der nachfolgenden europäischen Verträge ist/sind mangels Ratifikation durch alle Mitgliedstaaten nicht in Kraft getreten?",
+      "musterantwort": "B: Vertrag über eine Verfassung für Europa vom 29. Oktober 2004"
+    },
+    "review": {
+      "status": "auto_extracted_full",
+      "hinweis": "Richtige Lösungen wurden aus Unterstreichungen abgeleitet; bitte stichprobenartig gegen PDF gegenprüfen."
+    }
+  },
+  {
+    "id": "eur1_008",
+    "gebiet": "Europarecht I",
+    "thema": "",
+    "typ": "single",
+    "quelle": {
+      "datei": "EUR I Komplett.pdf",
+      "seite_start": 2,
+      "seite_ende": 2
+    },
+    "frage": "Welche(s) der folgenden Szenarien ist/sind in Übereinstimmung mit den Unionsverträgen grundsätzlich möglich? (x aus 5)",
+    "antworten": [
+      {
+        "id": "A",
+        "text": "der Beitritt eines Staates, ohne eine Mitwirkung des Europäischen Parlaments am Beitrittsverfahren",
+        "pages": [
+          2
+        ],
+        "richtig": false
+      },
+      {
+        "id": "B",
+        "text": "der Beitritt eines Staates, wenn ein Mitglied des Rates gegen den Beitritt stimmt",
+        "pages": [
+          2
+        ],
+        "richtig": false
+      },
+      {
+        "id": "C",
+        "text": "der Ausschluss eines Mitgliedstaates aus der Europäischen Union, wenn ein Mitgliedstaat nicht mehr den demokratischen und rechtsstaatlichen Anforderungen gerecht wird, welche die Mitgliedschaft voraussetzt",
+        "pages": [
+          2,
+          2,
+          2
+        ],
+        "richtig": false
+      },
+      {
+        "id": "D",
+        "text": "Keines der genannten Szenarien wäre vertragskonform",
+        "pages": [
+          2
+        ],
+        "richtig": false
+      },
+      {
+        "id": "E",
+        "text": "der Austritt eines Staates aus der Europäischen Union, auf den ein Wiedereintritt folgt",
+        "pages": [
+          2
+        ],
+        "richtig": true
+      }
+    ],
+    "activeRecall": {
+      "frage": "Beantworte ohne Antwortoptionen: Welche(s) der folgenden Szenarien ist/sind in Übereinstimmung mit den Unionsverträgen grundsätzlich möglich?",
+      "musterantwort": "E: der Austritt eines Staates aus der Europäischen Union, auf den ein Wiedereintritt folgt"
+    },
+    "review": {
+      "status": "auto_extracted_full",
+      "hinweis": "Richtige Lösungen wurden aus Unterstreichungen abgeleitet; bitte stichprobenartig gegen PDF gegenprüfen."
+    }
+  },
+  {
+    "id": "eur1_009",
+    "gebiet": "Europarecht I",
+    "thema": "",
+    "typ": "multiple",
+    "quelle": {
+      "datei": "EUR I Komplett.pdf",
+      "seite_start": 2,
+      "seite_ende": 2
+    },
+    "frage": "Welche Aussage/n trifft/treffen auf die Charta der Grundrechte der Europäischen Union nicht zu? (x aus 5)",
+    "antworten": [
+      {
+        "id": "A",
+        "text": "Die Charta der Grundrechte erweitert die in den Verträgen festgelegten Zuständigkeiten der Union.",
+        "pages": [
+          2
+        ],
+        "richtig": true
+      },
+      {
+        "id": "B",
+        "text": "Die Charta der Grundrechte ist dem Primärrecht zuzuordnen.",
+        "pages": [
+          2
+        ],
+        "richtig": false
+      },
+      {
+        "id": "C",
+        "text": "Die Charta der Grundrechte und die Verträge (EUV/AEUV) sind rechtlich gleichrangig.",
+        "pages": [
+          2
+        ],
+        "richtig": false
+      },
+      {
+        "id": "D",
+        "text": "Der Anwendungsbereich der Charta der Grundrechte ist für die Mitgliedstaaten auf die Durchführung des Unionsrechts beschränkt.",
+        "pages": [
+          2,
+          2
+        ],
+        "richtig": false
+      },
+      {
+        "id": "E",
+        "text": "Die Charta der Grundrechte ist nicht unmittelbar in den Mitgliedstaaten anwendbar und wird daher erst durch die verbürgten Grundrechte innerhalb der Mitgliedstaaten effektuiert und konkretisiert.",
+        "pages": [
+          2,
+          2
+        ],
+        "richtig": true
+      }
+    ],
+    "activeRecall": {
+      "frage": "Beantworte ohne Antwortoptionen: Welche Aussage/n trifft/treffen auf die Charta der Grundrechte der Europäischen Union nicht zu?",
+      "musterantwort": "A: Die Charta der Grundrechte erweitert die in den Verträgen festgelegten Zuständigkeiten der Union.; E: Die Charta der Grundrechte ist nicht unmittelbar in den Mitgliedstaaten anwendbar und wird daher erst durch die verbürgten Grundrechte innerhalb der Mitgliedstaaten effektuiert und konkretisiert."
+    },
+    "review": {
+      "status": "auto_extracted_full",
+      "hinweis": "Richtige Lösungen wurden aus Unterstreichungen abgeleitet; bitte stichprobenartig gegen PDF gegenprüfen."
+    }
+  },
+  {
+    "id": "eur1_010",
+    "gebiet": "Europarecht I",
+    "thema": "",
+    "typ": "single",
+    "quelle": {
+      "datei": "EUR I Komplett.pdf",
+      "seite_start": 3,
+      "seite_ende": 3
+    },
+    "frage": "Worin unterscheiden sich der Rat der Europäischen Union und der Europäische Rat? (x aus 5)",
+    "antworten": [
+      {
+        "id": "A",
+        "text": "Der Rat der Europäischen Union trifft keine verbindlichen Entscheidungen, sondern hat lediglich beratende Funktion.",
+        "pages": [
+          3,
+          3
+        ],
+        "richtig": false
+      },
+      {
+        "id": "B",
+        "text": "Der Rat der Europäischen Union ist, anders als der Europäische Rat, kein Legislativorgan.",
+        "pages": [
+          3
+        ],
+        "richtig": false
+      },
+      {
+        "id": "C",
+        "text": "Rat der Europäischen Union ist lediglich eine andere Bezeichnung für den Europäischen Rat.",
+        "pages": [
+          3
+        ],
+        "richtig": false
+      },
+      {
+        "id": "D",
+        "text": "Der Europäische Rat, auch Europarat genannt, ist die führende Menschenrechtsorganisation Europas, die jedoch – anders als der Rat der Europäischen Union – nicht institutionell mit der Europäischen Union verbunden ist.",
+        "pages": [
+          3,
+          3,
+          3
+        ],
+        "richtig": false
+      },
+      {
+        "id": "E",
+        "text": "Der Europäische Rat besteht unter anderem aus Staatsoberhäuptern und Regierungschefs der einzelnen Mitgliedstaaten, der Rat der Europäischen Union hingegen aus je einem Vertreter auf Ministerebene.",
+        "pages": [
+          3,
+          3,
+          3
+        ],
+        "richtig": true
+      }
+    ],
+    "activeRecall": {
+      "frage": "Beantworte ohne Antwortoptionen: Worin unterscheiden sich der Rat der Europäischen Union und der Europäische Rat?",
+      "musterantwort": "E: Der Europäische Rat besteht unter anderem aus Staatsoberhäuptern und Regierungschefs der einzelnen Mitgliedstaaten, der Rat der Europäischen Union hingegen aus je einem Vertreter auf Ministerebene."
+    },
+    "review": {
+      "status": "auto_extracted_full",
+      "hinweis": "Richtige Lösungen wurden aus Unterstreichungen abgeleitet; bitte stichprobenartig gegen PDF gegenprüfen."
+    }
+  },
+  {
+    "id": "eur1_011",
+    "gebiet": "Europarecht I",
+    "thema": "",
+    "typ": "multiple",
+    "quelle": {
+      "datei": "EUR I Komplett.pdf",
+      "seite_start": 3,
+      "seite_ende": 3
+    },
+    "frage": "Welche Zuständigkeit(en) und Kompetenz(en) hat der Europäische Rat in Übereinstimmung mit den Verträgen der Europäischen Union?",
+    "antworten": [
+      {
+        "id": "A",
+        "text": "Kontrolle der Mitgliedstaaten bei der ordnungsgemäßen Anwendung von Unionsrecht",
+        "pages": [
+          3
+        ],
+        "richtig": false
+      },
+      {
+        "id": "B",
+        "text": "Festlegung politischer Zielvorstellungen und Prioritäten der Europäischen Union",
+        "pages": [
+          3
+        ],
+        "richtig": true
+      },
+      {
+        "id": "C",
+        "text": "Gesetzgebungskompetenz",
+        "pages": [
+          3
+        ],
+        "richtig": false
+      },
+      {
+        "id": "D",
+        "text": "Wahl des Kommissionspräsidenten",
+        "pages": [
+          3
+        ],
+        "richtig": false
+      },
+      {
+        "id": "E",
+        "text": "Festlegung von Leitlinien im Rahmen der Gemeinsamen Außen- und Sicherheitspolitik",
+        "pages": [
+          3
+        ],
+        "richtig": true
+      }
+    ],
+    "activeRecall": {
+      "frage": "Beantworte ohne Antwortoptionen: Welche Zuständigkeit(en) und Kompetenz(en) hat der Europäische Rat in Übereinstimmung mit den Verträgen der Europäischen Union?",
+      "musterantwort": "B: Festlegung politischer Zielvorstellungen und Prioritäten der Europäischen Union; E: Festlegung von Leitlinien im Rahmen der Gemeinsamen Außen- und Sicherheitspolitik"
+    },
+    "review": {
+      "status": "auto_extracted_full",
+      "hinweis": "Richtige Lösungen wurden aus Unterstreichungen abgeleitet; bitte stichprobenartig gegen PDF gegenprüfen."
+    }
+  },
+  {
+    "id": "eur1_012",
+    "gebiet": "Europarecht I",
+    "thema": "",
+    "typ": "multiple",
+    "quelle": {
+      "datei": "EUR I Komplett.pdf",
+      "seite_start": 3,
+      "seite_ende": 3
+    },
+    "frage": "Welche Zuständigkeit(en) und Kompetenz(en) hat der Rat der Europäischen Union?",
+    "antworten": [
+      {
+        "id": "A",
+        "text": "außenpolitische Vertretung der Europäischen Union",
+        "pages": [
+          3
+        ],
+        "richtig": false
+      },
+      {
+        "id": "B",
+        "text": "Keine der genannten Aussagen trifft auf den Rat der Europäischen Union zu.",
+        "pages": [
+          3
+        ],
+        "richtig": false
+      },
+      {
+        "id": "C",
+        "text": "Festlegung politischer Zielvorstellungen und Prioritäten der Europäischen Union",
+        "pages": [
+          3
+        ],
+        "richtig": false
+      },
+      {
+        "id": "D",
+        "text": "Haushaltsbefugnisse",
+        "pages": [
+          3
+        ],
+        "richtig": true
+      },
+      {
+        "id": "E",
+        "text": "Koordinierung der politischen Maßnahmen der Europäischen Union",
+        "pages": [
+          3
+        ],
+        "richtig": true
+      }
+    ],
+    "activeRecall": {
+      "frage": "Beantworte ohne Antwortoptionen: Welche Zuständigkeit(en) und Kompetenz(en) hat der Rat der Europäischen Union?",
+      "musterantwort": "D: Haushaltsbefugnisse; E: Koordinierung der politischen Maßnahmen der Europäischen Union"
+    },
+    "review": {
+      "status": "auto_extracted_full",
+      "hinweis": "Richtige Lösungen wurden aus Unterstreichungen abgeleitet; bitte stichprobenartig gegen PDF gegenprüfen."
+    }
+  },
+  {
+    "id": "eur1_013",
+    "gebiet": "Europarecht I",
+    "thema": "",
+    "typ": "multiple",
+    "quelle": {
+      "datei": "EUR I Komplett.pdf",
+      "seite_start": 3,
+      "seite_ende": 3
+    },
+    "frage": "Welche Aufgaben und Kompetenzen hat die Kommission? (x aus 5)",
+    "antworten": [
+      {
+        "id": "A",
+        "text": "Verhandlungen im Rahmen internationaler Beziehungen der Union im Verhältnis zu anderen internationalen Organisationen und Drittstaaten",
+        "pages": [
+          3,
+          3
+        ],
+        "richtig": true
+      },
+      {
+        "id": "B",
+        "text": "Durchführung des Vorverfahrens im Falle eines Vertragsverletzungsverfahrens vor dem EuGH",
+        "pages": [
+          3
+        ],
+        "richtig": true
+      },
+      {
+        "id": "C",
+        "text": "Initiativmonopol für Gesetzgebungsakte",
+        "pages": [
+          3
+        ],
+        "richtig": true
+      },
+      {
+        "id": "D",
+        "text": "Vertretung der Union vor internationalen Gerichten und Streitbeilegungsmechanismen",
+        "pages": [
+          3
+        ],
+        "richtig": true
+      },
+      {
+        "id": "E",
+        "text": "Überwachung der Anwendung des Unionsrechts durch die Mitgliedstaaten",
+        "pages": [
+          3
+        ],
+        "richtig": true
+      }
+    ],
+    "activeRecall": {
+      "frage": "Beantworte ohne Antwortoptionen: Welche Aufgaben und Kompetenzen hat die Kommission?",
+      "musterantwort": "A: Verhandlungen im Rahmen internationaler Beziehungen der Union im Verhältnis zu anderen internationalen Organisationen und Drittstaaten; B: Durchführung des Vorverfahrens im Falle eines Vertragsverletzungsverfahrens vor dem EuGH; C: Initiativmonopol für Gesetzgebungsakte; D: Vertretung der Union vor internationalen Gerichten und Streitbeilegungsmechanismen; E: Überwachung der Anwendung des Unionsrechts durch die Mitgliedstaaten"
+    },
+    "review": {
+      "status": "auto_extracted_full",
+      "hinweis": "Richtige Lösungen wurden aus Unterstreichungen abgeleitet; bitte stichprobenartig gegen PDF gegenprüfen."
+    }
+  },
+  {
+    "id": "eur1_014",
+    "gebiet": "Europarecht I",
+    "thema": "",
+    "typ": "multiple",
+    "quelle": {
+      "datei": "EUR I Komplett.pdf",
+      "seite_start": 3,
+      "seite_ende": 3
+    },
+    "frage": "Welche Aussage/n trifft/treffen auf die Anwendung des Unionsrechts durch mitgliedstaatliche Gerichte zu? (x aus 5)",
+    "antworten": [
+      {
+        "id": "A",
+        "text": "Im Wege einer Verfassungsbeschwerde kann sich ein deutscher Staatsangehöriger an das Bundesverfassungsgericht wenden, wenn es die Bundesrepublik Deutschland versäumt, gegen eine evidente Kompetenzüberschreitung der Europäischen Union vorzugehen.",
+        "pages": [
+          3,
+          3,
+          3
+        ],
+        "richtig": true
+      },
+      {
+        "id": "B",
+        "text": "Die Identitätskontrolle durchbricht den Anwendungsvorrang des Unionsrechts.",
+        "pages": [
+          3
+        ],
+        "richtig": true
+      },
+      {
+        "id": "C",
+        "text": "Im Rahmen der Utra-Vires-Kontrolle prüft das Bundesverfassungsgericht, ob die Grundsätze aus Art. 23 Abs. 1 S. 3 GG i.V.m. Art. 79 Abs. 3 GG durch eine Maßnahme der Europäischen Union berührt werden.",
+        "pages": [
+          3,
+          3,
+          3
+        ],
+        "richtig": false
+      },
+      {
+        "id": "D",
+        "text": "Die Ultra-Vires-Kontrolle wird für den Bereich der bereits übertragenen Kompetenzen angewendet. Die Identitätskontrolle hingegen beschränkt sich auf den Bereich der übertragbaren Kompetenzen.",
+        "pages": [
+          3,
+          3
+        ],
+        "richtig": true
+      },
+      {
+        "id": "E",
+        "text": "Ein Ultra-Vires-Akt liegt unter anderem nur dann vor, wenn das kompetenzwidrige Handeln der Europäischen Union für die Kompetenzverteilung zwischen Union und Mitgliedstaaten von struktureller Bedeutung ist.",
+        "pages": [
+          3,
+          3,
+          3
+        ],
+        "richtig": true
+      }
+    ],
+    "activeRecall": {
+      "frage": "Beantworte ohne Antwortoptionen: Welche Aussage/n trifft/treffen auf die Anwendung des Unionsrechts durch mitgliedstaatliche Gerichte zu?",
+      "musterantwort": "A: Im Wege einer Verfassungsbeschwerde kann sich ein deutscher Staatsangehöriger an das Bundesverfassungsgericht wenden, wenn es die Bundesrepublik Deutschland versäumt, gegen eine evidente Kompetenzüberschreitung der Europäischen Union vorzugehen.; B: Die Identitätskontrolle durchbricht den Anwendungsvorrang des Unionsrechts.; D: Die Ultra-Vires-Kontrolle wird für den Bereich der bereits übertragenen Kompetenzen angewendet. Die Identitätskontrolle hingegen beschränkt sich auf den Bereich der übertragbaren Kompetenzen.; E: Ein Ultra-Vires-Akt liegt unter anderem nur dann vor, wenn das kompetenzwidrige Handeln der Europäischen Union für die Kompetenzverteilung zwischen Union und Mitgliedstaaten von struktureller Bedeutung ist."
+    },
+    "review": {
+      "status": "auto_extracted_full",
+      "hinweis": "Richtige Lösungen wurden aus Unterstreichungen abgeleitet; bitte stichprobenartig gegen PDF gegenprüfen."
+    }
+  },
+  {
+    "id": "eur1_015",
+    "gebiet": "Europarecht I",
+    "thema": "",
+    "typ": "multiple",
+    "quelle": {
+      "datei": "EUR I Komplett.pdf",
+      "seite_start": 3,
+      "seite_ende": 4
+    },
+    "frage": "Welche Aussage(n) trifft/treffen auf die Anwendung des Unionsrechts durch mitgliedstaatliche Gerichte zu?",
+    "antworten": [
+      {
+        "id": "A",
+        "text": "Nationale Gerichte können unionsrechtliche Normen für ungültig erklären.",
+        "pages": [
+          3
+        ],
+        "richtig": false
+      },
+      {
+        "id": "B",
+        "text": "Mitgliedstaatliche Gerichte sind auch zur unionsrechtskonformen Rechtsfortbildung nationalen Rechts (unionsrechtskonforme Analogie oder Reduktion) befugt.",
+        "pages": [
+          3,
+          4
+        ],
+        "richtig": true
+      },
+      {
+        "id": "C",
+        "text": "Lässt eine Vorschrift des mitgliedstaatlichen Rechts mehrere Deutungen zu, haben die mitgliedstaatlichen Gerichte immer diejenige Auslegung zu wählen, die dem Europäischen Unionsrecht entspricht.",
+        "pages": [
+          4,
+          4,
+          4
+        ],
+        "richtig": true
+      },
+      {
+        "id": "D",
+        "text": "Kann eine nationale Bestimmung im Kollisionsfall nicht unionsrechtskonform ausgelegt werden, ist sie in diesem Fall unanwendbar.",
+        "pages": [
+          4,
+          4
+        ],
+        "richtig": true
+      },
+      {
+        "id": "E",
+        "text": "Ausschließlich Verfassungsgerichte eines Mitgliedstaats können im Rahmen ihrer Kontrollvorbehalte unionsrechtliche Normen für ungültig erklären.",
+        "pages": [
+          4,
+          4
+        ],
+        "richtig": false
+      }
+    ],
+    "activeRecall": {
+      "frage": "Beantworte ohne Antwortoptionen: Welche Aussage(n) trifft/treffen auf die Anwendung des Unionsrechts durch mitgliedstaatliche Gerichte zu?",
+      "musterantwort": "B: Mitgliedstaatliche Gerichte sind auch zur unionsrechtskonformen Rechtsfortbildung nationalen Rechts (unionsrechtskonforme Analogie oder Reduktion) befugt.; C: Lässt eine Vorschrift des mitgliedstaatlichen Rechts mehrere Deutungen zu, haben die mitgliedstaatlichen Gerichte immer diejenige Auslegung zu wählen, die dem Europäischen Unionsrecht entspricht.; D: Kann eine nationale Bestimmung im Kollisionsfall nicht unionsrechtskonform ausgelegt werden, ist sie in diesem Fall unanwendbar."
+    },
+    "review": {
+      "status": "auto_extracted_full",
+      "hinweis": "Richtige Lösungen wurden aus Unterstreichungen abgeleitet; bitte stichprobenartig gegen PDF gegenprüfen."
+    }
+  },
+  {
+    "id": "eur1_016",
+    "gebiet": "Europarecht I",
+    "thema": "",
+    "typ": "multiple",
+    "quelle": {
+      "datei": "EUR I Komplett.pdf",
+      "seite_start": 4,
+      "seite_ende": 4
+    },
+    "frage": "Welche Aussage/n trifft/treffen auf die Kontrollvorbehalte des Bundesverfassungsgerichts nicht zu? (x aus 5)",
+    "antworten": [
+      {
+        "id": "A",
+        "text": "Das Bundesverfassungsgericht ist verpflichtet, ein Vorabentscheidungsverfahren nach Art. 267 AEUV zu veranlassen, bevor es einen Akt der Europäischen Union für unvereinbar mit dem Grundgesetz erklärt.",
+        "pages": [
+          4,
+          4,
+          4
+        ],
+        "richtig": false
+      },
+      {
+        "id": "B",
+        "text": "Das Bundesverfassungsgericht geht davon aus, dass der Grundrechtsschutz der Europäischen Union mit dem nationalen Grundrechtsschutz im Wesentlichen übereinstimmt.",
+        "pages": [
+          4,
+          4
+        ],
+        "richtig": false
+      },
+      {
+        "id": "C",
+        "text": "Die „Brückentheorie“ des Bundesverfassungsgerichts besagt, dass Unionsakte, die nicht mehr von den innerstaatlichen Zustimmungsgesetzen zu den Unionsverträgen gedeckt sind, auch nicht mehr von der „Brücke“ des Art. 23 Abs. 1 S. 2 GG getragen werden und daher in Deutschland keine rechtliche Wirkung entfalten.",
+        "pages": [
+          4,
+          4,
+          4,
+          4
+        ],
+        "richtig": false
+      },
+      {
+        "id": "D",
+        "text": "Auch Fachgerichte können evident verfassungswidrige Hoheitsakte der Union für nicht anwendbar erklären, bevor es zur Kontrolle durch das Bundesverfassungsgerichts kommt. Dies ergibt sich aus Art. 20 Abs. 3 GG.",
+        "pages": [
+          4,
+          4,
+          4
+        ],
+        "richtig": true
+      },
+      {
+        "id": "E",
+        "text": "Akte der Europäischen Union, die gegen die Grundrechte verstoßen, erklärt das Bundesverfassungsgericht für nichtig.",
+        "pages": [
+          4,
+          4
+        ],
+        "richtig": true
+      }
+    ],
+    "activeRecall": {
+      "frage": "Beantworte ohne Antwortoptionen: Welche Aussage/n trifft/treffen auf die Kontrollvorbehalte des Bundesverfassungsgerichts nicht zu?",
+      "musterantwort": "D: Auch Fachgerichte können evident verfassungswidrige Hoheitsakte der Union für nicht anwendbar erklären, bevor es zur Kontrolle durch das Bundesverfassungsgerichts kommt. Dies ergibt sich aus Art. 20 Abs. 3 GG.; E: Akte der Europäischen Union, die gegen die Grundrechte verstoßen, erklärt das Bundesverfassungsgericht für nichtig."
+    },
+    "review": {
+      "status": "auto_extracted_full",
+      "hinweis": "Richtige Lösungen wurden aus Unterstreichungen abgeleitet; bitte stichprobenartig gegen PDF gegenprüfen."
+    }
+  },
+  {
+    "id": "eur1_017",
+    "gebiet": "Europarecht I",
+    "thema": "",
+    "typ": "multiple",
+    "quelle": {
+      "datei": "EUR I Komplett.pdf",
+      "seite_start": 4,
+      "seite_ende": 4
+    },
+    "frage": "Welche Aussage(n) trifft/treffen auf die Kontrollvorbehalte des Bundesverfassungsgerichts zu?",
+    "antworten": [
+      {
+        "id": "A",
+        "text": "Die Identitätskontrolle wird für den Bereich der übertragbaren Kompetenzen angewendet. Die Ultra- Vires-Kontrolle hingegen beschränkt sich auf den Bereich der bereits übertragenen Kompetenzen.",
+        "pages": [
+          4,
+          4
+        ],
+        "richtig": true
+      },
+      {
+        "id": "B",
+        "text": "Ein Ultra-Vires-Akt im Sinne der Rechtsprechung des Bundesverfassungsgerichts liegt unter anderem nur dann vor, wenn das kompetenzwidrige Handeln der Europäischen Union für die Kompetenzverteilung zwischen Union und Mitgliedstaaten von struktureller Bedeutung ist.",
+        "pages": [
+          4,
+          4,
+          4
+        ],
+        "richtig": true
+      },
+      {
+        "id": "C",
+        "text": "Im Wege einer Verfassungsbeschwerde kann sich ein deutscher Staatsangehöriger an das Bundesverfassungsgericht wenden, wenn es die Bundesrepublik Deutschland versäumt, gegen eine evidente Kompetenzüberschreitung der Europäischen Union vorzugehen.",
+        "pages": [
+          4,
+          4,
+          4
+        ],
+        "richtig": true
+      },
+      {
+        "id": "D",
+        "text": "Das Bundesverfassungsgericht ist verpflichtet, ein Vorabentscheidungsverfahren gemäß Art. 267 AEUV zu veranlassen, bevor es einen Akt der Europäischen Union unvereinbar mit dem Grundgesetz erklärt.",
+        "pages": [
+          4,
+          4,
+          4
+        ],
+        "richtig": true
+      },
+      {
+        "id": "E",
+        "text": "Im Rahmen der Grundrechtskontrolle gemäß der Solange-Rechtsprechung prüft das Bundesverfassungsgericht, ob die Grundsätze aus Art. 23 Abs. 1 S. 3 GG i.V.m. Art. 79 Abs. 3 GG durch eine Maßnahme der Europäischen Union berührt werden.",
+        "pages": [
+          4,
+          4,
+          4
+        ],
+        "richtig": false
+      }
+    ],
+    "activeRecall": {
+      "frage": "Beantworte ohne Antwortoptionen: Welche Aussage(n) trifft/treffen auf die Kontrollvorbehalte des Bundesverfassungsgerichts zu?",
+      "musterantwort": "A: Die Identitätskontrolle wird für den Bereich der übertragbaren Kompetenzen angewendet. Die Ultra- Vires-Kontrolle hingegen beschränkt sich auf den Bereich der bereits übertragenen Kompetenzen.; B: Ein Ultra-Vires-Akt im Sinne der Rechtsprechung des Bundesverfassungsgerichts liegt unter anderem nur dann vor, wenn das kompetenzwidrige Handeln der Europäischen Union für die Kompetenzverteilung zwischen Union und Mitgliedstaaten von struktureller Bedeutung ist.; C: Im Wege einer Verfassungsbeschwerde kann sich ein deutscher Staatsangehöriger an das Bundesverfassungsgericht wenden, wenn es die Bundesrepublik Deutschland versäumt, gegen eine evidente Kompetenzüberschreitung der Europäischen Union vorzugehen.; D: Das Bundesverfassungsgericht ist verpflichtet, ein Vorabentscheidungsverfahren gemäß Art. 267 AEUV zu veranlassen, bevor es einen Akt der Europäischen Union unvereinbar mit dem Grundgesetz erklärt."
+    },
+    "review": {
+      "status": "auto_extracted_full",
+      "hinweis": "Richtige Lösungen wurden aus Unterstreichungen abgeleitet; bitte stichprobenartig gegen PDF gegenprüfen."
+    }
+  },
+  {
+    "id": "eur1_018",
+    "gebiet": "Europarecht I",
+    "thema": "",
+    "typ": "multiple",
+    "quelle": {
+      "datei": "EUR I Komplett.pdf",
+      "seite_start": 4,
+      "seite_ende": 4
+    },
+    "frage": "Welche Aussage(n) trifft/treffen auf die Kontrollvorbehalte des Bundesverfassungsgerichts zu?",
+    "antworten": [
+      {
+        "id": "A",
+        "text": "Die Identitätskontrolle durchbricht nicht den Anwendungsvorrang des Unionsrechts.",
+        "pages": [
+          4
+        ],
+        "richtig": false
+      },
+      {
+        "id": "B",
+        "text": "Die Ultra-Vires-Kontrolle wird für den Bereich der übertragbaren Kompetenzen angewendet. Die Identitätskontrolle hingegen beschränkt sich auf den Bereich der bereits übertragenen Kompetenzen.",
+        "pages": [
+          4,
+          4
+        ],
+        "richtig": false
+      },
+      {
+        "id": "C",
+        "text": "Ein Ultra-Vires-Akt im Sinne der Rechtsprechung des Bundesverfassungsgerichts liegt unter anderem nur dann vor, wenn das kompetenzwidrige Handeln der Europäischen Union für die Kompetenzverteilung zwischen Union und Mitgliedstaaten von struktureller Bedeutung ist.",
+        "pages": [
+          4,
+          4,
+          4
+        ],
+        "richtig": true
+      },
+      {
+        "id": "D",
+        "text": "Im Wege einer Verfassungsbeschwerde kann sich ein deutscher Staatsangehöriger an das Bundesverfassungsgericht wenden, wenn es die Bundesrepublik Deutschland versäumt, gegen eine evidente Kompetenzüberschreitung der Europäischen Union vorzugehen.",
+        "pages": [
+          4,
+          4,
+          4
+        ],
+        "richtig": true
+      },
+      {
+        "id": "E",
+        "text": "Im Rahmen der Ultra-Vires-Kontrolle prüft das Bundesverfassungsgericht, ob die Grundsätze aus Art. 23 Abs. 1 S. 3 GG i.V.m. Art. 79 Abs. 3 GG durch eine Maßnahme der Europäischen Union berührt werden.",
+        "pages": [
+          4,
+          4,
+          4
+        ],
+        "richtig": false
+      }
+    ],
+    "activeRecall": {
+      "frage": "Beantworte ohne Antwortoptionen: Welche Aussage(n) trifft/treffen auf die Kontrollvorbehalte des Bundesverfassungsgerichts zu?",
+      "musterantwort": "C: Ein Ultra-Vires-Akt im Sinne der Rechtsprechung des Bundesverfassungsgerichts liegt unter anderem nur dann vor, wenn das kompetenzwidrige Handeln der Europäischen Union für die Kompetenzverteilung zwischen Union und Mitgliedstaaten von struktureller Bedeutung ist.; D: Im Wege einer Verfassungsbeschwerde kann sich ein deutscher Staatsangehöriger an das Bundesverfassungsgericht wenden, wenn es die Bundesrepublik Deutschland versäumt, gegen eine evidente Kompetenzüberschreitung der Europäischen Union vorzugehen."
+    },
+    "review": {
+      "status": "auto_extracted_full",
+      "hinweis": "Richtige Lösungen wurden aus Unterstreichungen abgeleitet; bitte stichprobenartig gegen PDF gegenprüfen."
+    }
+  },
+  {
+    "id": "eur1_019",
+    "gebiet": "Europarecht I",
+    "thema": "",
+    "typ": "single",
+    "quelle": {
+      "datei": "EUR I Komplett.pdf",
+      "seite_start": 5,
+      "seite_ende": 5
+    },
+    "frage": "Mit welcher Leitentscheidung hat das BVerfG erstmals entschieden, dass der Grundrechtsschutz durch den EuGH im Wesentlichen mit dem Grundrechtsschutz des Grundgesetzes übereinstimmt und es daher keine Überprüfung von Gemeinschafts- bzw. heute Unionsrechtsakten am Maßstab der Grundrechte des Grundgesetzes vornehmen wird, es sei denn der europäische Grundrechtsschutz sinke unter denjenigen des Grundgesetzes ab? (x aus 5)",
+    "antworten": [
+      {
+        "id": "A",
+        "text": "Lissabon-Urteil vom 10. Juni 2009 (BVerfGE 123, 267 ff.)",
+        "pages": [
+          5
+        ],
+        "richtig": false
+      },
+      {
+        "id": "B",
+        "text": "Solange II-Beschluss vom 22. Oktober 1986 (BVerfGE 73, 339 ff.)",
+        "pages": [
+          5
+        ],
+        "richtig": true
+      },
+      {
+        "id": "C",
+        "text": "Solange I-Beschluss vom 29. Mai 1974 (BVerfGE 37, 271 ff.)",
+        "pages": [
+          5
+        ],
+        "richtig": false
+      },
+      {
+        "id": "D",
+        "text": "Bananenmarkt-Beschluss vom 7. Juni 2000 (BVerfGE 102, 147 ff.)",
+        "pages": [
+          5
+        ],
+        "richtig": false
+      },
+      {
+        "id": "E",
+        "text": "Honeywell-Beschluss vom 6. Juli 2010 (BVerfGE 126, 286 ff.)",
+        "pages": [
+          5
+        ],
+        "richtig": false
+      }
+    ],
+    "activeRecall": {
+      "frage": "Beantworte ohne Antwortoptionen: Mit welcher Leitentscheidung hat das BVerfG erstmals entschieden, dass der Grundrechtsschutz durch den EuGH im Wesentlichen mit dem Grundrechtsschutz des Grundgesetzes übereinstimmt und es daher keine Überprüfung von Gemeinschafts- bzw. heute Unionsrechtsakten am Maßstab der Grundrechte des Grundgesetzes vornehmen wird, es sei denn der europäische Grundrechtsschutz sinke unter denjenigen des Grundgesetzes ab?",
+      "musterantwort": "B: Solange II-Beschluss vom 22. Oktober 1986 (BVerfGE 73, 339 ff.)"
+    },
+    "review": {
+      "status": "auto_extracted_full",
+      "hinweis": "Richtige Lösungen wurden aus Unterstreichungen abgeleitet; bitte stichprobenartig gegen PDF gegenprüfen."
+    }
+  },
+  {
+    "id": "eur1_020",
+    "gebiet": "Europarecht I",
+    "thema": "",
+    "typ": "single",
+    "quelle": {
+      "datei": "EUR I Komplett.pdf",
+      "seite_start": 5,
+      "seite_ende": 5
+    },
+    "frage": "Welche Aussage/n trifft/treffen auf die Kompetenzverteilung zwischen der Europäischen Union und den Mitgliedstaaten zu? (x aus 5)",
+    "antworten": [
+      {
+        "id": "A",
+        "text": "Die Kompetenzen sind im AEUV nach ausschließlichen, geteilten, koordinierenden und unterstützenden Kompetenzen gegliedert.",
+        "pages": [
+          5,
+          5
+        ],
+        "richtig": true
+      },
+      {
+        "id": "B",
+        "text": "Der AEUV unterscheidet zwischen ausschließlichen und konkurrierenden Kompetenzen.",
+        "pages": [
+          5
+        ],
+        "richtig": false
+      },
+      {
+        "id": "C",
+        "text": "Die Europäische Union hat eine ausschließliche Kompetenz auf dem Gebiet des Binnenmarktes.",
+        "pages": [
+          5
+        ],
+        "richtig": false
+      },
+      {
+        "id": "D",
+        "text": "Die Europäische Union hat keine ausschließliche Kompetenz auf dem Gebiet der gemeinsamen Handelspolitik.",
+        "pages": [
+          5,
+          5
+        ],
+        "richtig": false
+      },
+      {
+        "id": "E",
+        "text": "Der AEUV enumeriert alle an die Europäische Union übertragenen Kompetenzen.",
+        "pages": [
+          5
+        ],
+        "richtig": false
+      }
+    ],
+    "activeRecall": {
+      "frage": "Beantworte ohne Antwortoptionen: Welche Aussage/n trifft/treffen auf die Kompetenzverteilung zwischen der Europäischen Union und den Mitgliedstaaten zu?",
+      "musterantwort": "A: Die Kompetenzen sind im AEUV nach ausschließlichen, geteilten, koordinierenden und unterstützenden Kompetenzen gegliedert."
+    },
+    "review": {
+      "status": "auto_extracted_full",
+      "hinweis": "Richtige Lösungen wurden aus Unterstreichungen abgeleitet; bitte stichprobenartig gegen PDF gegenprüfen."
+    }
+  },
+  {
+    "id": "eur1_021",
+    "gebiet": "Europarecht I",
+    "thema": "",
+    "typ": "multiple",
+    "quelle": {
+      "datei": "EUR I Komplett.pdf",
+      "seite_start": 5,
+      "seite_ende": 5
+    },
+    "frage": "Welche Aussage/n trifft/treffen auf das Verhältnis zwischen nationalem Recht und Unionsrecht zu? (x aus 5)",
+    "antworten": [
+      {
+        "id": "A",
+        "text": "Kollidiert das Unionsrecht mit einem einfachen nationalen Gesetz, so kann das nationale Gesetz Vorrang haben, wenn es sich bei dem Gesetz um eine lex specialis oder eine lex posterior handelt.",
+        "pages": [
+          5,
+          5
+        ],
+        "richtig": false
+      },
+      {
+        "id": "B",
+        "text": "Das Unionsrecht hat Geltungsvorrang gegenüber dem nationalen Recht.",
+        "pages": [
+          5
+        ],
+        "richtig": false
+      },
+      {
+        "id": "C",
+        "text": "Kollidiert das Unionsrecht mit dem nationalen Recht auf dem Gebiet einer geteilten Kompetenz, ist das nationale Recht gemäß dem Subsidiaritätsprinzip vorrangig anzuwenden.",
+        "pages": [
+          5,
+          5
+        ],
+        "richtig": false
+      },
+      {
+        "id": "D",
+        "text": "In seiner Grundsatzentscheidung Costa/ENEL statuierte der EuGH, dass der EWG-Vertrag eine eigene Rechtsordnung darstelle, die wiederum in die Rechtsordnungen der Mitgliedstaaten aufgenommen wurde und damit von den nationalen Gerichten auch anzuwenden sei.",
+        "pages": [
+          5,
+          5,
+          5
+        ],
+        "richtig": true
+      },
+      {
+        "id": "E",
+        "text": "Kommt es zu einer Kollision zwischen einem Sekundärrechtsakt, z.B. einer Richtlinie und nationalem Verfassungsrecht, so gehen sowohl der Europäische Gerichtshof als auch das Bundesverfassungsgericht von einem Anwendungsvorrang des Sekundärrechtsaktes aus.",
+        "pages": [
+          5,
+          5,
+          5
+        ],
+        "richtig": true
+      }
+    ],
+    "activeRecall": {
+      "frage": "Beantworte ohne Antwortoptionen: Welche Aussage/n trifft/treffen auf das Verhältnis zwischen nationalem Recht und Unionsrecht zu?",
+      "musterantwort": "D: In seiner Grundsatzentscheidung Costa/ENEL statuierte der EuGH, dass der EWG-Vertrag eine eigene Rechtsordnung darstelle, die wiederum in die Rechtsordnungen der Mitgliedstaaten aufgenommen wurde und damit von den nationalen Gerichten auch anzuwenden sei.; E: Kommt es zu einer Kollision zwischen einem Sekundärrechtsakt, z.B. einer Richtlinie und nationalem Verfassungsrecht, so gehen sowohl der Europäische Gerichtshof als auch das Bundesverfassungsgericht von einem Anwendungsvorrang des Sekundärrechtsaktes aus."
+    },
+    "review": {
+      "status": "auto_extracted_full",
+      "hinweis": "Richtige Lösungen wurden aus Unterstreichungen abgeleitet; bitte stichprobenartig gegen PDF gegenprüfen."
+    }
+  },
+  {
+    "id": "eur1_022",
+    "gebiet": "Europarecht I",
+    "thema": "",
+    "typ": "single",
+    "quelle": {
+      "datei": "EUR I Komplett.pdf",
+      "seite_start": 5,
+      "seite_ende": 5
+    },
+    "frage": "Welche Aussage(n) trifft/treffen auf das Verhältnis zwischen nationalem Recht und Europäischem Unionsrecht zu?",
+    "antworten": [
+      {
+        "id": "A",
+        "text": "Eine nationale Norm, die dem Unionsrecht widerspricht, ist nichtig.",
+        "pages": [
+          5
+        ],
+        "richtig": false
+      },
+      {
+        "id": "B",
+        "text": "Nationale Grundrechte haben nach Auffassung des Bundesverfassungsgerichts Anwendungsvorrang gegenüber dem Unionsrecht, da der Grundrechtsschutz auf Unionsebene im Vergleich zum nationalen Grundrechtsschutz defizitär ist.",
+        "pages": [
+          5,
+          5,
+          5
+        ],
+        "richtig": false
+      },
+      {
+        "id": "C",
+        "text": "In der Bundesrepublik Deutschland hat das Europäische Unionsrecht gemäß Art. 23 Abs. 1 GG Verfassungsrang.",
+        "pages": [
+          5,
+          5
+        ],
+        "richtig": false
+      },
+      {
+        "id": "D",
+        "text": "Kommt es zu einer Kollision zwischen einem Sekundärrechtsakt der Europäischen Union, z.B. einer Richtlinie, und nationalem Verfassungsrecht, so gehen sowohl der Europäische Gerichtshof als auch das Bundesverfassungsgericht grundsätzlich von einem Anwendungsvorrang des Sekundärrechtsaktes aus.",
+        "pages": [
+          5,
+          5,
+          5,
+          5
+        ],
+        "richtig": true
+      },
+      {
+        "id": "E",
+        "text": "Aus Sicht des Europäischen Gerichtshofs hat das Unionsrecht Geltungsvorrang gegenüber nationalem Recht der Mitgliedstaaten.",
+        "pages": [
+          5,
+          5
+        ],
+        "richtig": false
+      }
+    ],
+    "activeRecall": {
+      "frage": "Beantworte ohne Antwortoptionen: Welche Aussage(n) trifft/treffen auf das Verhältnis zwischen nationalem Recht und Europäischem Unionsrecht zu?",
+      "musterantwort": "D: Kommt es zu einer Kollision zwischen einem Sekundärrechtsakt der Europäischen Union, z.B. einer Richtlinie, und nationalem Verfassungsrecht, so gehen sowohl der Europäische Gerichtshof als auch das Bundesverfassungsgericht grundsätzlich von einem Anwendungsvorrang des Sekundärrechtsaktes aus."
+    },
+    "review": {
+      "status": "auto_extracted_full",
+      "hinweis": "Richtige Lösungen wurden aus Unterstreichungen abgeleitet; bitte stichprobenartig gegen PDF gegenprüfen."
+    }
+  },
+  {
+    "id": "eur1_023",
+    "gebiet": "Europarecht I",
+    "thema": "",
+    "typ": "single",
+    "quelle": {
+      "datei": "EUR I Komplett.pdf",
+      "seite_start": 5,
+      "seite_ende": 6
+    },
+    "frage": "Welche Aussage(n) trifft/treffen auf das Verhältnis zwischen nationalem Recht und Europäischem Unionsrecht zu?",
+    "antworten": [
+      {
+        "id": "A",
+        "text": "Eine nationale Norm, die dem Unionsrecht widerspricht, ist nichtig.",
+        "pages": [
+          5
+        ],
+        "richtig": false
+      },
+      {
+        "id": "B",
+        "text": "Kommt es zu einer Kollision zwischen einem Sekundärrechtsakt der Europäischen Union, z. B. einer Richtlinie, und nationalem Verfassungsrecht, so gehen sowohl der Europäische Gerichtshof als auch das Bundesverfassungsgericht grundsätzlich von einem Anwendungsvorrang des Sekundärrechtsaktes aus.",
+        "pages": [
+          5,
+          5,
+          6,
+          6
+        ],
+        "richtig": true
+      },
+      {
+        "id": "C",
+        "text": "Keine der oben genannten Aussagen ist zutreffend.",
+        "pages": [
+          6
+        ],
+        "richtig": false
+      },
+      {
+        "id": "D",
+        "text": "In der Bundesrepublik Deutschland hat das Europäische Unionsrecht gemäß Art. 23 Abs. 1 GG Verfassungsrang.",
+        "pages": [
+          6,
+          6
+        ],
+        "richtig": false
+      },
+      {
+        "id": "E",
+        "text": "Aus Sicht des EuGH hat das Unionsrecht Geltungsvorrang gegenüber dem nationalen Recht der Mitgliedstaaten.",
+        "pages": [
+          6,
+          6
+        ],
+        "richtig": false
+      }
+    ],
+    "activeRecall": {
+      "frage": "Beantworte ohne Antwortoptionen: Welche Aussage(n) trifft/treffen auf das Verhältnis zwischen nationalem Recht und Europäischem Unionsrecht zu?",
+      "musterantwort": "B: Kommt es zu einer Kollision zwischen einem Sekundärrechtsakt der Europäischen Union, z. B. einer Richtlinie, und nationalem Verfassungsrecht, so gehen sowohl der Europäische Gerichtshof als auch das Bundesverfassungsgericht grundsätzlich von einem Anwendungsvorrang des Sekundärrechtsaktes aus."
+    },
+    "review": {
+      "status": "auto_extracted_full",
+      "hinweis": "Richtige Lösungen wurden aus Unterstreichungen abgeleitet; bitte stichprobenartig gegen PDF gegenprüfen."
+    }
+  },
+  {
+    "id": "eur1_024",
+    "gebiet": "Europarecht I",
+    "thema": "",
+    "typ": "single",
+    "quelle": {
+      "datei": "EUR I Komplett.pdf",
+      "seite_start": 6,
+      "seite_ende": 6
+    },
+    "frage": "Welche Aussage/n trifft/treffen auf die Wirkung von Richtlinien der EU zu? (x aus 5) Versäumt es ein Mitgliedstaat, eine Richtlinie innerhalb der vorgegebenen Frist umzusetzen, …",
+    "antworten": [
+      {
+        "id": "A",
+        "text": "müssen die mitgliedstaatlichen Fachgerichte die Richtlinie nur dann (im Wege richtlinienkonformer Auslegung) berücksichtigen, wenn sich ein Verfahrensbeteiligter ausdrücklich auf sie beruft.",
+        "pages": [
+          6,
+          6
+        ],
+        "richtig": false
+      },
+      {
+        "id": "B",
+        "text": "entfaltet die Richtlinie aufgrund des Effektivitätsgrundsatzes (effet utile) automatisch unmittelbare Wirkung.",
+        "pages": [
+          6,
+          6
+        ],
+        "richtig": false
+      },
+      {
+        "id": "C",
+        "text": "ist die Richtlinie ausschließlich von der mitgliedstaatlichen Judikative zu berücksichtigen, da die mitgliedstaatlichen Gerichte aufgrund des Vorrangs des Unionsrechts zur richtlinienkonformen Auslegung verpflichtet sind.",
+        "pages": [
+          6,
+          6,
+          6
+        ],
+        "richtig": false
+      },
+      {
+        "id": "D",
+        "text": "kann die Richtlinie unmittelbare Wirkung entfalten, wenn sie für den betroffenen Einzelnen begünstigend wirkt, sie hinreichend genau bestimmt ist, die betroffene Bestimmung keinen Umsetzungsspielraum gewährt und der Einzelne sich gegenüber einer staatlichen Stelle auf die nicht umgesetzte Richtlinie beruft.",
+        "pages": [
+          6,
+          6,
+          6,
+          6
+        ],
+        "richtig": true
+      },
+      {
+        "id": "E",
+        "text": "kann die Richtlinie Ansprüche im Privatrechtsverhältnis zwischen zwei Bürgern begründen, wenn die Richtlinie subjektive Rechte gewährt.",
+        "pages": [
+          6,
+          6
+        ],
+        "richtig": false
+      }
+    ],
+    "activeRecall": {
+      "frage": "Gib ohne Antwortoptionen die zutreffende(n) Aussage(n) zu folgender Frage wieder: Welche Aussage/n trifft/treffen auf die Wirkung von Richtlinien der EU zu? Versäumt es ein Mitgliedstaat, eine Richtlinie innerhalb der vorgegebenen Frist umzusetzen, …",
+      "musterantwort": "D: kann die Richtlinie unmittelbare Wirkung entfalten, wenn sie für den betroffenen Einzelnen begünstigend wirkt, sie hinreichend genau bestimmt ist, die betroffene Bestimmung keinen Umsetzungsspielraum gewährt und der Einzelne sich gegenüber einer staatlichen Stelle auf die nicht umgesetzte Richtlinie beruft."
+    },
+    "review": {
+      "status": "auto_extracted_full",
+      "hinweis": "Richtige Lösungen wurden aus Unterstreichungen abgeleitet; bitte stichprobenartig gegen PDF gegenprüfen."
+    }
+  },
+  {
+    "id": "eur1_025",
+    "gebiet": "Europarecht I",
+    "thema": "",
+    "typ": "multiple",
+    "quelle": {
+      "datei": "EUR I Komplett.pdf",
+      "seite_start": 6,
+      "seite_ende": 6
+    },
+    "frage": "Welche Aussage(n) trifft/treffen auf die Wirkung von Richtlinien der Europäischen Union zu?",
+    "antworten": [
+      {
+        "id": "A",
+        "text": "Eine Richtlinie kann nach der Rechtsprechung des EuGH horizontale unmittelbare Wirkung entfalten, wenn ein Mitgliedstaat die Richtlinie fehlerhaft oder gar nicht umsetzt, die Umsetzungsfrist abgelaufen ist und die Richtlinie justiziell bestimmbar ist.",
+        "pages": [
+          6,
+          6,
+          6
+        ],
+        "richtig": false
+      },
+      {
+        "id": "B",
+        "text": "Die innerstaatliche Umsetzung einer Richtlinie muss zwingend durch verbindliche Rechtsvorschriften erfolgen.",
+        "pages": [
+          6,
+          6
+        ],
+        "richtig": true
+      },
+      {
+        "id": "C",
+        "text": "Eine Richtlinie kann vertikale unmittelbare Wirkung entfalten, wenn ein Mitgliedstaat die Richtlinie fehlerhaft oder gar nicht umsetzt, die Umsetzungsfrist abgelaufen ist, die Richtlinie subjektiv-öffentliche Rechte gewährt und sie hinreichend bestimmt ist.",
+        "pages": [
+          6,
+          6,
+          6
+        ],
+        "richtig": true
+      },
+      {
+        "id": "D",
+        "text": "Eine Richtlinie entfaltet immer erst dann rechtliche Wirkung, wenn die Umsetzungsfrist abgelaufen ist.",
+        "pages": [
+          6,
+          6
+        ],
+        "richtig": false
+      },
+      {
+        "id": "E",
+        "text": "Eine Richtlinie kann auch wirksam durch eine gefestigte, richtlinienkonforme Verwaltungspraxis innerhalb eines Mitgliedstaates umgesetzt werden.",
+        "pages": [
+          6,
+          6
+        ],
+        "richtig": false
+      }
+    ],
+    "activeRecall": {
+      "frage": "Beantworte ohne Antwortoptionen: Welche Aussage(n) trifft/treffen auf die Wirkung von Richtlinien der Europäischen Union zu?",
+      "musterantwort": "B: Die innerstaatliche Umsetzung einer Richtlinie muss zwingend durch verbindliche Rechtsvorschriften erfolgen.; C: Eine Richtlinie kann vertikale unmittelbare Wirkung entfalten, wenn ein Mitgliedstaat die Richtlinie fehlerhaft oder gar nicht umsetzt, die Umsetzungsfrist abgelaufen ist, die Richtlinie subjektiv-öffentliche Rechte gewährt und sie hinreichend bestimmt ist."
+    },
+    "review": {
+      "status": "auto_extracted_full",
+      "hinweis": "Richtige Lösungen wurden aus Unterstreichungen abgeleitet; bitte stichprobenartig gegen PDF gegenprüfen."
+    }
+  },
+  {
+    "id": "eur1_026",
+    "gebiet": "Europarecht I",
+    "thema": "",
+    "typ": "multiple",
+    "quelle": {
+      "datei": "EUR I Komplett.pdf",
+      "seite_start": 6,
+      "seite_ende": 6
+    },
+    "frage": "Welche Aussage/n trifft/treffen auf Verordnungen zu? (x aus 5)",
+    "antworten": [
+      {
+        "id": "A",
+        "text": "Werden der Kommission Durchführungsbefugnisse übertragen, so kontrollieren die Mitgliedstaaten die Wahrnehmung der Befugnisse durch die Kommission nach den Regeln der Komitologie- Verordnung.",
+        "pages": [
+          6,
+          6,
+          6
+        ],
+        "richtig": true
+      },
+      {
+        "id": "B",
+        "text": "Durchführungsverordnungen werden nicht nach Art. 289 Abs. 1, Art. 294 AEUV erlassen.",
+        "pages": [
+          6
+        ],
+        "richtig": true
+      },
+      {
+        "id": "C",
+        "text": "Delegierte Verordnungen werden durch die Kommission erlassen.",
+        "pages": [
+          6
+        ],
+        "richtig": true
+      },
+      {
+        "id": "D",
+        "text": "Verordnungen bedürfen keiner Umsetzung durch den nationalen Gesetzgeber.",
+        "pages": [
+          6
+        ],
+        "richtig": true
+      },
+      {
+        "id": "E",
+        "text": "Delegierte Verordnungen können nur dann erlassen werden, wenn ein Gesetz den Rat dazu ausdrücklich ermächtigt.",
+        "pages": [
+          6,
+          6
+        ],
+        "richtig": false
+      }
+    ],
+    "activeRecall": {
+      "frage": "Beantworte ohne Antwortoptionen: Welche Aussage/n trifft/treffen auf Verordnungen zu?",
+      "musterantwort": "A: Werden der Kommission Durchführungsbefugnisse übertragen, so kontrollieren die Mitgliedstaaten die Wahrnehmung der Befugnisse durch die Kommission nach den Regeln der Komitologie- Verordnung.; B: Durchführungsverordnungen werden nicht nach Art. 289 Abs. 1, Art. 294 AEUV erlassen.; C: Delegierte Verordnungen werden durch die Kommission erlassen.; D: Verordnungen bedürfen keiner Umsetzung durch den nationalen Gesetzgeber."
+    },
+    "review": {
+      "status": "auto_extracted_full",
+      "hinweis": "Richtige Lösungen wurden aus Unterstreichungen abgeleitet; bitte stichprobenartig gegen PDF gegenprüfen."
+    }
+  },
+  {
+    "id": "eur1_027",
+    "gebiet": "Europarecht I",
+    "thema": "",
+    "typ": "single",
+    "quelle": {
+      "datei": "EUR I Komplett.pdf",
+      "seite_start": 6,
+      "seite_ende": 7
+    },
+    "frage": "Welche Aussage/n trifft/treffen auf die außervertragliche Haftung nach Art. 340 Abs. 2 AEUV zu? (x aus 5)",
+    "antworten": [
+      {
+        "id": "A",
+        "text": "Die Europäische Union haftet, wenn das EuG ein fehlerhaftes Urteil erlässt, welches die Grundfreiheiten betroffener Unionsbürger grob verkennt und ihnen daraus ein Schaden entsteht.",
+        "pages": [
+          6,
+          6
+        ],
+        "richtig": false
+      },
+      {
+        "id": "B",
+        "text": "Die Europäische Union haftet nach Art. 340 Abs. 2 AEUV nicht für immaterielle Schäden.",
+        "pages": [
+          6
+        ],
+        "richtig": false
+      },
+      {
+        "id": "C",
+        "text": "Ein Mitgliedstaat haftet für eine nicht fristgerechte Umsetzung einer Richtlinie.",
+        "pages": [
+          6
+        ],
+        "richtig": false
+      },
+      {
+        "id": "D",
+        "text": "Keine der oben genannten Aussagen trifft zu.",
+        "pages": [
+          6
+        ],
+        "richtig": false
+      },
+      {
+        "id": "E",
+        "text": "Im Bereich der außervertraglichen Haftung ersetzt die Union die durch ihre Organe oder Bediensteten in Ausübung ihrer Amtstätigkeit verursachten Schäden.",
+        "pages": [
+          6,
+          7
+        ],
+        "richtig": true
+      }
+    ],
+    "activeRecall": {
+      "frage": "Beantworte ohne Antwortoptionen: Welche Aussage/n trifft/treffen auf die außervertragliche Haftung nach Art. 340 Abs. 2 AEUV zu?",
+      "musterantwort": "E: Im Bereich der außervertraglichen Haftung ersetzt die Union die durch ihre Organe oder Bediensteten in Ausübung ihrer Amtstätigkeit verursachten Schäden."
+    },
+    "review": {
+      "status": "auto_extracted_full",
+      "hinweis": "Richtige Lösungen wurden aus Unterstreichungen abgeleitet; bitte stichprobenartig gegen PDF gegenprüfen."
+    }
+  },
+  {
+    "id": "eur1_028",
+    "gebiet": "Europarecht I",
+    "thema": "",
+    "typ": "multiple",
+    "quelle": {
+      "datei": "EUR I Komplett.pdf",
+      "seite_start": 7,
+      "seite_ende": 7
+    },
+    "frage": "Welche Aussage/n trifft/treffen auf den unionsrechtlichen Staatshaftungsanspruch zu? (x aus 5)",
+    "antworten": [
+      {
+        "id": "A",
+        "text": "Ein unionsrechtlicher Staatshaftungsanspruch erfordert einen Kausalzusammenhang zwischen dem Unionsrechtsverstoß und dem Schaden im Sinne einer Äquivalenzkausalität.",
+        "pages": [
+          7,
+          7
+        ],
+        "richtig": false
+      },
+      {
+        "id": "B",
+        "text": "Der unionsrechtliche Staatshaftungsanspruch setzt einen hinreichend qualifizierten Verstoß eines Mitgliedstaates gegen das Unionsrecht voraus.",
+        "pages": [
+          7,
+          7
+        ],
+        "richtig": true
+      },
+      {
+        "id": "C",
+        "text": "Der unionsrechtliche Staatshaftungsanspruch gegen einen Hoheitsträger der Bundesrepublik Deutschland ergibt sich aus § 839 BGB i.V.m. Art. 34 GG.",
+        "pages": [
+          7,
+          7
+        ],
+        "richtig": false
+      },
+      {
+        "id": "D",
+        "text": "Verstößt ein Mitgliedstaat gegen eine unionsrechtliche Vorschrift, welche keine subjektiven Rechte verleiht, kommt ein Staatshaftungsanspruch nicht in Betracht.",
+        "pages": [
+          7,
+          7
+        ],
+        "richtig": true
+      },
+      {
+        "id": "E",
+        "text": "Voraussetzung für die Durchsetzung eines Staatshaftungsanspruchs ist, dass der EuGH zunächst einen Verstoß des Mitgliedstaates gegen das Unionsrecht feststellt.",
+        "pages": [
+          7,
+          7
+        ],
+        "richtig": false
+      }
+    ],
+    "activeRecall": {
+      "frage": "Beantworte ohne Antwortoptionen: Welche Aussage/n trifft/treffen auf den unionsrechtlichen Staatshaftungsanspruch zu?",
+      "musterantwort": "B: Der unionsrechtliche Staatshaftungsanspruch setzt einen hinreichend qualifizierten Verstoß eines Mitgliedstaates gegen das Unionsrecht voraus.; D: Verstößt ein Mitgliedstaat gegen eine unionsrechtliche Vorschrift, welche keine subjektiven Rechte verleiht, kommt ein Staatshaftungsanspruch nicht in Betracht."
+    },
+    "review": {
+      "status": "auto_extracted_full",
+      "hinweis": "Richtige Lösungen wurden aus Unterstreichungen abgeleitet; bitte stichprobenartig gegen PDF gegenprüfen."
+    }
+  },
+  {
+    "id": "eur1_029",
+    "gebiet": "Europarecht I",
+    "thema": "",
+    "typ": "single",
+    "quelle": {
+      "datei": "EUR I Komplett.pdf",
+      "seite_start": 7,
+      "seite_ende": 7
+    },
+    "frage": "Welche Klage/n ist/sind für den folgenden Fall einschlägig? (x aus 5) Eine juristische Person wendet sich als Geschädigte einer rechtswidrigen Handlung eines Unionsbediensteten, die in Ausübung seiner Funktion stattgefunden hat, an das Europäische Gericht.",
+    "antworten": [
+      {
+        "id": "A",
+        "text": "Untätigkeitsklage gemäß Art. 265 AEUV",
+        "pages": [
+          7
+        ],
+        "richtig": false
+      },
+      {
+        "id": "B",
+        "text": "dienstrechtliche Klage gemäß Art. 270 AEUV",
+        "pages": [
+          7
+        ],
+        "richtig": false
+      },
+      {
+        "id": "C",
+        "text": "Amtshaftungsklage gemäß Art. 268 i.V.m. Art. 340 Abs. 2 AEUV",
+        "pages": [
+          7
+        ],
+        "richtig": true
+      },
+      {
+        "id": "D",
+        "text": "Aufsichtsklage gemäß Art. 258 AEUV",
+        "pages": [
+          7
+        ],
+        "richtig": false
+      },
+      {
+        "id": "E",
+        "text": "Nichtigkeitsklage gemäß Art. 263 AEUV",
+        "pages": [
+          7
+        ],
+        "richtig": false
+      }
+    ],
+    "activeRecall": {
+      "frage": "Gib ohne Antwortoptionen die zutreffende(n) Aussage(n) zu folgender Frage wieder: Welche Klage/n ist/sind für den folgenden Fall einschlägig? Eine juristische Person wendet sich als Geschädigte einer rechtswidrigen Handlung eines Unionsbediensteten, die in Ausübung seiner Funktion stattgefunden hat, an das Europäische Gericht.",
+      "musterantwort": "C: Amtshaftungsklage gemäß Art. 268 i.V.m. Art. 340 Abs. 2 AEUV"
+    },
+    "review": {
+      "status": "auto_extracted_full",
+      "hinweis": "Richtige Lösungen wurden aus Unterstreichungen abgeleitet; bitte stichprobenartig gegen PDF gegenprüfen."
+    }
+  },
+  {
+    "id": "eur1_030",
+    "gebiet": "Europarecht I",
+    "thema": "",
+    "typ": "multiple",
+    "quelle": {
+      "datei": "EUR I Komplett.pdf",
+      "seite_start": 7,
+      "seite_ende": 7
+    },
+    "frage": "Welche Aussage(n) trifft/treffen auf die Amtshaftungsklage nach Art. 268 i.V.m. Art. 340 Abs. 2 AEUV zu?",
+    "antworten": [
+      {
+        "id": "A",
+        "text": "Die Begründetheit der Amtshaftungsklage hängt nicht vom Verschulden des handelnden Unionsorgans oder Bediensteten der Europäischen Union ab.",
+        "pages": [
+          7,
+          7
+        ],
+        "richtig": true
+      },
+      {
+        "id": "B",
+        "text": "Die Amtshaftungsklage ist unbegründet, wenn die verletzte Norm keine Individualinteressen schützt.",
+        "pages": [
+          7,
+          7
+        ],
+        "richtig": true
+      },
+      {
+        "id": "C",
+        "text": "Die Amtshaftungsklage unterliegt keiner Klagefrist.",
+        "pages": [
+          7
+        ],
+        "richtig": false
+      },
+      {
+        "id": "D",
+        "text": "Die Amtshaftungsklage ist unbegründet, wenn das Organ oder der Bedienstete der Europäischen Union nicht in Ausübung seiner Amtstätigkeit gehandelt hat.",
+        "pages": [
+          7,
+          7
+        ],
+        "richtig": true
+      },
+      {
+        "id": "E",
+        "text": "Das Rechtsschutzbedürfnis ist eine Zulässigkeitsvoraussetzung der Amtshaftungsklage.",
+        "pages": [
+          7
+        ],
+        "richtig": true
+      }
+    ],
+    "activeRecall": {
+      "frage": "Beantworte ohne Antwortoptionen: Welche Aussage(n) trifft/treffen auf die Amtshaftungsklage nach Art. 268 i.V.m. Art. 340 Abs. 2 AEUV zu?",
+      "musterantwort": "A: Die Begründetheit der Amtshaftungsklage hängt nicht vom Verschulden des handelnden Unionsorgans oder Bediensteten der Europäischen Union ab.; B: Die Amtshaftungsklage ist unbegründet, wenn die verletzte Norm keine Individualinteressen schützt.; D: Die Amtshaftungsklage ist unbegründet, wenn das Organ oder der Bedienstete der Europäischen Union nicht in Ausübung seiner Amtstätigkeit gehandelt hat.; E: Das Rechtsschutzbedürfnis ist eine Zulässigkeitsvoraussetzung der Amtshaftungsklage."
+    },
+    "review": {
+      "status": "auto_extracted_full",
+      "hinweis": "Richtige Lösungen wurden aus Unterstreichungen abgeleitet; bitte stichprobenartig gegen PDF gegenprüfen."
+    }
+  },
+  {
+    "id": "eur1_031",
+    "gebiet": "Europarecht I",
+    "thema": "",
+    "typ": "multiple",
+    "quelle": {
+      "datei": "EUR I Komplett.pdf",
+      "seite_start": 7,
+      "seite_ende": 7
+    },
+    "frage": "Welche Aussage(n) trifft/treffen auf die Amtshaftungsklage nach Art. 268 i.V.m. Art. 340 Abs. 2 AEUV zu?",
+    "antworten": [
+      {
+        "id": "A",
+        "text": "Die Begründetheit der Amtshaftungsklage hängt nicht vom Verschulden des handelnden Unionsorgans oder Bediensteten der Europäischen Union ab.",
+        "pages": [
+          7,
+          7
+        ],
+        "richtig": true
+      },
+      {
+        "id": "B",
+        "text": "Die Amtshaftungsklage unterliegt einer Klagefrist.",
+        "pages": [
+          7
+        ],
+        "richtig": false
+      },
+      {
+        "id": "C",
+        "text": "Das Rechtsschutzbedürfnis ist keine Zulässigkeitsvoraussetzung der Amtshaftungsklage.",
+        "pages": [
+          7
+        ],
+        "richtig": false
+      },
+      {
+        "id": "D",
+        "text": "Die Amtshaftungsklage ist unbegründet, wenn die verletzte Norm keine Individualinteressen schützt.",
+        "pages": [
+          7,
+          7
+        ],
+        "richtig": true
+      },
+      {
+        "id": "E",
+        "text": "Die Amtshaftungsklage ist unbegründet, wenn das Organ oder der Bedienstete der Europäischen Union nicht in Ausübung seiner Amtstätigkeit gehandelt hat.",
+        "pages": [
+          7,
+          7
+        ],
+        "richtig": true
+      }
+    ],
+    "activeRecall": {
+      "frage": "Beantworte ohne Antwortoptionen: Welche Aussage(n) trifft/treffen auf die Amtshaftungsklage nach Art. 268 i.V.m. Art. 340 Abs. 2 AEUV zu?",
+      "musterantwort": "A: Die Begründetheit der Amtshaftungsklage hängt nicht vom Verschulden des handelnden Unionsorgans oder Bediensteten der Europäischen Union ab.; D: Die Amtshaftungsklage ist unbegründet, wenn die verletzte Norm keine Individualinteressen schützt.; E: Die Amtshaftungsklage ist unbegründet, wenn das Organ oder der Bedienstete der Europäischen Union nicht in Ausübung seiner Amtstätigkeit gehandelt hat."
+    },
+    "review": {
+      "status": "auto_extracted_full",
+      "hinweis": "Richtige Lösungen wurden aus Unterstreichungen abgeleitet; bitte stichprobenartig gegen PDF gegenprüfen."
+    }
+  },
+  {
+    "id": "eur1_032",
+    "gebiet": "Europarecht I",
+    "thema": "",
+    "typ": "multiple",
+    "quelle": {
+      "datei": "EUR I Komplett.pdf",
+      "seite_start": 7,
+      "seite_ende": 8
+    },
+    "frage": "Welche Aussage/n trifft/treffen auf das Vorabentscheidungsverfahren gemäß Art. 267 AEUV zu? (x aus 5)",
+    "antworten": [
+      {
+        "id": "A",
+        "text": "Legt ein deutsches Fachgericht letzter Instanz eine Auslegungsfrage nicht dem EuGH vor, obwohl es dazu verpflichtet gewesen wäre, kann der Adressat der Gerichtsentscheidung Verfassungsbeschwerde erheben.",
+        "pages": [
+          7,
+          7,
+          7
+        ],
+        "richtig": true
+      },
+      {
+        "id": "B",
+        "text": "Verletzt ein nationales Gericht seine Vorlagepflicht, kann sich die Kommission im Wege eines Vertragsverletzungsverfahrens an den EuGH wenden.",
+        "pages": [
+          7,
+          7
+        ],
+        "richtig": true
+      },
+      {
+        "id": "C",
+        "text": "Alle nationalen Fachgerichte aller Instanzen sind immer zur Vorlage an den EuGH verpflichtet.",
+        "pages": [
+          7
+        ],
+        "richtig": false
+      },
+      {
+        "id": "D",
+        "text": "Nur wenn die Entscheidung des Fachgerichts nicht mehr mit Rechtsmitteln angefochten werden kann, sind auch ein Fachgericht erster Instanz zur Vorlage an den EuGH verpflichtet.",
+        "pages": [
+          7,
+          7
+        ],
+        "richtig": true
+      },
+      {
+        "id": "E",
+        "text": "Legt ein Fachgericht letzter Instanz eine Auslegungsfrage nicht dem EuGH vor, kann sich der Adressat der Gerichtsentscheidung direkt an den EuGH wenden.",
+        "pages": [
+          8,
+          8
+        ],
+        "richtig": false
+      }
+    ],
+    "activeRecall": {
+      "frage": "Beantworte ohne Antwortoptionen: Welche Aussage/n trifft/treffen auf das Vorabentscheidungsverfahren gemäß Art. 267 AEUV zu?",
+      "musterantwort": "A: Legt ein deutsches Fachgericht letzter Instanz eine Auslegungsfrage nicht dem EuGH vor, obwohl es dazu verpflichtet gewesen wäre, kann der Adressat der Gerichtsentscheidung Verfassungsbeschwerde erheben.; B: Verletzt ein nationales Gericht seine Vorlagepflicht, kann sich die Kommission im Wege eines Vertragsverletzungsverfahrens an den EuGH wenden.; D: Nur wenn die Entscheidung des Fachgerichts nicht mehr mit Rechtsmitteln angefochten werden kann, sind auch ein Fachgericht erster Instanz zur Vorlage an den EuGH verpflichtet."
+    },
+    "review": {
+      "status": "auto_extracted_full",
+      "hinweis": "Richtige Lösungen wurden aus Unterstreichungen abgeleitet; bitte stichprobenartig gegen PDF gegenprüfen."
+    }
+  },
+  {
+    "id": "eur1_033",
+    "gebiet": "Europarecht I",
+    "thema": "",
+    "typ": "multiple",
+    "quelle": {
+      "datei": "EUR I Komplett.pdf",
+      "seite_start": 8,
+      "seite_ende": 8
+    },
+    "frage": "Welche Aussage(n) trifft/treffen auf das Vorabentscheidungsverfahren gemäß Art. 267 AEUV zu?",
+    "antworten": [
+      {
+        "id": "A",
+        "text": "Ein nationales Gericht ist zur Vorlage verpflichtet, wenn es einen Sekundärrechtsakt der Europäischen Union für unionsrechtswidrig hält und diesen daher nicht anwenden will.",
+        "pages": [
+          8,
+          8
+        ],
+        "richtig": true
+      },
+      {
+        "id": "B",
+        "text": "Eine Vorlagefrage ist dann unzulässig, wenn das vorlegende Gericht den Europäischen Gerichtshof danach fragt, ob eine nationale Regelung mit dem Unionsrecht vereinbar ist.",
+        "pages": [
+          8,
+          8
+        ],
+        "richtig": true
+      },
+      {
+        "id": "C",
+        "text": "Nationale Gerichte sind immer dann vorlageberechtigt, wenn eine Partei im Rechtsstreit das Gericht um eine Vorlage an den Europäischen Gerichtshof bittet.",
+        "pages": [
+          8,
+          8
+        ],
+        "richtig": false
+      },
+      {
+        "id": "D",
+        "text": "Letztinstanzliche Gerichte sind vorlageverpflichtet, wenn Zweifel an der Auslegung oder Gültigkeit einer unionsrechtlichen Norm bestehen und die Frage nach der Auslegung oder Gültigkeit entscheidungserheblich ist.",
+        "pages": [
+          8,
+          8,
+          8
+        ],
+        "richtig": true
+      },
+      {
+        "id": "E",
+        "text": "Nationale Gerichte sind unter anderem dann zur Vorlage verpflichtet, wenn eine Partei im Rechtsstreit das Gericht um eine Vorlage an den Europäischen Gerichtshof bittet.",
+        "pages": [
+          8,
+          8
+        ],
+        "richtig": false
+      }
+    ],
+    "activeRecall": {
+      "frage": "Beantworte ohne Antwortoptionen: Welche Aussage(n) trifft/treffen auf das Vorabentscheidungsverfahren gemäß Art. 267 AEUV zu?",
+      "musterantwort": "A: Ein nationales Gericht ist zur Vorlage verpflichtet, wenn es einen Sekundärrechtsakt der Europäischen Union für unionsrechtswidrig hält und diesen daher nicht anwenden will.; B: Eine Vorlagefrage ist dann unzulässig, wenn das vorlegende Gericht den Europäischen Gerichtshof danach fragt, ob eine nationale Regelung mit dem Unionsrecht vereinbar ist.; D: Letztinstanzliche Gerichte sind vorlageverpflichtet, wenn Zweifel an der Auslegung oder Gültigkeit einer unionsrechtlichen Norm bestehen und die Frage nach der Auslegung oder Gültigkeit entscheidungserheblich ist."
+    },
+    "review": {
+      "status": "auto_extracted_full",
+      "hinweis": "Richtige Lösungen wurden aus Unterstreichungen abgeleitet; bitte stichprobenartig gegen PDF gegenprüfen."
+    }
+  },
+  {
+    "id": "eur1_034",
+    "gebiet": "Europarecht I",
+    "thema": "",
+    "typ": "multiple",
+    "quelle": {
+      "datei": "EUR I Komplett.pdf",
+      "seite_start": 8,
+      "seite_ende": 8
+    },
+    "frage": "Welche Aussage(n) trifft/treffen auf die Rechtswirkung eines Vorabentscheidungsurteils des Europäischen Gerichtshofs zu?",
+    "antworten": [
+      {
+        "id": "A",
+        "text": "Entscheidet der EuGH über die Auslegung von Unionsrecht, darf das mitgliedstaatliche Gericht in seiner Entscheidung keine andere Auslegung zugrunde legen, auch wenn das Gericht seine eigene Interpretation für unionsrechtsfreundlicher hält.",
+        "pages": [
+          8,
+          8,
+          8
+        ],
+        "richtig": true
+      },
+      {
+        "id": "B",
+        "text": "Die mitgliedstaatlichen Gerichte können in ihrer Entscheidung vom Vorabentscheidungsurteil des EuGH abweichen, wenn sich im Verlauf des Verfahrens neue tatsächliche oder rechtliche Gesichtspunkte ergeben, vor deren Hintergrund das Vorabentscheidungsurteil nicht mehr hilfreich erscheint.",
+        "pages": [
+          8,
+          8,
+          8,
+          8
+        ],
+        "richtig": false
+      },
+      {
+        "id": "C",
+        "text": "Ein Vorabentscheidungsurteil entfaltet Sperrwirkung gegenüber allen weiteren Vorlagefragen im Rahmen des Instanzenzugs einer Rechtssache.",
+        "pages": [
+          8,
+          8
+        ],
+        "richtig": false
+      },
+      {
+        "id": "D",
+        "text": "Ein Vorabentscheidungsurteil bindet nicht nur das die Vorlagefrage hervorbringende Gericht, sondern auch sämtliche andere Instanzen, die in der gleichen Rechtssache zu entscheiden haben.",
+        "pages": [
+          8,
+          8
+        ],
+        "richtig": true
+      },
+      {
+        "id": "E",
+        "text": "Ein Vorabentscheidungsurteil des EuGH wirkt grundsätzlich ex nunc, d. h., die Entscheidung ist im Sinne der Rechtssicherheit nicht auf in der Vergangenheit begründete Rechtsverhältnisse anzuwenden.",
+        "pages": [
+          8,
+          8,
+          8
+        ],
+        "richtig": false
+      }
+    ],
+    "activeRecall": {
+      "frage": "Beantworte ohne Antwortoptionen: Welche Aussage(n) trifft/treffen auf die Rechtswirkung eines Vorabentscheidungsurteils des Europäischen Gerichtshofs zu?",
+      "musterantwort": "A: Entscheidet der EuGH über die Auslegung von Unionsrecht, darf das mitgliedstaatliche Gericht in seiner Entscheidung keine andere Auslegung zugrunde legen, auch wenn das Gericht seine eigene Interpretation für unionsrechtsfreundlicher hält.; D: Ein Vorabentscheidungsurteil bindet nicht nur das die Vorlagefrage hervorbringende Gericht, sondern auch sämtliche andere Instanzen, die in der gleichen Rechtssache zu entscheiden haben."
+    },
+    "review": {
+      "status": "auto_extracted_full",
+      "hinweis": "Richtige Lösungen wurden aus Unterstreichungen abgeleitet; bitte stichprobenartig gegen PDF gegenprüfen."
+    }
+  },
+  {
+    "id": "eur1_035",
+    "gebiet": "Europarecht I",
+    "thema": "",
+    "typ": "multiple",
+    "quelle": {
+      "datei": "EUR I Komplett.pdf",
+      "seite_start": 8,
+      "seite_ende": 9
+    },
+    "frage": "Welche Aussage/n trifft/treffen auf das Vertragsverletzungsverfahren gemäß Art. 258 f. AEUV zu? (x aus 5)?",
+    "antworten": [
+      {
+        "id": "A",
+        "text": "Setzt ein Mitgliedstaat eine Richtlinie nicht fristgemäß um, kann der EuGH in seinem Urteil ein Zwangsgeld verhängen.",
+        "pages": [
+          8,
+          8
+        ],
+        "richtig": true
+      },
+      {
+        "id": "B",
+        "text": "Keine der genannten Aussagen ist zutreffend.",
+        "pages": [
+          8
+        ],
+        "richtig": false
+      },
+      {
+        "id": "C",
+        "text": "Der EuGH kann Maßnahmen eines Mitgliedstaates, die gegen Unionsrecht verstoßen, für nichtig erklären.",
+        "pages": [
+          8,
+          8
+        ],
+        "richtig": false
+      },
+      {
+        "id": "D",
+        "text": "Beseitigt ein Mitgliedstaat eine Maßnahme nicht, deren Unionsrechtswidrigkeit der EuGH in einem Vertragsverletzungsverfahren bereits festgestellt hat, so handelt es sich um eine erneute Vertragsverletzung, die die Kommission im Wege einer Aufsichtsklage vor dem EuGH angreifen kann.",
+        "pages": [
+          8,
+          9,
+          9
+        ],
+        "richtig": true
+      },
+      {
+        "id": "E",
+        "text": "Stellt der EuGH eine Vertragsverletzung fest, kann er die vertragsverletzende Maßnahme für rechtswidrig erklären und den Mitgliedstaat verpflichten, die Maßnahme zu beseitigen.",
+        "pages": [
+          9,
+          9
+        ],
+        "richtig": false
+      }
+    ],
+    "activeRecall": {
+      "frage": "Beantworte ohne Antwortoptionen: Welche Aussage/n trifft/treffen auf das Vertragsverletzungsverfahren gemäß Art. 258 f. AEUV zu?",
+      "musterantwort": "A: Setzt ein Mitgliedstaat eine Richtlinie nicht fristgemäß um, kann der EuGH in seinem Urteil ein Zwangsgeld verhängen.; D: Beseitigt ein Mitgliedstaat eine Maßnahme nicht, deren Unionsrechtswidrigkeit der EuGH in einem Vertragsverletzungsverfahren bereits festgestellt hat, so handelt es sich um eine erneute Vertragsverletzung, die die Kommission im Wege einer Aufsichtsklage vor dem EuGH angreifen kann."
+    },
+    "review": {
+      "status": "auto_extracted_full",
+      "hinweis": "Richtige Lösungen wurden aus Unterstreichungen abgeleitet; bitte stichprobenartig gegen PDF gegenprüfen."
+    }
+  },
+  {
+    "id": "eur1_036",
+    "gebiet": "Europarecht I",
+    "thema": "",
+    "typ": "multiple",
+    "quelle": {
+      "datei": "EUR I Komplett.pdf",
+      "seite_start": 9,
+      "seite_ende": 9
+    },
+    "frage": "In welchem Fall/welchen Fällen kann die Europäische Kommission ein Vertragsverletzungsverfahren gemäß Art. 258 ff. AEUV gegen die Bundesrepublik Deutschland einleiten?",
+    "antworten": [
+      {
+        "id": "A",
+        "text": "Die Bundesrepublik Deutschland befolgt ein gegen sie ergangenes Urteil im Rahmen eines vorausgegangenen Vertragsverletzungsverfahrens nicht.",
+        "pages": [
+          9,
+          9
+        ],
+        "richtig": true
+      },
+      {
+        "id": "B",
+        "text": "Der Gesetzgeber setzt eine unionsrechtliche Richtlinie nur zu Teilen um.",
+        "pages": [
+          9
+        ],
+        "richtig": true
+      },
+      {
+        "id": "C",
+        "text": "Der Gesetzgeber versäumt es, eine unionsrechtliche Richtlinie fristgerecht umzusetzen.",
+        "pages": [
+          9
+        ],
+        "richtig": true
+      },
+      {
+        "id": "D",
+        "text": "Das Bundesarbeitsgericht kommt seiner Vorlagepflicht nicht nach.",
+        "pages": [
+          9
+        ],
+        "richtig": true
+      },
+      {
+        "id": "E",
+        "text": "Das Bauamt der nordrheinwestfälischen Gemeinde G verweigert den Vollzug einer unionsrechtlichen Verordnung.",
+        "pages": [
+          9,
+          9
+        ],
+        "richtig": true
+      }
+    ],
+    "activeRecall": {
+      "frage": "Beantworte ohne Antwortoptionen: In welchem Fall/welchen Fällen kann die Europäische Kommission ein Vertragsverletzungsverfahren gemäß Art. 258 ff. AEUV gegen die Bundesrepublik Deutschland einleiten?",
+      "musterantwort": "A: Die Bundesrepublik Deutschland befolgt ein gegen sie ergangenes Urteil im Rahmen eines vorausgegangenen Vertragsverletzungsverfahrens nicht.; B: Der Gesetzgeber setzt eine unionsrechtliche Richtlinie nur zu Teilen um.; C: Der Gesetzgeber versäumt es, eine unionsrechtliche Richtlinie fristgerecht umzusetzen.; D: Das Bundesarbeitsgericht kommt seiner Vorlagepflicht nicht nach.; E: Das Bauamt der nordrheinwestfälischen Gemeinde G verweigert den Vollzug einer unionsrechtlichen Verordnung."
+    },
+    "review": {
+      "status": "auto_extracted_full",
+      "hinweis": "Richtige Lösungen wurden aus Unterstreichungen abgeleitet; bitte stichprobenartig gegen PDF gegenprüfen."
+    }
+  },
+  {
+    "id": "eur1_037",
+    "gebiet": "Europarecht I",
+    "thema": "",
+    "typ": "multiple",
+    "quelle": {
+      "datei": "EUR I Komplett.pdf",
+      "seite_start": 9,
+      "seite_ende": 9
+    },
+    "frage": "In welchem Fall/welchen Fällen kann die Europäische Kommission ein Vertragsverletzungsverfahren gegen die Bundesrepublik Deutschland einleiten?",
+    "antworten": [
+      {
+        "id": "A",
+        "text": "Der Gesetzgeber versäumt es, eine unionsrechtliche Richtlinie fristgerecht umzusetzen.",
+        "pages": [
+          9
+        ],
+        "richtig": true
+      },
+      {
+        "id": "B",
+        "text": "Die Bundesrepublik Deutschland befolgt ein gegen sie ergangenes Urteil im Rahmen eines vorausgegangenen Vertragsverletzungsverfahrens nicht.",
+        "pages": [
+          9,
+          9
+        ],
+        "richtig": true
+      },
+      {
+        "id": "C",
+        "text": "Das Bundesarbeitsgericht kommt seiner Vorlagepflicht nicht nach.",
+        "pages": [
+          9
+        ],
+        "richtig": true
+      },
+      {
+        "id": "D",
+        "text": "Der Gesetzgeber setzt eine unionsrechtliche Richtlinie nur zu Teilen um.",
+        "pages": [
+          9
+        ],
+        "richtig": true
+      },
+      {
+        "id": "E",
+        "text": "Eine Behörde des Landes NRW verweigert den Vollzug einer unionsrechtlichen Verordnung.",
+        "pages": [
+          9
+        ],
+        "richtig": true
+      }
+    ],
+    "activeRecall": {
+      "frage": "Beantworte ohne Antwortoptionen: In welchem Fall/welchen Fällen kann die Europäische Kommission ein Vertragsverletzungsverfahren gegen die Bundesrepublik Deutschland einleiten?",
+      "musterantwort": "A: Der Gesetzgeber versäumt es, eine unionsrechtliche Richtlinie fristgerecht umzusetzen.; B: Die Bundesrepublik Deutschland befolgt ein gegen sie ergangenes Urteil im Rahmen eines vorausgegangenen Vertragsverletzungsverfahrens nicht.; C: Das Bundesarbeitsgericht kommt seiner Vorlagepflicht nicht nach.; D: Der Gesetzgeber setzt eine unionsrechtliche Richtlinie nur zu Teilen um.; E: Eine Behörde des Landes NRW verweigert den Vollzug einer unionsrechtlichen Verordnung."
+    },
+    "review": {
+      "status": "auto_extracted_full",
+      "hinweis": "Richtige Lösungen wurden aus Unterstreichungen abgeleitet; bitte stichprobenartig gegen PDF gegenprüfen."
+    }
+  },
+  {
+    "id": "eur1_038",
+    "gebiet": "Europarecht I",
+    "thema": "",
+    "typ": "multiple",
+    "quelle": {
+      "datei": "EUR I Komplett.pdf",
+      "seite_start": 9,
+      "seite_ende": 9
+    },
+    "frage": "Wer kann sich im Wege einer Nichtigkeitsklage an den EuGH wenden? (x aus 5)",
+    "antworten": [
+      {
+        "id": "A",
+        "text": "die EZB gemäß Art. 263 Abs. 3 AEUV",
+        "pages": [
+          9
+        ],
+        "richtig": true
+      },
+      {
+        "id": "B",
+        "text": "der Europarat gemäß Art. 263 Abs. 1 AEUV",
+        "pages": [
+          9
+        ],
+        "richtig": false
+      },
+      {
+        "id": "C",
+        "text": "das Europäische Parlament gemäß Art. 263 Abs. 2 AEUV",
+        "pages": [
+          9
+        ],
+        "richtig": true
+      },
+      {
+        "id": "D",
+        "text": "natürliche und juristische Personen gemäß Art. 263 Abs. 4 AEUV",
+        "pages": [
+          9
+        ],
+        "richtig": true
+      },
+      {
+        "id": "E",
+        "text": "Mitgliedstaaten gemäß Art. 263 Abs. 2 AEUV",
+        "pages": [
+          9
+        ],
+        "richtig": true
+      }
+    ],
+    "activeRecall": {
+      "frage": "Beantworte ohne Antwortoptionen: Wer kann sich im Wege einer Nichtigkeitsklage an den EuGH wenden?",
+      "musterantwort": "A: die EZB gemäß Art. 263 Abs. 3 AEUV; C: das Europäische Parlament gemäß Art. 263 Abs. 2 AEUV; D: natürliche und juristische Personen gemäß Art. 263 Abs. 4 AEUV; E: Mitgliedstaaten gemäß Art. 263 Abs. 2 AEUV"
+    },
+    "review": {
+      "status": "auto_extracted_full",
+      "hinweis": "Richtige Lösungen wurden aus Unterstreichungen abgeleitet; bitte stichprobenartig gegen PDF gegenprüfen."
+    }
+  },
+  {
+    "id": "eur1_039",
+    "gebiet": "Europarecht I",
+    "thema": "",
+    "typ": "multiple",
+    "quelle": {
+      "datei": "EUR I Komplett.pdf",
+      "seite_start": 9,
+      "seite_ende": 9
+    },
+    "frage": "Welche Aussage(n) trifft/treffen auf die Nichtigkeitsklage gemäß Art. 263 AEUV zu?",
+    "antworten": [
+      {
+        "id": "A",
+        "text": "Die Mitgliedstaaten, der Rat, die Kommission und das Parlament sind privilegiert klagebefugt und müssen daher keine Klageberechtigung nachweisen.",
+        "pages": [
+          9,
+          9
+        ],
+        "richtig": true
+      },
+      {
+        "id": "B",
+        "text": "Einen Rechtsakt erklärt der EuGH im Rahmen des Nichtigkeitsverfahrens gemäß Art. 264 Abs. 1 AEUV, sofern die Klage begründet ist, ex tunc, das heißt rückwirkend, für nichtig.",
+        "pages": [
+          9,
+          9
+        ],
+        "richtig": true
+      },
+      {
+        "id": "C",
+        "text": "Zulässiger Klagegrund ist auch die Verletzung wesentlicher Formvorschriften.",
+        "pages": [
+          9
+        ],
+        "richtig": true
+      },
+      {
+        "id": "D",
+        "text": "Der Europäische Rat ist nicht klagebefugt.",
+        "pages": [
+          9
+        ],
+        "richtig": true
+      },
+      {
+        "id": "E",
+        "text": "Natürliche Personen sind nicht befugt, eine Nichtigkeitsklage zu erheben.",
+        "pages": [
+          9
+        ],
+        "richtig": false
+      }
+    ],
+    "activeRecall": {
+      "frage": "Beantworte ohne Antwortoptionen: Welche Aussage(n) trifft/treffen auf die Nichtigkeitsklage gemäß Art. 263 AEUV zu?",
+      "musterantwort": "A: Die Mitgliedstaaten, der Rat, die Kommission und das Parlament sind privilegiert klagebefugt und müssen daher keine Klageberechtigung nachweisen.; B: Einen Rechtsakt erklärt der EuGH im Rahmen des Nichtigkeitsverfahrens gemäß Art. 264 Abs. 1 AEUV, sofern die Klage begründet ist, ex tunc, das heißt rückwirkend, für nichtig.; C: Zulässiger Klagegrund ist auch die Verletzung wesentlicher Formvorschriften.; D: Der Europäische Rat ist nicht klagebefugt."
+    },
+    "review": {
+      "status": "auto_extracted_full",
+      "hinweis": "Richtige Lösungen wurden aus Unterstreichungen abgeleitet; bitte stichprobenartig gegen PDF gegenprüfen."
+    }
+  },
+  {
+    "id": "eur1_040",
+    "gebiet": "Europarecht I",
+    "thema": "",
+    "typ": "multiple",
+    "quelle": {
+      "datei": "EUR I Komplett.pdf",
+      "seite_start": 9,
+      "seite_ende": 9
+    },
+    "frage": "Welche Aussage(n) trifft/treffen auf die Nichtigkeitsklage gemäß Art. 263 AEUV zu?",
+    "antworten": [
+      {
+        "id": "A",
+        "text": "Der Europäische Rat ist nicht klagebefugt.",
+        "pages": [
+          9
+        ],
+        "richtig": true
+      },
+      {
+        "id": "B",
+        "text": "Erklärt der EuGH einen Rechtsakt für nichtig, so ergeht ein Feststellungsurteil.",
+        "pages": [
+          9
+        ],
+        "richtig": false
+      },
+      {
+        "id": "C",
+        "text": "Natürliche Personen sind nicht befugt, eine Nichtigkeitsklage zu erheben.",
+        "pages": [
+          9
+        ],
+        "richtig": false
+      },
+      {
+        "id": "D",
+        "text": "Die Mitgliedstaaten, der Rat, die Kommission und das Parlament sind privilegiert klagebefugt und müssen daher keine Klageberechtigung nachweisen.",
+        "pages": [
+          9,
+          9
+        ],
+        "richtig": true
+      },
+      {
+        "id": "E",
+        "text": "Einen Rechtsakt erklärt der EuGH im Rahmen des Nichtigkeitsverfahrens gemäß Art. 264 Abs. 1 AEUV, sofern die Klage begründet ist, ex tunc, das heißt rückwirkend, für nichtig.",
+        "pages": [
+          9,
+          9
+        ],
+        "richtig": true
+      }
+    ],
+    "activeRecall": {
+      "frage": "Beantworte ohne Antwortoptionen: Welche Aussage(n) trifft/treffen auf die Nichtigkeitsklage gemäß Art. 263 AEUV zu?",
+      "musterantwort": "A: Der Europäische Rat ist nicht klagebefugt.; D: Die Mitgliedstaaten, der Rat, die Kommission und das Parlament sind privilegiert klagebefugt und müssen daher keine Klageberechtigung nachweisen.; E: Einen Rechtsakt erklärt der EuGH im Rahmen des Nichtigkeitsverfahrens gemäß Art. 264 Abs. 1 AEUV, sofern die Klage begründet ist, ex tunc, das heißt rückwirkend, für nichtig."
+    },
+    "review": {
+      "status": "auto_extracted_full",
+      "hinweis": "Richtige Lösungen wurden aus Unterstreichungen abgeleitet; bitte stichprobenartig gegen PDF gegenprüfen."
+    }
+  },
+  {
+    "id": "eur1_041",
+    "gebiet": "Europarecht I",
+    "thema": "",
+    "typ": "single",
+    "quelle": {
+      "datei": "EUR I Komplett.pdf",
+      "seite_start": 9,
+      "seite_ende": 10
+    },
+    "frage": "Welche Bedeutung hat die Unterscheidung zwischen Rechtsakten mit Verordnungscharakter und Rechtsakten ohne Verordnungscharakter im Kontext der Nichtigkeitsklage?",
+    "antworten": [
+      {
+        "id": "A",
+        "text": "Ist der nicht-privilegierte Kläger im Sinne von Art. 263 Abs. 4 AEUV nicht Adressat eines Rechtsaktes ohne Verordnungscharakter, so kann er den Rechtsakt nur im Wege eines Vorabentscheidungsverfahrens angreifen. Gehört er jedoch zum Adressatenkreis eines Rechtsaktes mit Verordnungscharakter, so kann er Nichtigkeitsklage erheben.",
+        "pages": [
+          9,
+          10,
+          10,
+          10
+        ],
+        "richtig": false
+      },
+      {
+        "id": "B",
+        "text": "Handelt es sich um einen Rechtsakt mit Verordnungscharakter, müssen privilegierte Kläger im Sinne von Art. 263 Abs. 2 AEUV nur die individuelle Betroffenheit nachweisen. Richtet sich die Klage jedoch gegen einen Rechtsakt ohne Verordnungscharakter, muss ein besonderes Rechtsschutzbedürfnis nachgewiesen werden.",
+        "pages": [
+          10,
+          10,
+          10,
+          10
+        ],
+        "richtig": false
+      },
+      {
+        "id": "C",
+        "text": "Richtet sich die Klage eines nichtprivilegierten Klägers im Sinne von Art. 263 Abs. 4 AEUV gegen einen Rechtsakt mit Verordnungscharakter, der keinen Durchführungsakt nach sich zieht, genügt der Nachweis der unmittelbaren Betroffenheit. Handelt es sich hingegen um einen Rechtsakt ohne Verordnungscharakter, ist der Kläger dann klagebefugt, wenn er Adressat des Rechtsaktes ist oder unmittelbar und individuell durch diesen betroffen ist.",
+        "pages": [
+          10,
+          10,
+          10,
+          10,
+          10
+        ],
+        "richtig": true
+      },
+      {
+        "id": "D",
+        "text": "Die Klage gegen einen Rechtsakt ohne Verordnungscharakter ist unstatthaft, wenn ein privilegierter Kläger im Sinne von Art. 263 Abs. 2 AEUV kein besonderes Rechtsschutzbedürfnis nachweist. Richtet sich die Klage jedoch gegen einen Rechtsakt mit Verordnungscharakter, müssen privilegierte Kläger im Rahmen der Klagebefugnis lediglich die Möglichkeit einer Verletzung des Unionsrechts glaubhaft machen.",
+        "pages": [
+          10,
+          10,
+          10,
+          10,
+          10
+        ],
+        "richtig": false
+      },
+      {
+        "id": "E",
+        "text": "Handelt es sich um einen Rechtsakt mit Verordnungscharakter, müssen nicht-privilegierte Kläger im Sinne von Art. 263 Abs. 4 AEUV ein besonderes Rechtsschutzbedürfnis nachweisen. Richtet sich die Klage gegen einen Rechtsakt ohne Verordnungscharakter, sind lediglich Adressaten des Rechtsaktes klagebefugt.",
+        "pages": [
+          10,
+          10,
+          10,
+          10
+        ],
+        "richtig": false
+      }
+    ],
+    "activeRecall": {
+      "frage": "Beantworte ohne Antwortoptionen: Welche Bedeutung hat die Unterscheidung zwischen Rechtsakten mit Verordnungscharakter und Rechtsakten ohne Verordnungscharakter im Kontext der Nichtigkeitsklage?",
+      "musterantwort": "C: Richtet sich die Klage eines nichtprivilegierten Klägers im Sinne von Art. 263 Abs. 4 AEUV gegen einen Rechtsakt mit Verordnungscharakter, der keinen Durchführungsakt nach sich zieht, genügt der Nachweis der unmittelbaren Betroffenheit. Handelt es sich hingegen um einen Rechtsakt ohne Verordnungscharakter, ist der Kläger dann klagebefugt, wenn er Adressat des Rechtsaktes ist oder unmittelbar und individuell durch diesen betroffen ist."
+    },
+    "review": {
+      "status": "auto_extracted_full",
+      "hinweis": "Richtige Lösungen wurden aus Unterstreichungen abgeleitet; bitte stichprobenartig gegen PDF gegenprüfen."
+    }
+  },
+  {
+    "id": "eur1_042",
+    "gebiet": "Europarecht I",
+    "thema": "",
+    "typ": "multiple",
+    "quelle": {
+      "datei": "EUR I Komplett.pdf",
+      "seite_start": 10,
+      "seite_ende": 10
+    },
+    "frage": "Welche Zulässigkeitsvoraussetzung(en) haben Klagen zur Einleitung eines Vertragsverletzungsverfahrens gemäß Art. 258 f. AEUV nicht? (x aus 5)",
+    "antworten": [
+      {
+        "id": "A",
+        "text": "Klagefrist",
+        "pages": [
+          10
+        ],
+        "richtig": true
+      },
+      {
+        "id": "B",
+        "text": "Vorverfahren (erforderlich)",
+        "pages": [
+          10
+        ],
+        "richtig": false
+      },
+      {
+        "id": "C",
+        "text": "Klageberechtigung (erforderlich)",
+        "pages": [
+          10
+        ],
+        "richtig": false
+      },
+      {
+        "id": "D",
+        "text": "Beteiligtenfähigkeit (erforderlich)",
+        "pages": [
+          10
+        ],
+        "richtig": false
+      },
+      {
+        "id": "E",
+        "text": "besonderes Rechtsschutzinteresse",
+        "pages": [
+          10
+        ],
+        "richtig": true
+      }
+    ],
+    "activeRecall": {
+      "frage": "Beantworte ohne Antwortoptionen: Welche Zulässigkeitsvoraussetzung(en) haben Klagen zur Einleitung eines Vertragsverletzungsverfahrens gemäß Art. 258 f. AEUV nicht?",
+      "musterantwort": "A: Klagefrist; E: besonderes Rechtsschutzinteresse"
+    },
+    "review": {
+      "status": "auto_extracted_full",
+      "hinweis": "Richtige Lösungen wurden aus Unterstreichungen abgeleitet; bitte stichprobenartig gegen PDF gegenprüfen."
+    }
+  },
+  {
+    "id": "eur1_043",
+    "gebiet": "Europarecht I",
+    "thema": "",
+    "typ": "single",
+    "quelle": {
+      "datei": "EUR I Komplett.pdf",
+      "seite_start": 10,
+      "seite_ende": 10
+    },
+    "frage": "Welche Aussage/n trifft/treffen auf die Untätigkeitsklage gemäß Art. 265 AEUV zu? (x aus 5)",
+    "antworten": [
+      {
+        "id": "A",
+        "text": "Bei der Untätigkeitsklage handelt es sich um eine Verpflichtungsklage.",
+        "pages": [
+          10
+        ],
+        "richtig": false
+      },
+      {
+        "id": "B",
+        "text": "Das Vorverfahren soll einen souveränitätsschonenden Ausgleich zwischen dem klagenden und dem verklagten Mitgliedstaat gewährleisten.",
+        "pages": [
+          10,
+          10
+        ],
+        "richtig": false
+      },
+      {
+        "id": "C",
+        "text": "Die Untätigkeitsklage dient unter anderem dem individuellen Rechtsschutz gegen Vertragsverletzungen durch Unionsorgane.",
+        "pages": [
+          10,
+          10
+        ],
+        "richtig": true
+      },
+      {
+        "id": "D",
+        "text": "Aktiv parteifähig sind ausschließlich Organe der Europäischen Union.",
+        "pages": [
+          10
+        ],
+        "richtig": false
+      },
+      {
+        "id": "E",
+        "text": "Unterlässt es ein Mitgliedstaat, eine Maßnahme zu treffen, zu der er unionsrechtlich verpflichtet ist, so können Organe der Union sowie andere Mitgliedstaaten Untätigkeitsklage erheben.",
+        "pages": [
+          10,
+          10
+        ],
+        "richtig": false
+      }
+    ],
+    "activeRecall": {
+      "frage": "Beantworte ohne Antwortoptionen: Welche Aussage/n trifft/treffen auf die Untätigkeitsklage gemäß Art. 265 AEUV zu?",
+      "musterantwort": "C: Die Untätigkeitsklage dient unter anderem dem individuellen Rechtsschutz gegen Vertragsverletzungen durch Unionsorgane."
+    },
+    "review": {
+      "status": "auto_extracted_full",
+      "hinweis": "Richtige Lösungen wurden aus Unterstreichungen abgeleitet; bitte stichprobenartig gegen PDF gegenprüfen."
+    }
+  },
+  {
+    "id": "eur1_044",
+    "gebiet": "Europarecht I",
+    "thema": "",
+    "typ": "multiple",
+    "quelle": {
+      "datei": "EUR I Komplett.pdf",
+      "seite_start": 10,
+      "seite_ende": 10
+    },
+    "frage": "Vervollständigen Sie den folgenden Satz zu einer/mehreren zutreffenden Aussage: (x aus 5) Die sogenannte Passerelle-Klausel (Brückenklausel) gemäß Art. 48 Abs. 7 EUV…",
+    "antworten": [
+      {
+        "id": "A",
+        "text": "ermächtigt den Rat der Europäischen Union, einen Beschluss zu erlassen, nach welchem Entscheidungen mit Einstimmigkeitserfordernis künftig auch mit qualifizierter Mehrheit getroffen werden können.",
+        "pages": [
+          10,
+          10,
+          10
+        ],
+        "richtig": false
+      },
+      {
+        "id": "B",
+        "text": "ermächtigt den Rat, ausnahmsweise mit qualifizierter Mehrheit zu beschließen, wenn eigentlich Einstimmigkeit gefordert ist.",
+        "pages": [
+          10,
+          10
+        ],
+        "richtig": false
+      },
+      {
+        "id": "C",
+        "text": "ermächtigt den Europäischen Rat, Beschluss zu fassen, dass der Rat in einem der Fälle, in denen er eigentlich einstimmig entscheiden muss, auch mit einer qualifizierten Mehrheit entscheiden darf.",
+        "pages": [
+          10,
+          10
+        ],
+        "richtig": true
+      },
+      {
+        "id": "D",
+        "text": "betrifft das ordentliche Änderungsverfahren der Verträge.",
+        "pages": [
+          10
+        ],
+        "richtig": false
+      },
+      {
+        "id": "E",
+        "text": "betrifft das vereinfachte Änderungsverfahren der Verträge.",
+        "pages": [
+          10
+        ],
+        "richtig": true
+      }
+    ],
+    "activeRecall": {
+      "frage": "Gib ohne Antwortoptionen die zutreffende(n) Aussage(n) zu folgender Frage wieder: Vervollständigen Sie den folgenden Satz zu einer/mehreren zutreffenden Aussage: Die sogenannte Passerelle-Klausel (Brückenklausel) gemäß Art. 48 Abs. 7 EUV…",
+      "musterantwort": "C: ermächtigt den Europäischen Rat, Beschluss zu fassen, dass der Rat in einem der Fälle, in denen er eigentlich einstimmig entscheiden muss, auch mit einer qualifizierten Mehrheit entscheiden darf.; E: betrifft das vereinfachte Änderungsverfahren der Verträge."
+    },
+    "review": {
+      "status": "auto_extracted_full",
+      "hinweis": "Richtige Lösungen wurden aus Unterstreichungen abgeleitet; bitte stichprobenartig gegen PDF gegenprüfen."
+    }
+  },
+  {
+    "id": "eur1_045",
+    "gebiet": "Europarecht I",
+    "thema": "",
+    "typ": "single",
+    "quelle": {
+      "datei": "EUR I Komplett.pdf",
+      "seite_start": 10,
+      "seite_ende": 11
+    },
+    "frage": "Was versteht man unter einer Passerelle-Klausel (Brückenklausel)?",
+    "antworten": [
+      {
+        "id": "A",
+        "text": "eine unionsrechtliche Bestimmung, nach der die unmittelbare Geltung des Unionsrechts festgelegt wird",
+        "pages": [
+          10,
+          11
+        ],
+        "richtig": false
+      },
+      {
+        "id": "B",
+        "text": "eine verfassungsrechtliche Bestimmung, welche die Übertragung von Hoheitsrechten auf die Europäische Union ermöglicht",
+        "pages": [
+          11,
+          11
+        ],
+        "richtig": false
+      },
+      {
+        "id": "C",
+        "text": "eine Bestimmung, die es einem Organ ermöglicht, einen Beschluss zu fassen, wonach bestimmte, eigentlich einstimmig zu treffende Entscheidungen fortan mit Mehrheit beschlossen werden können",
+        "pages": [
+          11,
+          11
+        ],
+        "richtig": true
+      },
+      {
+        "id": "D",
+        "text": "eine Bestimmung, nach welcher sich Unionsbürger im Rahmen einer Individualbeschwerde direkt an den EuGH wenden können",
+        "pages": [
+          11,
+          11
+        ],
+        "richtig": false
+      },
+      {
+        "id": "E",
+        "text": "eine Bestimmung, die die Kommission dazu ermächtigt, delegierte Rechtsakte zu erlassen",
+        "pages": [
+          11
+        ],
+        "richtig": false
+      }
+    ],
+    "activeRecall": {
+      "frage": "Beantworte ohne Antwortoptionen: Was versteht man unter einer Passerelle-Klausel (Brückenklausel)?",
+      "musterantwort": "C: eine Bestimmung, die es einem Organ ermöglicht, einen Beschluss zu fassen, wonach bestimmte, eigentlich einstimmig zu treffende Entscheidungen fortan mit Mehrheit beschlossen werden können"
+    },
+    "review": {
+      "status": "auto_extracted_full",
+      "hinweis": "Richtige Lösungen wurden aus Unterstreichungen abgeleitet; bitte stichprobenartig gegen PDF gegenprüfen."
+    }
+  },
+  {
+    "id": "eur1_046",
+    "gebiet": "Europarecht I",
+    "thema": "",
+    "typ": "multiple",
+    "quelle": {
+      "datei": "EUR I Komplett.pdf",
+      "seite_start": 11,
+      "seite_ende": 11
+    },
+    "frage": "Welche Aussage/n ist/sind in Bezug auf das ordentliche Gesetzgebungsverfahren gemäß Art. 294 AEUV zutreffend? (x aus 5)",
+    "antworten": [
+      {
+        "id": "A",
+        "text": "Der Gesetzgebungsprozess kann bis zu sechs Lesungen im Europäischen Parlament umfassen.",
+        "pages": [
+          11
+        ],
+        "richtig": false
+      },
+      {
+        "id": "B",
+        "text": "Billigt das Parlament den Rechtsaktentwurf in zweiter Lesung, so muss der Rat nicht mehr über den Entwurf abstimmen.",
+        "pages": [
+          11,
+          11
+        ],
+        "richtig": true
+      },
+      {
+        "id": "C",
+        "text": "Im ordentlichen Gesetzgebungsverfahren entscheidet allein das Europäische Parlament über Gesetzesinitiativen der Kommission.",
+        "pages": [
+          11,
+          11
+        ],
+        "richtig": false
+      },
+      {
+        "id": "D",
+        "text": "Im ordentlichen Gesetzgebungsverfahren wird über die von der Kommission vorgeschlagenen Gesetzgebungsakte (Verordnungen oder Richtlinien) vom Europäischen Parlament und vom Rat gemeinsam verhandelt.",
+        "pages": [
+          11,
+          11,
+          11
+        ],
+        "richtig": true
+      },
+      {
+        "id": "E",
+        "text": "Lehnt das Parlament den Rechtsaktentwurf in zweiter Lesung mit absoluter Mehrheit ab, so kann der Rat immer noch Änderungsvorschläge des Parlaments annehmen oder ablehnen.",
+        "pages": [
+          11,
+          11
+        ],
+        "richtig": false
+      }
+    ],
+    "activeRecall": {
+      "frage": "Beantworte ohne Antwortoptionen: Welche Aussage/n ist/sind in Bezug auf das ordentliche Gesetzgebungsverfahren gemäß Art. 294 AEUV zutreffend?",
+      "musterantwort": "B: Billigt das Parlament den Rechtsaktentwurf in zweiter Lesung, so muss der Rat nicht mehr über den Entwurf abstimmen.; D: Im ordentlichen Gesetzgebungsverfahren wird über die von der Kommission vorgeschlagenen Gesetzgebungsakte (Verordnungen oder Richtlinien) vom Europäischen Parlament und vom Rat gemeinsam verhandelt."
+    },
+    "review": {
+      "status": "auto_extracted_full",
+      "hinweis": "Richtige Lösungen wurden aus Unterstreichungen abgeleitet; bitte stichprobenartig gegen PDF gegenprüfen."
+    }
+  },
+  {
+    "id": "eur1_047",
+    "gebiet": "Europarecht I",
+    "thema": "",
+    "typ": "multiple",
+    "quelle": {
+      "datei": "EUR I Komplett.pdf",
+      "seite_start": 11,
+      "seite_ende": 11
+    },
+    "frage": "Welche Aussage(n) ist/sind in Bezug auf das ordentliche Gesetzgebungsverfahren der Europäischen Union zutreffend?",
+    "antworten": [
+      {
+        "id": "A",
+        "text": "Der Gesetzgebungsprozess kann bis zu vier Lesungen im Europäischen Parlament umfassen.",
+        "pages": [
+          11
+        ],
+        "richtig": false
+      },
+      {
+        "id": "B",
+        "text": "Lehnt das Parlament den Rechtsaktentwurf in zweiter Lesung mit absoluter Mehrheit ab, so kann der Rat immer noch Änderungsvorschläge des Parlaments annehmen oder ablehnen.",
+        "pages": [
+          11,
+          11
+        ],
+        "richtig": false
+      },
+      {
+        "id": "C",
+        "text": "Billigt das Parlament den Rechtsaktentwurf in zweiter Lesung, so muss der Rat nicht mehr über den Entwurf abstimmen.",
+        "pages": [
+          11,
+          11
+        ],
+        "richtig": true
+      },
+      {
+        "id": "D",
+        "text": "Im Gesetzgebungsverfahren entscheidet allein das Europäische Parlament über Gesetzesinitiativen der Kommission.",
+        "pages": [
+          11,
+          11
+        ],
+        "richtig": false
+      },
+      {
+        "id": "E",
+        "text": "Im ordentlichen Gesetzgebungsverfahren wird über die von der Kommission vorgeschlagenen Legislativakte vom Europäischen Parlament und vom Rat gemeinsam verhandelt.",
+        "pages": [
+          11,
+          11
+        ],
+        "richtig": true
+      }
+    ],
+    "activeRecall": {
+      "frage": "Beantworte ohne Antwortoptionen: Welche Aussage(n) ist/sind in Bezug auf das ordentliche Gesetzgebungsverfahren der Europäischen Union zutreffend?",
+      "musterantwort": "C: Billigt das Parlament den Rechtsaktentwurf in zweiter Lesung, so muss der Rat nicht mehr über den Entwurf abstimmen.; E: Im ordentlichen Gesetzgebungsverfahren wird über die von der Kommission vorgeschlagenen Legislativakte vom Europäischen Parlament und vom Rat gemeinsam verhandelt."
+    },
+    "review": {
+      "status": "auto_extracted_full",
+      "hinweis": "Richtige Lösungen wurden aus Unterstreichungen abgeleitet; bitte stichprobenartig gegen PDF gegenprüfen."
+    }
+  },
+  {
+    "id": "eur1_048",
+    "gebiet": "Europarecht I",
+    "thema": "",
+    "typ": "multiple",
+    "quelle": {
+      "datei": "EUR I Komplett.pdf",
+      "seite_start": 11,
+      "seite_ende": 11
+    },
+    "frage": "Welche Aussage(n) ist/sind in Bezug auf das ordentliche Gesetzgebungsverfahren zutreffend?",
+    "antworten": [
+      {
+        "id": "A",
+        "text": "Billigt das Parlament den Rechtsaktentwurf in zweiter Lesung, so muss der Rat nicht mehr über den Entwurf abstimmen.",
+        "pages": [
+          11,
+          11
+        ],
+        "richtig": true
+      },
+      {
+        "id": "B",
+        "text": "Im ordentlichen Gesetzgebungsverfahren wird über die von der Kommission vorgeschlagenen Legislativakte vom Europäischen Parlament und vom Rat gemeinsam verhandelt.",
+        "pages": [
+          11,
+          11
+        ],
+        "richtig": true
+      },
+      {
+        "id": "C",
+        "text": "Der Gesetzgebungsprozess kann bis zu drei Lesungen im Europäischen Parlament umfassen.",
+        "pages": [
+          11
+        ],
+        "richtig": true
+      },
+      {
+        "id": "D",
+        "text": "Im ordentlichen Gesetzgebungsverfahren entscheidet allein das Europäische Parlament über Gesetzesinitiativen der Kommission.",
+        "pages": [
+          11,
+          11
+        ],
+        "richtig": false
+      },
+      {
+        "id": "E",
+        "text": "Lehnt das Parlament den Rechtsaktentwurf in zweiter Lesung mit absoluter Mehrheit ab, so kann der Rat immer noch Änderungsvorschläge des Parlaments annehmen oder ablehnen.",
+        "pages": [
+          11,
+          11
+        ],
+        "richtig": false
+      }
+    ],
+    "activeRecall": {
+      "frage": "Beantworte ohne Antwortoptionen: Welche Aussage(n) ist/sind in Bezug auf das ordentliche Gesetzgebungsverfahren zutreffend?",
+      "musterantwort": "A: Billigt das Parlament den Rechtsaktentwurf in zweiter Lesung, so muss der Rat nicht mehr über den Entwurf abstimmen.; B: Im ordentlichen Gesetzgebungsverfahren wird über die von der Kommission vorgeschlagenen Legislativakte vom Europäischen Parlament und vom Rat gemeinsam verhandelt.; C: Der Gesetzgebungsprozess kann bis zu drei Lesungen im Europäischen Parlament umfassen."
+    },
+    "review": {
+      "status": "auto_extracted_full",
+      "hinweis": "Richtige Lösungen wurden aus Unterstreichungen abgeleitet; bitte stichprobenartig gegen PDF gegenprüfen."
+    }
+  },
+  {
+    "id": "eur1_049",
+    "gebiet": "Europarecht I",
+    "thema": "",
+    "typ": "multiple",
+    "quelle": {
+      "datei": "EUR I Komplett.pdf",
+      "seite_start": 11,
+      "seite_ende": 12
+    },
+    "frage": "Welche Aussage/n trifft/treffen auf den Vollzug des Unionsrechts zu? (x aus 5)",
+    "antworten": [
+      {
+        "id": "A",
+        "text": "Das nationale Vollzugsrecht muss aufgrund des Anwendungsvorrangs stets so ausgestaltet sein, dass es spezielle Verfahrensvorschriften für unionsrechtliche Sachverhalte enthält.",
+        "pages": [
+          11,
+          11
+        ],
+        "richtig": false
+      },
+      {
+        "id": "B",
+        "text": "Unionsrecht wird durch die Mitgliedstaaten (direkter Vollzug) sowie durch die Europäische Union (indirekter Vollzug) vollzogen.",
+        "pages": [
+          11,
+          11
+        ],
+        "richtig": false
+      },
+      {
+        "id": "C",
+        "text": "Die Mitgliedstaaten bestimmen grundsätzlich selbst, welche Behörde für den Vollzug des Unionsrechts zuständig ist und nach welchem Verfahren diese vorgeht.",
+        "pages": [
+          11,
+          11
+        ],
+        "richtig": true
+      },
+      {
+        "id": "D",
+        "text": "In Deutschland bestimmt sich die Zuständigkeit für den innerstaatlichen Vollzug des Unionsrechts nach der Zuständigkeitsverteilung der Vollzugskompetenzen des Grundgesetzes analog Art. 83 ff. GG.",
+        "pages": [
+          11,
+          11,
+          11
+        ],
+        "richtig": true
+      },
+      {
+        "id": "E",
+        "text": "Eine gewährte unionsrechtswidrige Beihilfe an ein Unternehmen muss eine Behörde grundsätzlich nicht zurücknehmen, da der Vertrauensschutz des Beihilfenempfängers in die Rechtmäßigkeit und den Bestand des Verwaltungsaktes immer Vorrang vor dem Rücknahmeinteresse genießt.",
+        "pages": [
+          12,
+          12,
+          12
+        ],
+        "richtig": false
+      }
+    ],
+    "activeRecall": {
+      "frage": "Beantworte ohne Antwortoptionen: Welche Aussage/n trifft/treffen auf den Vollzug des Unionsrechts zu?",
+      "musterantwort": "C: Die Mitgliedstaaten bestimmen grundsätzlich selbst, welche Behörde für den Vollzug des Unionsrechts zuständig ist und nach welchem Verfahren diese vorgeht.; D: In Deutschland bestimmt sich die Zuständigkeit für den innerstaatlichen Vollzug des Unionsrechts nach der Zuständigkeitsverteilung der Vollzugskompetenzen des Grundgesetzes analog Art. 83 ff. GG."
+    },
+    "review": {
+      "status": "auto_extracted_full",
+      "hinweis": "Richtige Lösungen wurden aus Unterstreichungen abgeleitet; bitte stichprobenartig gegen PDF gegenprüfen."
+    }
+  },
+  {
+    "id": "eur1_050",
+    "gebiet": "Europarecht I",
+    "thema": "",
+    "typ": "single",
+    "quelle": {
+      "datei": "EUR I Komplett.pdf",
+      "seite_start": 12,
+      "seite_ende": 12
+    },
+    "frage": "Gehen Sie davon aus, dass die Bundesrepublik Deutschland ein einfaches Gesetz erlässt, welches Frauen den militärischen Dienst mit der Waffe verbietet. Der Europäische Gerichtshof hatte in der Vergangenheit die für diesen Fall einschlägige Europäische Gleichbehandlungsrichtlinie 2006/54/EG allerdings dahingehend ausgelegt, dass Frauen vom Dienst mit der Waffe nicht ausgeschlossen werden dürfen. Welche Aussage(n) trifft / treffen auf den vorliegenden Fall zu?",
+    "antworten": [
+      {
+        "id": "A",
+        "text": "Die Bundesrepublik Deutschland kann nicht vor dem Europäischen Gerichtshof verklagt werden, wenn Art. 12a Abs. 4 S. 2 GG durch folgenden Passus ersetzt wird: „Frauen dürfen auf keinen Fall Dienst mit der Waffe leisten.“",
+        "pages": [
+          12,
+          12,
+          12
+        ],
+        "richtig": false
+      },
+      {
+        "id": "B",
+        "text": "Wenn eine Bewerberin, die sich für den Dienst mit der Waffe beworben hat, abgelehnt wird und gegen diese Ablehnung vor dem Verwaltungsgericht klagt, ist das Verwaltungsgericht verpflichtet, den Europäischen Gerichtshof um eine Vorabentscheidung zu ersuchen.",
+        "pages": [
+          12,
+          12,
+          12
+        ],
+        "richtig": false
+      },
+      {
+        "id": "C",
+        "text": "Der deutsche Gesetzgeber sowie alle nationalen Gerichte sind an die Auslegung des Unionsrechts durch den Europäischen Gerichtshof gebunden.",
+        "pages": [
+          12,
+          12
+        ],
+        "richtig": true
+      },
+      {
+        "id": "D",
+        "text": "Da die Gleichbehandlungsrichtlinie einen Umsetzungsspielraum gewährt, ist die Bundesrepublik Deutschland nicht an die Auslegung des Europäischen Gerichtshofs gebunden.",
+        "pages": [
+          12,
+          12
+        ],
+        "richtig": false
+      },
+      {
+        "id": "E",
+        "text": "Die Bundesrepublik Deutschland muss kein Vertragsverletzungsverfahren gemäß Art. 258 ff. AEUV befürchten, da das nationale Gesetz nicht gegen Primärrecht der Europäischen Union verstößt.",
+        "pages": [
+          12,
+          12
+        ],
+        "richtig": false
+      }
+    ],
+    "activeRecall": {
+      "frage": "Beantworte ohne Antwortoptionen: Gehen Sie davon aus, dass die Bundesrepublik Deutschland ein einfaches Gesetz erlässt, welches Frauen den militärischen Dienst mit der Waffe verbietet. Der Europäische Gerichtshof hatte in der Vergangenheit die für diesen Fall einschlägige Europäische Gleichbehandlungsrichtlinie 2006/54/EG allerdings dahingehend ausgelegt, dass Frauen vom Dienst mit der Waffe nicht ausgeschlossen werden dürfen. Welche Aussage(n) trifft / treffen auf den vorliegenden Fall zu?",
+      "musterantwort": "C: Der deutsche Gesetzgeber sowie alle nationalen Gerichte sind an die Auslegung des Unionsrechts durch den Europäischen Gerichtshof gebunden."
+    },
+    "review": {
+      "status": "auto_extracted_full",
+      "hinweis": "Richtige Lösungen wurden aus Unterstreichungen abgeleitet; bitte stichprobenartig gegen PDF gegenprüfen."
+    }
+  },
+  {
+    "id": "eur1_051",
+    "gebiet": "Europarecht I",
+    "thema": "",
+    "typ": "multiple",
+    "quelle": {
+      "datei": "EUR I Komplett.pdf",
+      "seite_start": 12,
+      "seite_ende": 12
+    },
+    "frage": "Welche Rechtsfolge(n) tritt/treten ein, wenn die Kommission im Rahmen einer Aufsichtsklage kein ordnungsgemäßes Vorverfahren durchführt?",
+    "antworten": [
+      {
+        "id": "A",
+        "text": "keine in den Fällen der Art. 114 Abs. 9 und Art. 348 Abs. 2 AEUV",
+        "pages": [
+          12
+        ],
+        "richtig": true
+      },
+      {
+        "id": "B",
+        "text": "Entstehung eines unionsrechtlichen Amtshaftungsanspruchs nach Art. 340 Abs. 2 AEUV",
+        "pages": [
+          12
+        ],
+        "richtig": false
+      },
+      {
+        "id": "C",
+        "text": "keine, da reine Verfahrensfehler im Europäischen Unionsrecht grundsätzlich unbeachtlich sind",
+        "pages": [
+          12
+        ],
+        "richtig": false
+      },
+      {
+        "id": "D",
+        "text": "Unzulässigkeit der Aufsichtsklage",
+        "pages": [
+          12
+        ],
+        "richtig": true
+      },
+      {
+        "id": "E",
+        "text": "keine, wenn sich der beklagte Mitgliedstaat auf Eigeninitiative umfassend zum mutmaßlichen Verstoß äußert und der Formmangel dadurch geheilt wird",
+        "pages": [
+          12,
+          12
+        ],
+        "richtig": false
+      }
+    ],
+    "activeRecall": {
+      "frage": "Beantworte ohne Antwortoptionen: Welche Rechtsfolge(n) tritt/treten ein, wenn die Kommission im Rahmen einer Aufsichtsklage kein ordnungsgemäßes Vorverfahren durchführt?",
+      "musterantwort": "A: keine in den Fällen der Art. 114 Abs. 9 und Art. 348 Abs. 2 AEUV; D: Unzulässigkeit der Aufsichtsklage"
+    },
+    "review": {
+      "status": "auto_extracted_full",
+      "hinweis": "Richtige Lösungen wurden aus Unterstreichungen abgeleitet; bitte stichprobenartig gegen PDF gegenprüfen."
+    }
+  },
+  {
+    "id": "eur1_052",
+    "gebiet": "Europarecht I",
+    "thema": "",
+    "typ": "multiple",
+    "quelle": {
+      "datei": "EUR I Komplett.pdf",
+      "seite_start": 12,
+      "seite_ende": 12
+    },
+    "frage": "Auf Vorschlag der Kommission soll die Einwanderungspolitik in den Mitgliedstaaten stärker angeglichen werden. Ein Verordnungsentwurf der Kommission zum Asyl- und Migrationsmanagement wird mit einfacher Mehrheit im Europäischen Parlament in erster Lesung gebilligt. Schließlich nimmt sich die Ratsformation Umwelt dem Beschluss an und billigt den Standpunkt des Parlaments mit qualifizierter Mehrheit. Die Verordnung wird am 28.02.2024 bekanntgegeben. Mitgliedstaat B erhebt am 30.03.2024 beim Europäischen Gerichtshof schriftlich Nichtigkeitsklage gemäß Art. 263 Abs. 1 AEUV gegen den Rechtsakt. Die Klage stützt B auf die Argumentation, die Ratsformation Umwelt sei gar nicht zuständig, um in Angelegenheiten des Inneren zu beraten. Welche Aussage(n) trifft/treffen auf den vorliegenden Fall zu?",
+    "antworten": [
+      {
+        "id": "A",
+        "text": "Die Ratsformation „Umwelt“ ist für den Politikbereich der Einwanderungspolitik nicht zuständig. Sie beschneidet mithin die Kompetenzen der Ratsformation „Justiz und Inneres“.",
+        "pages": [
+          12,
+          12
+        ],
+        "richtig": false
+      },
+      {
+        "id": "B",
+        "text": "Die Klage ist zulässig und begründet.",
+        "pages": [
+          12
+        ],
+        "richtig": false
+      },
+      {
+        "id": "C",
+        "text": "Die Klage ist unbegründet, sofern der Rechtsakt auch im Übrigen rechtmäßig ist.",
+        "pages": [
+          12
+        ],
+        "richtig": true
+      },
+      {
+        "id": "D",
+        "text": "Die Klagefrist wurde gewahrt.",
+        "pages": [
+          12
+        ],
+        "richtig": true
+      },
+      {
+        "id": "E",
+        "text": "Es ist unerheblich, in welcher Formation der Rat auftritt, da alle Ratsformationen die gleichen Befugnisse haben.",
+        "pages": [
+          12,
+          12
+        ],
+        "richtig": true
+      }
+    ],
+    "activeRecall": {
+      "frage": "Beantworte ohne Antwortoptionen: Auf Vorschlag der Kommission soll die Einwanderungspolitik in den Mitgliedstaaten stärker angeglichen werden. Ein Verordnungsentwurf der Kommission zum Asyl- und Migrationsmanagement wird mit einfacher Mehrheit im Europäischen Parlament in erster Lesung gebilligt. Schließlich nimmt sich die Ratsformation Umwelt dem Beschluss an und billigt den Standpunkt des Parlaments mit qualifizierter Mehrheit. Die Verordnung wird am 28.02.2024 bekanntgegeben. Mitgliedstaat B erhebt am 30.03.2024 beim Europäischen Gerichtshof schriftlich Nichtigkeitsklage gemäß Art. 263 Abs. 1 AEUV gegen den Rechtsakt. Die Klage stützt B auf die Argumentation, die Ratsformation Umwelt sei gar nicht zuständig, um in Angelegenheiten des Inneren zu beraten. Welche Aussage(n) trifft/treffen auf den vorliegenden Fall zu?",
+      "musterantwort": "C: Die Klage ist unbegründet, sofern der Rechtsakt auch im Übrigen rechtmäßig ist.; D: Die Klagefrist wurde gewahrt.; E: Es ist unerheblich, in welcher Formation der Rat auftritt, da alle Ratsformationen die gleichen Befugnisse haben."
+    },
+    "review": {
+      "status": "auto_extracted_full",
+      "hinweis": "Richtige Lösungen wurden aus Unterstreichungen abgeleitet; bitte stichprobenartig gegen PDF gegenprüfen."
+    }
+  },
+  {
+    "id": "eur1_053",
+    "gebiet": "Europarecht I",
+    "thema": "",
+    "typ": "multiple",
+    "quelle": {
+      "datei": "EUR I Komplett.pdf",
+      "seite_start": 12,
+      "seite_ende": 13
+    },
+    "frage": "Welche Aussage(n) trifft/treffen auf den Subsidiaritätsgrundsatz im unionsrechtlichen Kontext zu?",
+    "antworten": [
+      {
+        "id": "A",
+        "text": "Der indirekte Verwaltungsvollzug des Unionsrechts unterliegt dem Grundsatz der Subsidiarität.",
+        "pages": [
+          12
+        ],
+        "richtig": false
+      },
+      {
+        "id": "B",
+        "text": "Der Grundsatz der Subsidiarität findet auf die nicht ausschließlichen Zuständigkeiten der Europäischen Union Anwendung.",
+        "pages": [
+          12,
+          12
+        ],
+        "richtig": true
+      },
+      {
+        "id": "C",
+        "text": "Sinn und Zweck des Grundsatzes der Subsidiarität ist es, die Entscheidungs- und Handlungsfähigkeit der Mitgliedstaaten zu schützen.",
+        "pages": [
+          13,
+          13
+        ],
+        "richtig": true
+      },
+      {
+        "id": "D",
+        "text": "Adressaten des Grundsatzes der Subsidiarität sind gemäß Art. 12 lit. b EUV nur die Mitgliedstaaten.",
+        "pages": [
+          13,
+          13
+        ],
+        "richtig": false
+      },
+      {
+        "id": "E",
+        "text": "Der Grundsatz der Subsidiarität kommt dann zur Anwendung, wenn eine primärrechtliche Vorschrift des Unionsrechts mit einer nationalen Norm kollidiert.",
+        "pages": [
+          13,
+          13
+        ],
+        "richtig": false
+      }
+    ],
+    "activeRecall": {
+      "frage": "Beantworte ohne Antwortoptionen: Welche Aussage(n) trifft/treffen auf den Subsidiaritätsgrundsatz im unionsrechtlichen Kontext zu?",
+      "musterantwort": "B: Der Grundsatz der Subsidiarität findet auf die nicht ausschließlichen Zuständigkeiten der Europäischen Union Anwendung.; C: Sinn und Zweck des Grundsatzes der Subsidiarität ist es, die Entscheidungs- und Handlungsfähigkeit der Mitgliedstaaten zu schützen."
+    },
+    "review": {
+      "status": "auto_extracted_full",
+      "hinweis": "Richtige Lösungen wurden aus Unterstreichungen abgeleitet; bitte stichprobenartig gegen PDF gegenprüfen."
+    }
+  },
+  {
+    "id": "eur1_054",
+    "gebiet": "Europarecht I",
+    "thema": "",
+    "typ": "multiple",
+    "quelle": {
+      "datei": "EUR I Komplett.pdf",
+      "seite_start": 13,
+      "seite_ende": 13
+    },
+    "frage": "Welche Aussage(n) trifft/treffen auf den Bereich der Gemeinsamen Außen- und Sicherheitspolitik (GASP) zu?",
+    "antworten": [
+      {
+        "id": "A",
+        "text": "Regelungen der GASP sind nicht vom Anwendungsvorrang des Unionsrechts ausgenommen.",
+        "pages": [
+          13
+        ],
+        "richtig": false
+      },
+      {
+        "id": "B",
+        "text": "Die GASP verfügt als eine der drei Säulen der Europäischen Union über eine eigenständige Rechtspersönlichkeit.",
+        "pages": [
+          13,
+          13
+        ],
+        "richtig": false
+      },
+      {
+        "id": "C",
+        "text": "Die GASP ist nicht supranational ausgestaltet.",
+        "pages": [
+          13
+        ],
+        "richtig": true
+      },
+      {
+        "id": "D",
+        "text": "Rechtsakte der GASP gehören nicht zum acquis communautaire (gemeinsamen Besitzstand) der Europäischen Union.",
+        "pages": [
+          13,
+          13
+        ],
+        "richtig": false
+      },
+      {
+        "id": "E",
+        "text": "Die GASP unterliegt dem Einstimmigkeitsprinzip.",
+        "pages": [
+          13
+        ],
+        "richtig": true
+      }
+    ],
+    "activeRecall": {
+      "frage": "Beantworte ohne Antwortoptionen: Welche Aussage(n) trifft/treffen auf den Bereich der Gemeinsamen Außen- und Sicherheitspolitik (GASP) zu?",
+      "musterantwort": "C: Die GASP ist nicht supranational ausgestaltet.; E: Die GASP unterliegt dem Einstimmigkeitsprinzip."
+    },
+    "review": {
+      "status": "auto_extracted_full",
+      "hinweis": "Richtige Lösungen wurden aus Unterstreichungen abgeleitet; bitte stichprobenartig gegen PDF gegenprüfen."
+    }
+  },
+  {
+    "id": "eur1_055",
+    "gebiet": "Europarecht I",
+    "thema": "",
+    "typ": "multiple",
+    "quelle": {
+      "datei": "EUR I Komplett.pdf",
+      "seite_start": 13,
+      "seite_ende": 13
+    },
+    "frage": "Was versteht man unter „allgemeinen Rechtsgrundsätzen des Europäischen Unionsrechts“?",
+    "antworten": [
+      {
+        "id": "A",
+        "text": "Allgemeine Rechtsgrundsätze des Europäischen Unionsrechts sind Regeln, die sich aus der uniformen und dauerhaften Staatenpraxis der Mitgliedstaaten sowie deren Überzeugung ergeben, dass diese Praxis geltendes Recht darstellt.",
+        "pages": [
+          13,
+          13,
+          13
+        ],
+        "richtig": false
+      },
+      {
+        "id": "B",
+        "text": "Allgemeine Rechtsgrundsätze des Europäischen Unionsrechts sind Regelungen, die in den Primärverträgen auch verschriftlicht kodifiziert sein können.",
+        "pages": [
+          13,
+          13
+        ],
+        "richtig": true
+      },
+      {
+        "id": "C",
+        "text": "Allgemeine Rechtsgrundsätze des Europäischen Unionsrechts sind ergänzende Verfahrensregelungen, die durch den EuGH erlassen werden.",
+        "pages": [
+          13,
+          13
+        ],
+        "richtig": false
+      },
+      {
+        "id": "D",
+        "text": "Allgemeine Rechtsgrundsätze des Europäischen Unionsrechts werden aus den gemeinsamen Verfassungsprinzipien der Mitgliedstaaten abgeleitet.",
+        "pages": [
+          13,
+          13
+        ],
+        "richtig": true
+      },
+      {
+        "id": "E",
+        "text": "Allgemeine Rechtsgrundsätze des Europäischen Unionsrechts sind Regelungen, die durch den EuGH erlassen werden, um die Auslegung des geschriebenen Unionsrechts zu vereinfachen.",
+        "pages": [
+          13,
+          13
+        ],
+        "richtig": false
+      }
+    ],
+    "activeRecall": {
+      "frage": "Beantworte ohne Antwortoptionen: Was versteht man unter „allgemeinen Rechtsgrundsätzen des Europäischen Unionsrechts“?",
+      "musterantwort": "B: Allgemeine Rechtsgrundsätze des Europäischen Unionsrechts sind Regelungen, die in den Primärverträgen auch verschriftlicht kodifiziert sein können.; D: Allgemeine Rechtsgrundsätze des Europäischen Unionsrechts werden aus den gemeinsamen Verfassungsprinzipien der Mitgliedstaaten abgeleitet."
+    },
+    "review": {
+      "status": "auto_extracted_full",
+      "hinweis": "Richtige Lösungen wurden aus Unterstreichungen abgeleitet; bitte stichprobenartig gegen PDF gegenprüfen."
+    }
+  },
+  {
+    "id": "eur1_056",
+    "gebiet": "Europarecht I",
+    "thema": "",
+    "typ": "single",
+    "quelle": {
+      "datei": "EUR I Komplett.pdf",
+      "seite_start": 13,
+      "seite_ende": 13
+    },
+    "frage": "Welche Aussage(n) trifft/treffen auf die Wahl zum Europäischen Parlament zu?",
+    "antworten": [
+      {
+        "id": "A",
+        "text": "Wählerstimmen in bevölkerungsärmeren Mitgliedstaaten haben wegen des Grundsatzes der degressiven Proportionalität grundsätzlich einen geringeren Erfolgswert als Wählerstimmen in den bevölkerungsstärkeren Mitgliedstaaten.",
+        "pages": [
+          13,
+          13,
+          13
+        ],
+        "richtig": false
+      },
+      {
+        "id": "B",
+        "text": "Das Wahlverfahren wird in allen Mitgliedstaaten gemäß Art. 223 Abs. 1 AEUV formal einheitlich durchgeführt.",
+        "pages": [
+          13,
+          13
+        ],
+        "richtig": false
+      },
+      {
+        "id": "C",
+        "text": "Wählerstimmen in Deutschland haben im Rahmen der Wahlen zum Europäischen Parlament einen geringeren Erfolgswert als Wählerstimmen jener Unionsbürger, die in Luxemburg wählen.",
+        "pages": [
+          13,
+          13
+        ],
+        "richtig": true
+      },
+      {
+        "id": "D",
+        "text": "Die Wahl zum Europäischen Parlament findet grundsätzlich alle vier Jahre statt.",
+        "pages": [
+          13
+        ],
+        "richtig": false
+      },
+      {
+        "id": "E",
+        "text": "Sozialdemokratische Kandidaten in Schweden und sozialdemokratische Kandidaten in Deutschland treten auf Grundlage gemeinsamer Listenvorschläge der Sozialdemokratischen Partei Europas (SPE) an.",
+        "pages": [
+          13,
+          13,
+          13
+        ],
+        "richtig": false
+      }
+    ],
+    "activeRecall": {
+      "frage": "Beantworte ohne Antwortoptionen: Welche Aussage(n) trifft/treffen auf die Wahl zum Europäischen Parlament zu?",
+      "musterantwort": "C: Wählerstimmen in Deutschland haben im Rahmen der Wahlen zum Europäischen Parlament einen geringeren Erfolgswert als Wählerstimmen jener Unionsbürger, die in Luxemburg wählen."
+    },
+    "review": {
+      "status": "auto_extracted_full",
+      "hinweis": "Richtige Lösungen wurden aus Unterstreichungen abgeleitet; bitte stichprobenartig gegen PDF gegenprüfen."
+    }
+  },
+  {
+    "id": "eur1_057",
+    "gebiet": "Europarecht I",
+    "thema": "",
+    "typ": "multiple",
+    "quelle": {
+      "datei": "EUR I Komplett.pdf",
+      "seite_start": 13,
+      "seite_ende": 13
+    },
+    "frage": "Am 9. Juni 2024 findet in der Bundesrepublik Deutschland die Wahl zum Europäischen Parlament statt. Wie ist das Wahlverfahren der kommenden Wahl in Deutschland ausgestaltet?",
+    "antworten": [
+      {
+        "id": "A",
+        "text": "Abgeordnete werden auf Grundlage von Listenvorschlägen gewählt.",
+        "pages": [
+          13
+        ],
+        "richtig": true
+      },
+      {
+        "id": "B",
+        "text": "Die Bundesrepublik Deutschland muss, wie alle anderen Mitgliedstaaten, ein Verhältniswahlsystem anwenden.",
+        "pages": [
+          13,
+          13
+        ],
+        "richtig": true
+      },
+      {
+        "id": "C",
+        "text": "Jeder Wahlberechtigte hat zwei Stimmen. Mit der Erststimme wird der Wahlkreisabgeordnete durch eine Direktwahl bestimmt. Mit der Zweitstimme wird die Landesliste einer Partei gewählt.",
+        "pages": [
+          13,
+          13
+        ],
+        "richtig": false
+      },
+      {
+        "id": "D",
+        "text": "Die Bundesrepublik Deutschland wird in Wahlkreise unterteilt, in denen Direktkandidaten zur Wahl stehen.",
+        "pages": [
+          13,
+          13
+        ],
+        "richtig": false
+      },
+      {
+        "id": "E",
+        "text": "Die Bundesrepublik Deutschland wendet keine Sperrklausel an, nach welcher die Mandatsvergabe von einer Mindestanzahl an Stimmen abhängig ist.",
+        "pages": [
+          13,
+          13
+        ],
+        "richtig": true
+      }
+    ],
+    "activeRecall": {
+      "frage": "Beantworte ohne Antwortoptionen: Am 9. Juni 2024 findet in der Bundesrepublik Deutschland die Wahl zum Europäischen Parlament statt. Wie ist das Wahlverfahren der kommenden Wahl in Deutschland ausgestaltet?",
+      "musterantwort": "A: Abgeordnete werden auf Grundlage von Listenvorschlägen gewählt.; B: Die Bundesrepublik Deutschland muss, wie alle anderen Mitgliedstaaten, ein Verhältniswahlsystem anwenden.; E: Die Bundesrepublik Deutschland wendet keine Sperrklausel an, nach welcher die Mandatsvergabe von einer Mindestanzahl an Stimmen abhängig ist."
+    },
+    "review": {
+      "status": "auto_extracted_full",
+      "hinweis": "Richtige Lösungen wurden aus Unterstreichungen abgeleitet; bitte stichprobenartig gegen PDF gegenprüfen."
+    }
+  },
+  {
+    "id": "eur1_058",
+    "gebiet": "Europarecht I",
+    "thema": "",
+    "typ": "multiple",
+    "quelle": {
+      "datei": "EUR I Komplett.pdf",
+      "seite_start": 14,
+      "seite_ende": 14
+    },
+    "frage": "In seiner Lissabon-Entscheidung hatte das Bundesverfassungsgericht unter anderem geprüft, ob das Zustimmungsgesetz zum Vertrag von Lissabon mit den Integrationsgrenzen der Verfassung, insbesondere mit dem Demokratieprinzip, vereinbar ist (BVerfGE 123, 267). Wie bewertet das Bundesverfassungsgericht darin im Kern die Legitimation des Europäischen Parlaments?",
+    "antworten": [
+      {
+        "id": "A",
+        "text": "Das Bundesverfassungsgericht ist der Auffassung, dass die Legitimation des Europäischen Parlaments jedenfalls dann nicht mehr mit der Verfassung in Einklang stünde, wenn sich die Europäische Union zu einem (Bundes-)Staat mit originärer Hoheitsgewalt entwickeln würde.",
+        "pages": [
+          14,
+          14,
+          14
+        ],
+        "richtig": true
+      },
+      {
+        "id": "B",
+        "text": "Das Bundesverfassungsgericht erkennt zwar Defizite in der Legitimation des Europäischen Parlaments, hält diese jedoch für verfassungsrechtlich hinnehmbar, da das Defizit in der Gesamtschau noch im Verhältnis zum Kompetenzumfang der Europäischen Union stehe.",
+        "pages": [
+          14,
+          14,
+          14
+        ],
+        "richtig": true
+      },
+      {
+        "id": "C",
+        "text": "Das Bundesverfassungsgericht zeigt auf, dass Art. 20 Abs. 1 GG und Art. 38 Abs. 1 GG die gleichen Anforderungen an das Legitimationsniveau des Europäischen Parlaments stellen wie an das Legitimationsniveau des nationalen Parlaments.",
+        "pages": [
+          14,
+          14,
+          14
+        ],
+        "richtig": false
+      },
+      {
+        "id": "D",
+        "text": "Das Bundesverfassungsgericht hält die Legitimation des Europäischen Parlaments deshalb für verfassungsgemäß, weil die Unionsbürgerschaft die Anerkennung der Legitimität europäischer Institutionen maßgeblich erhöhe. Demnach fühle sich das europäische Volk aufgrund der gemeinsamen Identität ausreichend repräsentiert.",
+        "pages": [
+          14,
+          14,
+          14,
+          14
+        ],
+        "richtig": false
+      },
+      {
+        "id": "E",
+        "text": "Das Bundesverfassungsgericht sieht die Legitimation des Europäischen Parlaments durch Sperrklauseln gefährdet, da nationale Minderheiten nicht ausreichend vertreten seien.",
+        "pages": [
+          14,
+          14
+        ],
+        "richtig": false
+      }
+    ],
+    "activeRecall": {
+      "frage": "Beantworte ohne Antwortoptionen: In seiner Lissabon-Entscheidung hatte das Bundesverfassungsgericht unter anderem geprüft, ob das Zustimmungsgesetz zum Vertrag von Lissabon mit den Integrationsgrenzen der Verfassung, insbesondere mit dem Demokratieprinzip, vereinbar ist (BVerfGE 123, 267). Wie bewertet das Bundesverfassungsgericht darin im Kern die Legitimation des Europäischen Parlaments?",
+      "musterantwort": "A: Das Bundesverfassungsgericht ist der Auffassung, dass die Legitimation des Europäischen Parlaments jedenfalls dann nicht mehr mit der Verfassung in Einklang stünde, wenn sich die Europäische Union zu einem (Bundes-)Staat mit originärer Hoheitsgewalt entwickeln würde.; B: Das Bundesverfassungsgericht erkennt zwar Defizite in der Legitimation des Europäischen Parlaments, hält diese jedoch für verfassungsrechtlich hinnehmbar, da das Defizit in der Gesamtschau noch im Verhältnis zum Kompetenzumfang der Europäischen Union stehe."
+    },
+    "review": {
+      "status": "auto_extracted_full",
+      "hinweis": "Richtige Lösungen wurden aus Unterstreichungen abgeleitet; bitte stichprobenartig gegen PDF gegenprüfen."
+    }
+  },
+  {
+    "id": "eur1_059",
+    "gebiet": "Europarecht I",
+    "thema": "",
+    "typ": "multiple",
+    "quelle": {
+      "datei": "EUR I Komplett.pdf",
+      "seite_start": 14,
+      "seite_ende": 14
+    },
+    "frage": "Welche Ausprägungen demokratischer und rechtsstaatlicher Grundsätze werden in den Verträgen verwirklicht?",
+    "antworten": [
+      {
+        "id": "A",
+        "text": "Die Arbeitsweise der Europäischen Union unterliegt dem Grundsatz der Gewaltenteilung. Demnach agieren Legislative, Exekutive und Judikative strikt voneinander getrennt.",
+        "pages": [
+          14,
+          14
+        ],
+        "richtig": false
+      },
+      {
+        "id": "B",
+        "text": "In der Europäischen Union gilt der Grundsatz der Gleichheit der Wahl, wodurch die Stimmen der Unionsbürger in allen Mitgliedstaaten das gleiche Stimmgewicht haben.",
+        "pages": [
+          14,
+          14
+        ],
+        "richtig": false
+      },
+      {
+        "id": "C",
+        "text": "Die Arbeitsweise der Union beruht auf dem Konzept der repräsentativen Demokratie, in welchem die Repräsentanten Entscheidungen im Namen der Unionsbürger treffen.",
+        "pages": [
+          14,
+          14
+        ],
+        "richtig": true
+      },
+      {
+        "id": "D",
+        "text": "Die Europäische Union fördert die direkte Beteiligung der Bürger am politischen Prozess. Demnach können Unionsbürger beispielsweise im Wege einer Petition oder einer Bürgerinitiative Einfluss auf den Gesetzgebungsprozess der Europäischen Union nehmen.",
+        "pages": [
+          14,
+          14,
+          14
+        ],
+        "richtig": true
+      },
+      {
+        "id": "E",
+        "text": "Die Arbeitsweise der Europäischen Union beruht auf dem Einstimmigkeitsprinzip, weshalb Entscheidungen der Legislative in besonderem Maße legitimiert sind.",
+        "pages": [
+          14,
+          14
+        ],
+        "richtig": false
+      }
+    ],
+    "activeRecall": {
+      "frage": "Beantworte ohne Antwortoptionen: Welche Ausprägungen demokratischer und rechtsstaatlicher Grundsätze werden in den Verträgen verwirklicht?",
+      "musterantwort": "C: Die Arbeitsweise der Union beruht auf dem Konzept der repräsentativen Demokratie, in welchem die Repräsentanten Entscheidungen im Namen der Unionsbürger treffen.; D: Die Europäische Union fördert die direkte Beteiligung der Bürger am politischen Prozess. Demnach können Unionsbürger beispielsweise im Wege einer Petition oder einer Bürgerinitiative Einfluss auf den Gesetzgebungsprozess der Europäischen Union nehmen."
+    },
+    "review": {
+      "status": "auto_extracted_full",
+      "hinweis": "Richtige Lösungen wurden aus Unterstreichungen abgeleitet; bitte stichprobenartig gegen PDF gegenprüfen."
+    }
+  },
+  {
+    "id": "eur1_060",
+    "gebiet": "Europarecht I",
+    "thema": "",
+    "typ": "single",
+    "quelle": {
+      "datei": "EUR I Komplett.pdf",
+      "seite_start": 14,
+      "seite_ende": 14
+    },
+    "frage": "Der Staat H ist seit 20 Jahren Mitgliedstaat der Europäischen Union, wird jedoch rechtsstaatlichen Grundsätzen nicht mehr gerecht. Unter anderem versucht H in schwerwiegender Weise, die Pressefreiheit und die Unabhängigkeit der Justiz im Inland zunehmend auszuhöhlen. Welche Maßnahmen sind in Übereinstimmung mit den Verträgen gegen den Abbau der Rechtsstaatlichkeit in H zulässig?",
+    "antworten": [
+      {
+        "id": "A",
+        "text": "Natürliche Personen können gemäß Art. 268 i.V.m. Art. 340 Abs. 2 AEUV Amtshaftungsklage gegen H beim Europäischen Gerichtshof erheben.",
+        "pages": [
+          14,
+          14
+        ],
+        "richtig": false
+      },
+      {
+        "id": "B",
+        "text": "Der Europarat kann eine Untätigkeitsklage gemäß Art. 265 AEUV gegen die Kommission erheben, falls die Kommission den Verstößen des Mitgliedstaates H gegen Art. 2 EUV nicht nachgeht.",
+        "pages": [
+          14,
+          14
+        ],
+        "richtig": false
+      },
+      {
+        "id": "C",
+        "text": "Die Kommission kann gegenüber H Empfehlungen abgeben, die Rechtsstaatsdefizite bis zu einem bestimmten Zeitpunkt zu beseitigen. Die Verträge sehen dabei vor, Vertragsverletzungen in erster Linie kooperativ zu beseitigen.",
+        "pages": [
+          14,
+          14,
+          14
+        ],
+        "richtig": true
+      },
+      {
+        "id": "D",
+        "text": "Alle anderen Mitgliedstaaten können einstimmig den Ausschluss des Mitgliedstaates H aus der Europäischen Union beschließen, sofern H trotz mehrfacher Vertragsverletzungsverfahren die Werte der Europäischen Union gemäß Art. 2 EUV weiterhin missachtet.",
+        "pages": [
+          14,
+          14,
+          14
+        ],
+        "richtig": false
+      },
+      {
+        "id": "E",
+        "text": "Die Europäische Kommission kann ein sogenanntes „Art. 7-Verfahren“ einleiten, welches auch die Möglichkeit beinhaltet, dem Mitgliedstaat H Stimmrechte in der Europäischen Union zu entziehen.",
+        "pages": [
+          14,
+          14
+        ],
+        "richtig": false
+      }
+    ],
+    "activeRecall": {
+      "frage": "Beantworte ohne Antwortoptionen: Der Staat H ist seit 20 Jahren Mitgliedstaat der Europäischen Union, wird jedoch rechtsstaatlichen Grundsätzen nicht mehr gerecht. Unter anderem versucht H in schwerwiegender Weise, die Pressefreiheit und die Unabhängigkeit der Justiz im Inland zunehmend auszuhöhlen. Welche Maßnahmen sind in Übereinstimmung mit den Verträgen gegen den Abbau der Rechtsstaatlichkeit in H zulässig?",
+      "musterantwort": "C: Die Kommission kann gegenüber H Empfehlungen abgeben, die Rechtsstaatsdefizite bis zu einem bestimmten Zeitpunkt zu beseitigen. Die Verträge sehen dabei vor, Vertragsverletzungen in erster Linie kooperativ zu beseitigen."
+    },
+    "review": {
+      "status": "auto_extracted_full",
+      "hinweis": "Richtige Lösungen wurden aus Unterstreichungen abgeleitet; bitte stichprobenartig gegen PDF gegenprüfen."
+    }
+  },
+  {
+    "id": "eur1_061",
+    "gebiet": "Europarecht I",
+    "thema": "",
+    "typ": "multiple",
+    "quelle": {
+      "datei": "EUR I Komplett.pdf",
+      "seite_start": 14,
+      "seite_ende": 15
+    },
+    "frage": "Welche Aussage(n) trifft/treffen auf die Zuständigkeit der Europäischen Union im Bereich der gemeinsamen Handelspolitik zu?",
+    "antworten": [
+      {
+        "id": "A",
+        "text": "Auf dem Gebiet der gemeinsamen Handelspolitik haben die Europäische Union und die Mitgliedstaaten eine geteilte Zuständigkeit.",
+        "pages": [
+          14,
+          15
+        ],
+        "richtig": false
+      },
+      {
+        "id": "B",
+        "text": "Das unionsrechtliche Subsidiaritätsprinzip findet keine Anwendung auf den Bereich der gemeinsamen Handelspolitik.",
+        "pages": [
+          15,
+          15
+        ],
+        "richtig": true
+      },
+      {
+        "id": "C",
+        "text": "Die primäre Zuständigkeit für die gemeinsame Handelspolitik liegt bei den Mitgliedstaaten. Die Europäische Union wird also nur gesetzgeberisch tätig, falls eine Maßnahme auf Ebene der Mitgliedstaaten keine Wirksamkeit verspricht.",
+        "pages": [
+          15,
+          15,
+          15
+        ],
+        "richtig": false
+      },
+      {
+        "id": "D",
+        "text": "Für die gemeinsame Handelspolitik ist die Europäische Union ausschließlich zuständig.",
+        "pages": [
+          15
+        ],
+        "richtig": true
+      },
+      {
+        "id": "E",
+        "text": "Mitgliedstaaten dürfen im Bereich der gemeinsamen Handelspolitik nur gesetzgeberisch tätig",
+        "pages": [
+          15
+        ],
+        "richtig": false
+      }
+    ],
+    "activeRecall": {
+      "frage": "Beantworte ohne Antwortoptionen: Welche Aussage(n) trifft/treffen auf die Zuständigkeit der Europäischen Union im Bereich der gemeinsamen Handelspolitik zu?",
+      "musterantwort": "B: Das unionsrechtliche Subsidiaritätsprinzip findet keine Anwendung auf den Bereich der gemeinsamen Handelspolitik.; D: Für die gemeinsame Handelspolitik ist die Europäische Union ausschließlich zuständig."
+    },
+    "review": {
+      "status": "auto_extracted_full",
+      "hinweis": "Richtige Lösungen wurden aus Unterstreichungen abgeleitet; bitte stichprobenartig gegen PDF gegenprüfen."
+    }
+  },
+  {
+    "id": "eur1_062",
+    "gebiet": "Europarecht I",
+    "thema": "",
+    "typ": "single",
+    "quelle": {
+      "datei": "EUR I Komplett.pdf",
+      "seite_start": 15,
+      "seite_ende": 15
+    },
+    "frage": "werden, sofern und soweit die Europäische Union ihre Rechte nicht ausgeübt hat oder ausdrücklich entschieden hat, nicht tätig zu werden. Die Europäische Union möchte ein Abkommen mit der internationalen Organisation „MERCOSUR“ schließen, welches unter anderem den Abbau von Zöllen, den Zugang europäischer Unternehmen zu öffentlichen Ausschreibungen in Südamerika sowie den Schutz geistigen Eigentums zum Gegenstand haben soll. Zudem soll ein eigener Streitschlichtungsmechanismus integriert werden, nach welchem Investoren die Schutzrechte des Abkommens vor einem eigenen eingerichteten Schiedsgericht einklagen können. Nach langjähriger Debatte zwischen der Europäischen Union und ihren Mitgliedstaaten stellt der Europäische Gerichtshof in einem Gutachten fest, dass es sich um ein sogenanntes gemischtes Abkommen handelt. Aus diesem Grund tritt das Abkommen am 21.09.2023 mit Zustimmung des Europäischen Parlaments zunächst einmal nur vorläufig in Kraft. Welche Aussage(n) trifft/treffen auf den Vertragsschluss im vorliegenden Fall zu?",
+    "antworten": [
+      {
+        "id": "A",
+        "text": "Alle Regelungen des Abkommens sind am 21.09.2023 wirksam in Kraft getreten.",
+        "pages": [
+          15
+        ],
+        "richtig": false
+      },
+      {
+        "id": "B",
+        "text": "Alle Regelungen des Abkommens, die in den Kompetenzbereich der gemeinsamen Handelspolitik fallen, sind wirksam in Kraft getreten.",
+        "pages": [
+          15,
+          15
+        ],
+        "richtig": true
+      },
+      {
+        "id": "C",
+        "text": "Über den Vertragsschluss beschließt der Europäische Rat mit qualifizierter Mehrheit.",
+        "pages": [
+          15
+        ],
+        "richtig": false
+      },
+      {
+        "id": "D",
+        "text": "Über den Vertragsschluss beschließt der Europäische Rat einstimmig.",
+        "pages": [
+          15
+        ],
+        "richtig": false
+      },
+      {
+        "id": "E",
+        "text": "Ein vorläufiges Inkrafttreten bedeutet, dass sich die Europäische Union zum endgültigen Vertragsschluss verpflichtet, die Regelungen des Abkommens jedoch noch keine Anwendung finden.",
+        "pages": [
+          15,
+          15
+        ],
+        "richtig": false
+      }
+    ],
+    "activeRecall": {
+      "frage": "Beantworte ohne Antwortoptionen: werden, sofern und soweit die Europäische Union ihre Rechte nicht ausgeübt hat oder ausdrücklich entschieden hat, nicht tätig zu werden. Die Europäische Union möchte ein Abkommen mit der internationalen Organisation „MERCOSUR“ schließen, welches unter anderem den Abbau von Zöllen, den Zugang europäischer Unternehmen zu öffentlichen Ausschreibungen in Südamerika sowie den Schutz geistigen Eigentums zum Gegenstand haben soll. Zudem soll ein eigener Streitschlichtungsmechanismus integriert werden, nach welchem Investoren die Schutzrechte des Abkommens vor einem eigenen eingerichteten Schiedsgericht einklagen können. Nach langjähriger Debatte zwischen der Europäischen Union und ihren Mitgliedstaaten stellt der Europäische Gerichtshof in einem Gutachten fest, dass es sich um ein sogenanntes gemischtes Abkommen handelt. Aus diesem Grund tritt das Abkommen am 21.09.2023 mit Zustimmung des Europäischen Parlaments zunächst einmal nur vorläufig in Kraft. Welche Aussage(n) trifft/treffen auf den Vertragsschluss im vorliegenden Fall zu?",
+      "musterantwort": "B: Alle Regelungen des Abkommens, die in den Kompetenzbereich der gemeinsamen Handelspolitik fallen, sind wirksam in Kraft getreten."
+    },
+    "review": {
+      "status": "auto_extracted_full",
+      "hinweis": "Richtige Lösungen wurden aus Unterstreichungen abgeleitet; bitte stichprobenartig gegen PDF gegenprüfen."
+    }
+  },
+  {
+    "id": "eur1_063",
+    "gebiet": "Europarecht I",
+    "thema": "",
+    "typ": "multiple",
+    "quelle": {
+      "datei": "EUR I Komplett.pdf",
+      "seite_start": 15,
+      "seite_ende": 15
+    },
+    "frage": "Welche Rolle spielen die nationalen Parlamente bei der Rechtsetzung der Europäischen Union?",
+    "antworten": [
+      {
+        "id": "A",
+        "text": "Die Verträge gewähren den nationalen Parlamenten ein Initiativrecht für Rechtsakte, nach welchem die Parlamente Rechtsaktenentwürfe direkt in das Europäische Parlament einbringen können.",
+        "pages": [
+          15,
+          15
+        ],
+        "richtig": false
+      },
+      {
+        "id": "B",
+        "text": "Die nationalen Parlamente haben eine Weisungsbefugnis gegenüber der Europäischen Kommission.",
+        "pages": [
+          15,
+          15
+        ],
+        "richtig": false
+      },
+      {
+        "id": "C",
+        "text": "Die nationalen Parlamente prüfen Gesetzgebungsakte unter dem Aspekt des unionsrechtlichen Subsidiaritätsprinzips, bevor zu diesem Entwurf auf Unionsebene ein Beschluss gefasst werden kann.",
+        "pages": [
+          15,
+          15
+        ],
+        "richtig": true
+      },
+      {
+        "id": "D",
+        "text": "Die nationalen Parlamente bilden den Vermittlungsausschuss, der bei Bedarf auf eine Einigung zwischen dem Europäischen Parlament und dem Rat über vorgeschlagene Rechtsakte hinwirkt.",
+        "pages": [
+          15,
+          15
+        ],
+        "richtig": false
+      },
+      {
+        "id": "E",
+        "text": "Das Europäische Parlament und die nationalen Parlamente legen gemeinsam fest, wie eine effiziente und regelmäßige Zusammenarbeit zwischen den Parlamenten innerhalb der Union gestaltet und gefördert werden kann.",
+        "pages": [
+          15,
+          15,
+          15
+        ],
+        "richtig": true
+      }
+    ],
+    "activeRecall": {
+      "frage": "Beantworte ohne Antwortoptionen: Welche Rolle spielen die nationalen Parlamente bei der Rechtsetzung der Europäischen Union?",
+      "musterantwort": "C: Die nationalen Parlamente prüfen Gesetzgebungsakte unter dem Aspekt des unionsrechtlichen Subsidiaritätsprinzips, bevor zu diesem Entwurf auf Unionsebene ein Beschluss gefasst werden kann.; E: Das Europäische Parlament und die nationalen Parlamente legen gemeinsam fest, wie eine effiziente und regelmäßige Zusammenarbeit zwischen den Parlamenten innerhalb der Union gestaltet und gefördert werden kann."
+    },
+    "review": {
+      "status": "auto_extracted_full",
+      "hinweis": "Richtige Lösungen wurden aus Unterstreichungen abgeleitet; bitte stichprobenartig gegen PDF gegenprüfen."
+    }
+  },
+  {
+    "id": "eur1_064",
+    "gebiet": "Europarecht I",
+    "thema": "",
+    "typ": "multiple",
+    "quelle": {
+      "datei": "EUR I Komplett.pdf",
+      "seite_start": 15,
+      "seite_ende": 15
+    },
+    "frage": "Welche Rechtsfolge(n) tritt/treten ein, wenn die Kommission im Rahmen einer Aufsichtsklage kein ordnungsgemäßes Vorverfahren durchführt?",
+    "antworten": [
+      {
+        "id": "A",
+        "text": "keine, da reine Verfahrensfehler im Unionsrecht grundsätzlich unbeachtlich sind",
+        "pages": [
+          15
+        ],
+        "richtig": false
+      },
+      {
+        "id": "B",
+        "text": "keine, wenn sich der beklagte Mitgliedstaat auf Eigeninitiative umfassend zum mutmaßlichen Verstoß äußert und der Formmangel dadurch geheilt wird",
+        "pages": [
+          15,
+          15
+        ],
+        "richtig": false
+      },
+      {
+        "id": "C",
+        "text": "keine in den Fällen der Art. 114 Abs. 9 und Art. 348 Abs. 2 AEUV",
+        "pages": [
+          15
+        ],
+        "richtig": true
+      },
+      {
+        "id": "D",
+        "text": "Unzulässigkeit der Aufsichtsklage",
+        "pages": [
+          15
+        ],
+        "richtig": true
+      },
+      {
+        "id": "E",
+        "text": "Entstehung eines unionsrechtlichen Amtshaftungsanspruchs nach Art. 340 Abs. 2 AEUV.",
+        "pages": [
+          15
+        ],
+        "richtig": false
+      }
+    ],
+    "activeRecall": {
+      "frage": "Beantworte ohne Antwortoptionen: Welche Rechtsfolge(n) tritt/treten ein, wenn die Kommission im Rahmen einer Aufsichtsklage kein ordnungsgemäßes Vorverfahren durchführt?",
+      "musterantwort": "C: keine in den Fällen der Art. 114 Abs. 9 und Art. 348 Abs. 2 AEUV; D: Unzulässigkeit der Aufsichtsklage"
+    },
+    "review": {
+      "status": "auto_extracted_full",
+      "hinweis": "Richtige Lösungen wurden aus Unterstreichungen abgeleitet; bitte stichprobenartig gegen PDF gegenprüfen."
+    }
+  },
+  {
+    "id": "eur1_065",
+    "gebiet": "Europarecht I",
+    "thema": "",
+    "typ": "multiple",
+    "quelle": {
+      "datei": "EUR I Komplett.pdf",
+      "seite_start": 15,
+      "seite_ende": 16
+    },
+    "frage": "Welche Rechtsquelle(n) ist/sind dem Primärrecht der Europäischen Union zuzuordnen?",
+    "antworten": [
+      {
+        "id": "A",
+        "text": "die Geschäftsordnungen der Organe der Europäischen Union",
+        "pages": [
+          15
+        ],
+        "richtig": false
+      },
+      {
+        "id": "B",
+        "text": "die Charta der Grundrechte der Europäischen Union",
+        "pages": [
+          16
+        ],
+        "richtig": true
+      },
+      {
+        "id": "C",
+        "text": "die Urteile des EuGH",
+        "pages": [
+          16
+        ],
+        "richtig": false
+      },
+      {
+        "id": "D",
+        "text": "völkerrechtliche Verträge der Europäischen Union mit Drittstaaten",
+        "pages": [
+          16
+        ],
+        "richtig": false
+      },
+      {
+        "id": "E",
+        "text": "die Beitrittsabkommen mit neuen Mitgliedstaaten",
+        "pages": [
+          16
+        ],
+        "richtig": true
+      }
+    ],
+    "activeRecall": {
+      "frage": "Beantworte ohne Antwortoptionen: Welche Rechtsquelle(n) ist/sind dem Primärrecht der Europäischen Union zuzuordnen?",
+      "musterantwort": "B: die Charta der Grundrechte der Europäischen Union; E: die Beitrittsabkommen mit neuen Mitgliedstaaten"
+    },
+    "review": {
+      "status": "auto_extracted_full",
+      "hinweis": "Richtige Lösungen wurden aus Unterstreichungen abgeleitet; bitte stichprobenartig gegen PDF gegenprüfen."
+    }
+  },
+  {
+    "id": "eur1_066",
+    "gebiet": "Europarecht I",
+    "thema": "",
+    "typ": "multiple",
+    "quelle": {
+      "datei": "EUR I Komplett.pdf",
+      "seite_start": 16,
+      "seite_ende": 16
+    },
+    "frage": "Welche(s) Unionsorgan(e) ist/sind am Rechtsetzungsverfahren beteiligt?",
+    "antworten": [
+      {
+        "id": "A",
+        "text": "der Europarat",
+        "pages": [
+          16
+        ],
+        "richtig": false
+      },
+      {
+        "id": "B",
+        "text": "das Europäische Parlament",
+        "pages": [
+          16
+        ],
+        "richtig": true
+      },
+      {
+        "id": "C",
+        "text": "der Rat der Europäischen Union",
+        "pages": [
+          16
+        ],
+        "richtig": true
+      },
+      {
+        "id": "D",
+        "text": "die Kommission",
+        "pages": [
+          16
+        ],
+        "richtig": true
+      },
+      {
+        "id": "E",
+        "text": "der Europäische Rat",
+        "pages": [
+          16
+        ],
+        "richtig": false
+      }
+    ],
+    "activeRecall": {
+      "frage": "Beantworte ohne Antwortoptionen: Welche(s) Unionsorgan(e) ist/sind am Rechtsetzungsverfahren beteiligt?",
+      "musterantwort": "B: das Europäische Parlament; C: der Rat der Europäischen Union; D: die Kommission"
+    },
+    "review": {
+      "status": "auto_extracted_full",
+      "hinweis": "Richtige Lösungen wurden aus Unterstreichungen abgeleitet; bitte stichprobenartig gegen PDF gegenprüfen."
+    }
+  },
+  {
+    "id": "eur1_067",
+    "gebiet": "Europarecht I",
+    "thema": "",
+    "typ": "multiple",
+    "quelle": {
+      "datei": "EUR I Komplett.pdf",
+      "seite_start": 16,
+      "seite_ende": 16
+    },
+    "frage": "Welche Aussage(n) trifft/treffen auf das Europäische Parlament zu?",
+    "antworten": [
+      {
+        "id": "A",
+        "text": "Das Europäische Parlament hat zuzüglich des Präsidenten des Parlaments maximal 750 Mitglieder.",
+        "pages": [
+          16,
+          16
+        ],
+        "richtig": true
+      },
+      {
+        "id": "B",
+        "text": "Das Europäische Parlament wird gemeinsam mit dem Europäischen Rat als Gesetzgeber tätig.",
+        "pages": [
+          16
+        ],
+        "richtig": false
+      },
+      {
+        "id": "C",
+        "text": "Das Europäische Parlament kann die Kommission auffordern, einen Legislativvorschlag vorzulegen.",
+        "pages": [
+          16,
+          16
+        ],
+        "richtig": true
+      },
+      {
+        "id": "D",
+        "text": "Mitglieder des Europäischen Parlaments werden für eine Amtszeit von 5 Jahren gewählt.",
+        "pages": [
+          16
+        ],
+        "richtig": true
+      },
+      {
+        "id": "E",
+        "text": "Das Europäische Parlament wählt den Kommissionspräsidenten.",
+        "pages": [
+          16
+        ],
+        "richtig": true
+      }
+    ],
+    "activeRecall": {
+      "frage": "Beantworte ohne Antwortoptionen: Welche Aussage(n) trifft/treffen auf das Europäische Parlament zu?",
+      "musterantwort": "A: Das Europäische Parlament hat zuzüglich des Präsidenten des Parlaments maximal 750 Mitglieder.; C: Das Europäische Parlament kann die Kommission auffordern, einen Legislativvorschlag vorzulegen.; D: Mitglieder des Europäischen Parlaments werden für eine Amtszeit von 5 Jahren gewählt.; E: Das Europäische Parlament wählt den Kommissionspräsidenten."
+    },
+    "review": {
+      "status": "auto_extracted_full",
+      "hinweis": "Richtige Lösungen wurden aus Unterstreichungen abgeleitet; bitte stichprobenartig gegen PDF gegenprüfen."
+    }
+  },
+  {
+    "id": "eur1_068",
+    "gebiet": "Europarecht I",
+    "thema": "",
+    "typ": "multiple",
+    "quelle": {
+      "datei": "EUR I Komplett.pdf",
+      "seite_start": 16,
+      "seite_ende": 16
+    },
+    "frage": "Die Europäische Union möchte einen Rechtsakt erlassen. Welche(n) Grundsatz/Grundsätze müssen die Legislativorgane bei der Wahl der Handlungsform (Verordnung oder Richtlinie) berücksichtigen?",
+    "antworten": [
+      {
+        "id": "A",
+        "text": "Schreiben die Verträge eine bestimmte Rechtsaktform, beispielsweise den Erlass einer Richtlinie, vor, darf das ermächtigte Organ wegen des Prinzips der begrenzten Einzelermächtigung keine andere Rechtsaktform wählen.",
+        "pages": [
+          16,
+          16,
+          16
+        ],
+        "richtig": true
+      },
+      {
+        "id": "B",
+        "text": "Nach Maßgabe des Effet utile-Grundsatzes müssen die Rechtssetzungsorgane immer die Handlungsform wählen, die in dem zugeschriebenen Kompetenzbereich die effektivste ist.",
+        "pages": [
+          16,
+          16
+        ],
+        "richtig": false
+      },
+      {
+        "id": "C",
+        "text": "Die Wahl der Handlungsform richtet sich nach dem Verhältnismäßigkeitsgrundsatz, es sei denn, die Art des zu erlassenden Rechtsaktes wird durch die Verträge explizit vorgegeben.",
+        "pages": [
+          16,
+          16
+        ],
+        "richtig": true
+      },
+      {
+        "id": "D",
+        "text": "Die Art des zu erlassenden Rechtsaktes muss immer konkret durch die Verträge vorgegeben sein. Demnach haben die Rechtssetzungsorgane in keinem Fall eigene Wahlmöglichkeit (Prinzip der begrenzten Einzelermächtigung).",
+        "pages": [
+          16,
+          16,
+          16
+        ],
+        "richtig": false
+      },
+      {
+        "id": "E",
+        "text": "Die Rechtssetzungsorgane der Union sind durch den Grundsatz der Supranationalität mit einem uneingeschränkten Formwahlermessen ausgestattet und können daher immer frei entscheiden, ob sie eine Richtlinie oder eine Verordnung erlassen möchten.",
+        "pages": [
+          16,
+          16,
+          16
+        ],
+        "richtig": false
+      }
+    ],
+    "activeRecall": {
+      "frage": "Beantworte ohne Antwortoptionen: Die Europäische Union möchte einen Rechtsakt erlassen. Welche(n) Grundsatz/Grundsätze müssen die Legislativorgane bei der Wahl der Handlungsform (Verordnung oder Richtlinie) berücksichtigen?",
+      "musterantwort": "A: Schreiben die Verträge eine bestimmte Rechtsaktform, beispielsweise den Erlass einer Richtlinie, vor, darf das ermächtigte Organ wegen des Prinzips der begrenzten Einzelermächtigung keine andere Rechtsaktform wählen.; C: Die Wahl der Handlungsform richtet sich nach dem Verhältnismäßigkeitsgrundsatz, es sei denn, die Art des zu erlassenden Rechtsaktes wird durch die Verträge explizit vorgegeben."
+    },
+    "review": {
+      "status": "auto_extracted_full",
+      "hinweis": "Richtige Lösungen wurden aus Unterstreichungen abgeleitet; bitte stichprobenartig gegen PDF gegenprüfen."
+    }
+  },
+  {
+    "id": "eur1_069",
+    "gebiet": "Europarecht I",
+    "thema": "",
+    "typ": "single",
+    "quelle": {
+      "datei": "EUR I Komplett.pdf",
+      "seite_start": 16,
+      "seite_ende": 16
+    },
+    "frage": "Das ERASMUS+ Programm der Europäischen Union gewährt Studierenden der Mitgliedstaaten eine finanzielle Förderung für ein oder mehrere Auslandssemester. Voraussetzung für eine Förderung ist, dass mindestens 15 ECTS pro Semester im Ausland erworben werden. Die Kompetenz über die Anerkennung der im Ausland erworbenen ECTS obliegt jedoch den Mitgliedstaaten. Im Rahmen welcher Zuständigkeit(en), welche die Verträge ihr ausdrücklich zuschreiben, wird die Europäische Union hierbei tätig?",
+    "antworten": [
+      {
+        "id": "A",
+        "text": "unterstützende Zuständigkeit im Bereich Bildung",
+        "pages": [
+          16
+        ],
+        "richtig": true
+      },
+      {
+        "id": "B",
+        "text": "ergänzende Zuständigkeit im Bereich Mobilität",
+        "pages": [
+          16
+        ],
+        "richtig": false
+      },
+      {
+        "id": "C",
+        "text": "geteilte Zuständigkeit im Bereich wirtschaftlicher, sozialer und territorialer Zusammenarbeit",
+        "pages": [
+          16
+        ],
+        "richtig": false
+      },
+      {
+        "id": "D",
+        "text": "geteilte Zuständigkeit im Bereich Verwaltungszusammenarbeit",
+        "pages": [
+          16
+        ],
+        "richtig": false
+      },
+      {
+        "id": "E",
+        "text": "koordinierende Zuständigkeit im Bereich des Binnenmarkts",
+        "pages": [
+          16
+        ],
+        "richtig": false
+      }
+    ],
+    "activeRecall": {
+      "frage": "Beantworte ohne Antwortoptionen: Das ERASMUS+ Programm der Europäischen Union gewährt Studierenden der Mitgliedstaaten eine finanzielle Förderung für ein oder mehrere Auslandssemester. Voraussetzung für eine Förderung ist, dass mindestens 15 ECTS pro Semester im Ausland erworben werden. Die Kompetenz über die Anerkennung der im Ausland erworbenen ECTS obliegt jedoch den Mitgliedstaaten. Im Rahmen welcher Zuständigkeit(en), welche die Verträge ihr ausdrücklich zuschreiben, wird die Europäische Union hierbei tätig?",
+      "musterantwort": "A: unterstützende Zuständigkeit im Bereich Bildung"
+    },
+    "review": {
+      "status": "auto_extracted_full",
+      "hinweis": "Richtige Lösungen wurden aus Unterstreichungen abgeleitet; bitte stichprobenartig gegen PDF gegenprüfen."
+    }
+  },
+  {
+    "id": "eur1_070",
+    "gebiet": "Europarecht I",
+    "thema": "",
+    "typ": "single",
+    "quelle": {
+      "datei": "EUR I Komplett.pdf",
+      "seite_start": 16,
+      "seite_ende": 17
+    },
+    "frage": "Was bedeutet der Begriff „institutionelles Gleichgewicht“?",
+    "antworten": [
+      {
+        "id": "A",
+        "text": "Der EuGH versteht unter dem institutionellen Gleichgewicht, dass die Organe der Europäischen Union Entscheidungsbefugnisse anderer Organe erweitern und schmälern können, sich dabei jedoch gegenseitig kontrollieren.",
+        "pages": [
+          16,
+          16,
+          16
+        ],
+        "richtig": false
+      },
+      {
+        "id": "B",
+        "text": "Der Grundsatz des institutionellen Gleichgewichts bedeutet, dass jedes Unionsorgan innerhalb der ihm durch die Verträge zugewiesenen Zuständigkeiten handelt und die Befugnisse der anderen Organe dabei nicht beschneidet darf.",
+        "pages": [
+          17,
+          17,
+          17
+        ],
+        "richtig": true
+      },
+      {
+        "id": "C",
+        "text": "Der Grundsatz des institutionellen Gleichgewichts steht für die strenge Gewaltenteilung der Legislativ-, Judikativ- und Exekutivorgane der Europäischen Union.",
+        "pages": [
+          17,
+          17
+        ],
+        "richtig": false
+      },
+      {
+        "id": "D",
+        "text": "Das institutionelle Gleichgewicht bezieht sich auf die gleichberechtigte Machtverteilung zwischen den EU-Mitgliedstaaten und den europäischen Institutionen.",
+        "pages": [
+          17,
+          17
+        ],
+        "richtig": false
+      },
+      {
+        "id": "E",
+        "text": "Das Bundesverfassungsgericht hat den Begriff in seinem Lissabon-Urteil geprägt und meint damit, dass mitgliedstaatliche Institution gleichermassen, wie die Organe der Europäischen Union an der Fortentwicklung des Unionsrechts beteiligt sind.",
+        "pages": [
+          17,
+          17,
+          17
+        ],
+        "richtig": false
+      }
+    ],
+    "activeRecall": {
+      "frage": "Beantworte ohne Antwortoptionen: Was bedeutet der Begriff „institutionelles Gleichgewicht“?",
+      "musterantwort": "B: Der Grundsatz des institutionellen Gleichgewichts bedeutet, dass jedes Unionsorgan innerhalb der ihm durch die Verträge zugewiesenen Zuständigkeiten handelt und die Befugnisse der anderen Organe dabei nicht beschneidet darf."
+    },
+    "review": {
+      "status": "auto_extracted_full",
+      "hinweis": "Richtige Lösungen wurden aus Unterstreichungen abgeleitet; bitte stichprobenartig gegen PDF gegenprüfen."
+    }
+  },
+  {
+    "id": "eur1_071",
+    "gebiet": "Europarecht I",
+    "thema": "",
+    "typ": "multiple",
+    "quelle": {
+      "datei": "EUR I Komplett.pdf",
+      "seite_start": 17,
+      "seite_ende": 17
+    },
+    "frage": "Welche Aussage(n) trifft/treffen auf den Subsidiaritätsgrundsatz im unionsrechtlichen Kontext zu?",
+    "antworten": [
+      {
+        "id": "A",
+        "text": "Der Grundsatz der Subsidiarität beinhaltet ein Abwägungsgebot bei der Ausübung einer der EU zugewiesenen, nicht ausschließlichen Gesetzgebungszuständigkeit.",
+        "pages": [
+          17,
+          17
+        ],
+        "richtig": true
+      },
+      {
+        "id": "B",
+        "text": "Der indirekte Verwaltungsvollzug des Unionsrechts unterliegt dem Grundsatz der Subsidiarität.",
+        "pages": [
+          17
+        ],
+        "richtig": false
+      },
+      {
+        "id": "C",
+        "text": "Adressaten des Grundsatzes der Subsidiarität sind gemäß Art. 12 lit. b EUV nur die Mitgliedstaaten.",
+        "pages": [
+          17,
+          17
+        ],
+        "richtig": false
+      },
+      {
+        "id": "D",
+        "text": "Der Grundsatz der Subsidiarität kommt dann zur Anwendung, wenn eine primärrechtliche Vorschrift des Unionsrechts mit einer nationalen Norm kollidiert.",
+        "pages": [
+          17,
+          17
+        ],
+        "richtig": false
+      },
+      {
+        "id": "E",
+        "text": "Sinn und Zweck des Grundsatzes der Subsidiarität ist es, die Entscheidungs- und Handlungsfähigkeit der Mitgliedstaaten zu schützen.",
+        "pages": [
+          17,
+          17
+        ],
+        "richtig": true
+      }
+    ],
+    "activeRecall": {
+      "frage": "Beantworte ohne Antwortoptionen: Welche Aussage(n) trifft/treffen auf den Subsidiaritätsgrundsatz im unionsrechtlichen Kontext zu?",
+      "musterantwort": "A: Der Grundsatz der Subsidiarität beinhaltet ein Abwägungsgebot bei der Ausübung einer der EU zugewiesenen, nicht ausschließlichen Gesetzgebungszuständigkeit.; E: Sinn und Zweck des Grundsatzes der Subsidiarität ist es, die Entscheidungs- und Handlungsfähigkeit der Mitgliedstaaten zu schützen."
+    },
+    "review": {
+      "status": "auto_extracted_full",
+      "hinweis": "Richtige Lösungen wurden aus Unterstreichungen abgeleitet; bitte stichprobenartig gegen PDF gegenprüfen."
+    }
+  },
+  {
+    "id": "eur1_072",
+    "gebiet": "Europarecht I",
+    "thema": "",
+    "typ": "multiple",
+    "quelle": {
+      "datei": "EUR I Komplett.pdf",
+      "seite_start": 17,
+      "seite_ende": 17
+    },
+    "frage": "Welche Aussage(n) trifft/treffen auf die Wirkung von Richtlinien der Europäischen Union zu?",
+    "antworten": [
+      {
+        "id": "A",
+        "text": "Eine Richtlinie kann nach der Rechtsprechung des EuGH horizontale unmittelbare Wirkung entfalten, wenn ein Mitgliedstaat die Richtlinie fehlerhaft oder gar nicht umsetzt, die Umsetzungsfrist abgelaufen ist und die Richtlinie justiziell bestimmt ist.",
+        "pages": [
+          17,
+          17,
+          17
+        ],
+        "richtig": false
+      },
+      {
+        "id": "B",
+        "text": "Eine Richtlinie kann vertikale unmittelbare Wirkung entfalten, wenn ein Mitgliedstaat die Richtlinie fehlerhaft oder gar nicht umsetzt, die Umsetzungsfrist abgelaufen ist, die Richtlinie subjektiv-öffentliche Rechte gewährt und sie hinreichend bestimmt ist.",
+        "pages": [
+          17,
+          17,
+          17
+        ],
+        "richtig": true
+      },
+      {
+        "id": "C",
+        "text": "Eine Richtlinie kann auch wirksam durch eine gefestigte, richtlinienkonforme Verwaltungspraxis innerhalb eines Mitgliedstaates umgesetzt werden.",
+        "pages": [
+          17,
+          17
+        ],
+        "richtig": false
+      },
+      {
+        "id": "D",
+        "text": "Eine Richtlinie entfaltet immer erst dann rechtliche Wirkung, wenn die Umsetzungsfrist abgelaufen ist.",
+        "pages": [
+          17,
+          17
+        ],
+        "richtig": false
+      },
+      {
+        "id": "E",
+        "text": "Die innerstaatliche Umsetzung einer Richtlinie muss zwingend durch verbindliche Rechtsvorschriften erfolgen.",
+        "pages": [
+          17,
+          17
+        ],
+        "richtig": true
+      }
+    ],
+    "activeRecall": {
+      "frage": "Beantworte ohne Antwortoptionen: Welche Aussage(n) trifft/treffen auf die Wirkung von Richtlinien der Europäischen Union zu?",
+      "musterantwort": "B: Eine Richtlinie kann vertikale unmittelbare Wirkung entfalten, wenn ein Mitgliedstaat die Richtlinie fehlerhaft oder gar nicht umsetzt, die Umsetzungsfrist abgelaufen ist, die Richtlinie subjektiv-öffentliche Rechte gewährt und sie hinreichend bestimmt ist.; E: Die innerstaatliche Umsetzung einer Richtlinie muss zwingend durch verbindliche Rechtsvorschriften erfolgen."
+    },
+    "review": {
+      "status": "auto_extracted_full",
+      "hinweis": "Richtige Lösungen wurden aus Unterstreichungen abgeleitet; bitte stichprobenartig gegen PDF gegenprüfen."
+    }
+  },
+  {
+    "id": "eur1_073",
+    "gebiet": "Europarecht I",
+    "thema": "",
+    "typ": "multiple",
+    "quelle": {
+      "datei": "EUR I Komplett.pdf",
+      "seite_start": 17,
+      "seite_ende": 17
+    },
+    "frage": "Welche Aussage(n) ist/sind in Bezug auf die Kompetenzbestimmung des Art. 352 AEUV zutreffend?",
+    "antworten": [
+      {
+        "id": "A",
+        "text": "Art. 352 AEUV ist eine Kompetenzergänzungsbestimmung, welche der Union jedoch keine neuen Kompetenzen zuschreibt.",
+        "pages": [
+          17,
+          17
+        ],
+        "richtig": true
+      },
+      {
+        "id": "B",
+        "text": "Die Bestimmung verleiht der Union ausnahmsweise eine Kompetenz-Kompetenz.",
+        "pages": [
+          17
+        ],
+        "richtig": false
+      },
+      {
+        "id": "C",
+        "text": "Es handelt sich um eine Generalklausel, nach welcher Rechtsakte auch dann erlassen werden dürfen, wenn die Unionsverträge hierfür keine selbstständige und konkrete Ermächtigungsnorm enthalten, ein Tätigwerden der Union im Rahmen der in den Verträgen festgelegten Politikbereiche jedoch erforderlich erscheint, um eines der Ziele der Verträge zu verwirklichen.",
+        "pages": [
+          17,
+          17,
+          17,
+          17
+        ],
+        "richtig": true
+      },
+      {
+        "id": "D",
+        "text": "Art. 352 AEUV normiert die sog. implied powers-Doctrine.",
+        "pages": [
+          17
+        ],
+        "richtig": false
+      },
+      {
+        "id": "E",
+        "text": "Die Bestimmung ist nicht auf den Bereich der GASP anwendbar.",
+        "pages": [
+          17
+        ],
+        "richtig": true
+      }
+    ],
+    "activeRecall": {
+      "frage": "Beantworte ohne Antwortoptionen: Welche Aussage(n) ist/sind in Bezug auf die Kompetenzbestimmung des Art. 352 AEUV zutreffend?",
+      "musterantwort": "A: Art. 352 AEUV ist eine Kompetenzergänzungsbestimmung, welche der Union jedoch keine neuen Kompetenzen zuschreibt.; C: Es handelt sich um eine Generalklausel, nach welcher Rechtsakte auch dann erlassen werden dürfen, wenn die Unionsverträge hierfür keine selbstständige und konkrete Ermächtigungsnorm enthalten, ein Tätigwerden der Union im Rahmen der in den Verträgen festgelegten Politikbereiche jedoch erforderlich erscheint, um eines der Ziele der Verträge zu verwirklichen.; E: Die Bestimmung ist nicht auf den Bereich der GASP anwendbar."
+    },
+    "review": {
+      "status": "auto_extracted_full",
+      "hinweis": "Richtige Lösungen wurden aus Unterstreichungen abgeleitet; bitte stichprobenartig gegen PDF gegenprüfen."
+    }
+  },
+  {
+    "id": "eur1_074",
+    "gebiet": "Europarecht I",
+    "thema": "",
+    "typ": "multiple",
+    "quelle": {
+      "datei": "EUR I Komplett.pdf",
+      "seite_start": 17,
+      "seite_ende": 18
+    },
+    "frage": "Welche Aussage(n) trifft/treffen auf den Bereich der Gemeinsamen Außen- und Sicherheitspolitik (GASP) zu?",
+    "antworten": [
+      {
+        "id": "A",
+        "text": "Die GASP ist nicht supranational ausgestaltet.",
+        "pages": [
+          17
+        ],
+        "richtig": true
+      },
+      {
+        "id": "B",
+        "text": "Die GASP verfügt als eine der drei Säulen der Europäischen Union über eine eigenständige Rechtspersönlichkeit.",
+        "pages": [
+          17,
+          17
+        ],
+        "richtig": false
+      },
+      {
+        "id": "C",
+        "text": "Die GASP ist nicht in den Unionsverträgen geregelt.",
+        "pages": [
+          17
+        ],
+        "richtig": false
+      },
+      {
+        "id": "D",
+        "text": "Regelungen der GASP sind vom Anwendungsvorrang des Unionsrechts ausgenommen.",
+        "pages": [
+          18
+        ],
+        "richtig": true
+      },
+      {
+        "id": "E",
+        "text": "Die GASP unterliegt dem Einstimmigkeitsprinzip.",
+        "pages": [
+          18
+        ],
+        "richtig": true
+      }
+    ],
+    "activeRecall": {
+      "frage": "Beantworte ohne Antwortoptionen: Welche Aussage(n) trifft/treffen auf den Bereich der Gemeinsamen Außen- und Sicherheitspolitik (GASP) zu?",
+      "musterantwort": "A: Die GASP ist nicht supranational ausgestaltet.; D: Regelungen der GASP sind vom Anwendungsvorrang des Unionsrechts ausgenommen.; E: Die GASP unterliegt dem Einstimmigkeitsprinzip."
+    },
+    "review": {
+      "status": "auto_extracted_full",
+      "hinweis": "Richtige Lösungen wurden aus Unterstreichungen abgeleitet; bitte stichprobenartig gegen PDF gegenprüfen."
+    }
+  }
+]
